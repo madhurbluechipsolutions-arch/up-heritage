@@ -16,8 +16,8 @@ export default defineConfig({
         name: "Saathi — UP Heritage Companion",
         short_name: "Saathi",
         description: "Your heritage guide for Uttar Pradesh, in your language.",
-        theme_color: "#7a2e1c",
-        background_color: "#faf7f0",
+        theme_color: "#b04a23",
+        background_color: "#f6f2ea",
         display: "standalone",
         start_url: "/",
         icons: [

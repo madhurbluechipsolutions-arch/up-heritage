@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { Accessibility, Footprints, LocateFixed, Pause, Play, SkipBack, SkipForward, Square } from "lucide-react";
+import { Accessibility, ArrowUpRight, Check, Footprints, Headphones, LocateFixed, Pause, Play, SkipBack, SkipForward, Square } from "lucide-react";
 import MapView from "../components/MapView";
-import { Chip } from "../components/ui";
+import { Img, Segmented } from "../components/ui";
+import { photoOf } from "../lib/data";
 import { distance, walkMinutes, type LatLng } from "../lib/geo";
 import { t, tr } from "../lib/i18n";
 import { useSettings } from "../lib/settings";
@@ -118,78 +119,117 @@ export default function TourScreen({ bundle, onOpenPoi, gpsPos }: { bundle: City
   );
   const line = useMemo(() => route.map((p) => ({ lat: p.lat, lng: p.lng })), [route]);
 
+  const timeLabel = (m: number) =>
+    m < 60 ? `${m} ${t("min", lang)}` : m === 240 ? (lang === "hi" ? "आधा दिन" : "Half day") : `${m / 60} ${lang === "hi" ? "घंटा" : "h"}`;
+  const stopPhoto = stop ? photoOf(bundle, stop.id) : undefined;
+
   return (
-    <div className="flex h-full flex-col overflow-y-auto">
+    <div className="no-scrollbar h-full overflow-y-auto pb-nav">
       <div className="space-y-3 px-4 pt-4">
-        <h2 className="font-serif text-xl font-bold">{t("tourTitle", lang)}</h2>
-        <p className="label">{t("howMuchTime", lang)}</p>
-        <div className="flex flex-wrap gap-2">
-          {TIME_OPTIONS.map((m) => (
-            <Chip key={m} active={minutes === m} onClick={() => setMinutes(m)}>
-              {m < 60 ? `${m} ${t("min", lang)}` : m === 240 ? (lang === "hi" ? "आधा दिन" : "Half day") : `${m / 60} ${lang === "hi" ? "घंटा" : m === 60 ? "hour" : "hours"}`}
-            </Chip>
-          ))}
-        </div>
-        <label className="flex items-center gap-2">
-          <input type="checkbox" checked={accessible} onChange={(e) => setAccessible(e.target.checked)} className="size-5 accent-brand" />
-          <Accessibility size={18} /> {t("accessibleRoute", lang)}
+        <p className="eyebrow">{t("howMuchTime", lang)}</p>
+        <Segmented value={minutes} onChange={setMinutes} options={TIME_OPTIONS.map((m) => ({ value: m, label: timeLabel(m) }))} />
+        <label className="flex cursor-pointer items-center gap-3 rounded-2xl border border-line bg-surface px-4 py-3">
+          <Accessibility size={18} className="shrink-0 text-brand" />
+          <span className="flex-1 text-sm font-semibold leading-tight">{t("accessibleRoute", lang)}</span>
+          <span className="switch">
+            <input type="checkbox" className="sr-only" checked={accessible} onChange={(e) => setAccessible(e.target.checked)} />
+          </span>
         </label>
-        <p className="text-muted">
-          {route.length} {t("stops", lang)} · ~{totalMin} {t("min", lang)}
-        </p>
       </div>
 
-      <MapView center={bundle.info.center} zoom={bundle.info.zoom ?? 16} markers={markers} route={line} user={pos} onMarkerClick={(id) => go(route.findIndex((p) => p.id === id))} fit className="mt-3 h-64 w-full shrink-0" />
-
-      <div className="flex gap-2 px-4 pt-3">
-        <button className={simulating ? "btn-secondary flex-1" : "btn-primary flex-1"} onClick={() => { setUseGps(false); setSimulating((s) => !s); }}>
-          {simulating ? <Square size={18} /> : <Footprints size={18} />} {simulating ? t("stopSim", lang) : t("simulate", lang)}
-        </button>
-        <button className={"btn-secondary flex-1" + (useGps ? " ring-2 ring-brand" : "")} onClick={() => { setSimulating(false); setUseGps((g) => !g); }}>
-          <LocateFixed size={18} /> {t("useGps", lang)}
-        </button>
+      <div className="relative mx-4 mt-4 overflow-hidden rounded-[1.75rem] border border-line shadow-card">
+        <MapView center={bundle.info.center} zoom={bundle.info.zoom ?? 16} markers={markers} route={line} user={pos} onMarkerClick={(id) => go(route.findIndex((p) => p.id === id))} fit className="h-64 w-full" />
+        <span className="glass-surface absolute left-3 top-3 z-10 rounded-full px-3 py-1.5 text-xs font-semibold text-ink shadow-card">
+          {route.length} {t("stops", lang)} · ~{totalMin} {t("min", lang)}
+        </span>
+        <div className="absolute bottom-3 left-3 z-10 flex gap-2">
+          <button
+            className={"btn btn-sm shadow-card " + (simulating ? "btn-ink" : "glass-surface text-ink")}
+            onClick={() => {
+              setUseGps(false);
+              setSimulating((s) => !s);
+            }}
+          >
+            {simulating ? <Square size={14} fill="currentColor" /> : <Footprints size={16} />} {simulating ? t("stopSim", lang) : t("simulate", lang)}
+          </button>
+          <button
+            className={"btn btn-sm shadow-card " + (useGps ? "btn-ink" : "glass-surface text-ink")}
+            onClick={() => {
+              setSimulating(false);
+              setUseGps((g) => !g);
+            }}
+          >
+            <LocateFixed size={16} /> {t("useGps", lang)}
+          </button>
+        </div>
       </div>
 
       {stop && (
-        <div className="m-4 border-l-4 border-brand bg-card p-4">
-          <p className="label">
-            {current + 1} / {route.length} · {stop.tourMinutes} {t("min", lang)}
-          </p>
-          <button className="mt-1 text-left font-serif text-xl font-bold hover:underline" onClick={() => onOpenPoi(stop.id)}>
-            {tr(stop.name, L)}
-          </button>
-          <p className="mt-2 leading-relaxed">{tr(stop.summary, L)}</p>
-          {stop.accessibility && (
-            <p className="mt-2 flex gap-2 text-sm text-muted">
-              <Accessibility size={16} className="shrink-0" /> {tr(stop.accessibility, L)}
+        <div key={stop.id} className="relative mx-4 mt-4 overflow-hidden rounded-[1.75rem] text-white shadow-card animate-rise">
+          <Img photo={stopPhoto} alt={tr(stop.name, "en")} className="absolute inset-0" />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/60 to-black/20" />
+          <div className="relative p-5 pt-16">
+            <p className="flex items-center gap-2 text-xs font-bold uppercase tracking-[0.14em] text-white/75">
+              <span className={"size-2 rounded-full " + (playing ? "animate-pulse bg-[#5ee38a]" : "bg-white/60")} />
+              {t("nowPlaying", lang)} {current + 1} / {route.length} · {stop.tourMinutes} {t("min", lang)}
             </p>
-          )}
-          <p className="mt-2 text-sm text-muted">{t("arrivedAuto", lang)}</p>
-          <div className="mt-3 flex items-center gap-2">
-            <button className="btn-icon-lg bg-paper" onClick={() => go(current - 1)} disabled={current === 0} aria-label={t("prev", lang)}>
-              <SkipBack size={20} />
+            <button className="mt-1.5 flex items-start gap-2 text-left font-display text-[1.65rem] font-semibold leading-tight" onClick={() => onOpenPoi(stop.id)}>
+              {tr(stop.name, L)} <ArrowUpRight size={20} className="mt-1.5 shrink-0 opacity-70" />
             </button>
-            <button className="btn-primary flex-1" onClick={() => (playing ? stopSpeaking() : playStop(stop))}>
-              {playing ? <Pause size={18} /> : <Play size={18} />} {playing ? t("pause", lang) : t("play", lang)}
-            </button>
-            <button className="btn-icon-lg bg-paper" onClick={() => go(current + 1)} disabled={current >= route.length - 1} aria-label={t("next", lang)}>
-              <SkipForward size={20} />
-            </button>
+            <p className="mt-2 line-clamp-3 text-sm leading-relaxed text-white/85">{tr(stop.summary, L)}</p>
+            {stop.accessibility && (
+              <p className="mt-2 flex gap-2 text-xs text-white/70">
+                <Accessibility size={14} className="shrink-0" /> <span className="line-clamp-2">{tr(stop.accessibility, L)}</span>
+              </p>
+            )}
+            <div className="mt-5 flex items-center justify-center gap-5">
+              <button className="glass btn-icon size-12" onClick={() => go(current - 1)} disabled={current === 0} aria-label={t("prev", lang)}>
+                <SkipBack size={20} fill="currentColor" />
+              </button>
+              <button
+                className="grid size-16 place-items-center rounded-full bg-white text-black shadow-float transition active:scale-95"
+                onClick={() => (playing ? stopSpeaking() : playStop(stop))}
+                aria-label={playing ? t("pause", lang) : t("play", lang)}
+              >
+                {playing ? <Pause size={26} fill="currentColor" /> : <Play size={26} fill="currentColor" className="ml-1" />}
+              </button>
+              <button className="glass btn-icon size-12" onClick={() => go(current + 1)} disabled={current >= route.length - 1} aria-label={t("next", lang)}>
+                <SkipForward size={20} fill="currentColor" />
+              </button>
+            </div>
+            <p className="mt-4 flex items-center justify-center gap-1.5 text-center text-xs text-white/60">
+              <Headphones size={13} /> {t("arrivedAuto", lang)}
+            </p>
           </div>
         </div>
       )}
 
-      <ol className="space-y-1 px-4 pb-6">
-        {route.map((p, i) => (
-          <li key={p.id}>
-            <button className={"flex w-full items-center gap-3 border border-line px-3 py-2 text-left " + (i === current ? "bg-card" : "bg-paper")} onClick={() => go(i)}>
-              <span className="grid size-7 shrink-0 place-items-center bg-brand text-sm font-bold text-paper">{i + 1}</span>
-              <span className="flex-1">{tr(p.name, L)}</span>
-              <span className="text-sm text-muted">{p.tourMinutes}′</span>
-            </button>
-          </li>
-        ))}
-      </ol>
+      <section className="px-4 pt-7">
+        <p className="eyebrow mb-3">{t("yourRoute", lang)}</p>
+        <ol>
+          {route.map((p, i) => {
+            const on = i === current;
+            const done = played.current.has(p.id) && !on;
+            return (
+              <li key={p.id} className="relative pb-2 last:pb-0">
+                {i < route.length - 1 && <span className="absolute left-[1.35rem] top-11 h-[calc(100%-2rem)] w-0.5 bg-line" aria-hidden />}
+                <button
+                  className={"flex w-full items-center gap-3 rounded-2xl p-1.5 pr-3 text-left transition " + (on ? "bg-surface shadow-card" : "hover:bg-surface/60")}
+                  onClick={() => go(i)}
+                  aria-current={on ? "step" : undefined}
+                >
+                  <span className={"relative z-10 ml-1 grid size-7 shrink-0 place-items-center rounded-full text-xs font-bold " + (on ? "bg-brand text-on-brand" : done ? "bg-ok text-white" : "border-2 border-line bg-paper text-muted")}>
+                    {done ? <Check size={14} strokeWidth={3} /> : i + 1}
+                  </span>
+                  <Img photo={photoOf(bundle, p.id)} className="size-14 shrink-0 rounded-xl" />
+                  <span className={"min-w-0 flex-1 line-clamp-2 leading-snug " + (on ? "font-bold" : "font-semibold")}>{tr(p.name, L)}</span>
+                  <span className="shrink-0 rounded-full bg-sunk px-2 py-0.5 text-xs font-semibold text-muted">{p.tourMinutes}′</span>
+                </button>
+              </li>
+            );
+          })}
+        </ol>
+      </section>
     </div>
   );
 }

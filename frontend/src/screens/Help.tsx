@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { Accessibility, Banknote, Car, Droplets, Hospital, Info, Navigation, Phone, Share2, ShieldAlert, Siren, Toilet, Utensils } from "lucide-react";
+import { Accessibility, ArrowRight, Banknote, Car, Droplets, Hospital, Info, Navigation, Phone, Share2, ShieldAlert, Siren, Toilet, Utensils } from "lucide-react";
 import MapView from "../components/MapView";
 import { Chip } from "../components/ui";
 import { distance, formatDistance, mapsLink, walkMinutes, type LatLng } from "../lib/geo";
@@ -59,66 +59,84 @@ export default function HelpScreen({ bundle, userPos, initialType }: { bundle: C
   }
 
   return (
-    <div className="h-full space-y-4 overflow-y-auto px-4 py-4">
-      <a href="tel:112" className="btn-sos flex w-full flex-col py-5 text-xl">
-        <span className="flex items-center gap-2"><Siren size={28} /> {t("sos", lang)}</span>
-        <span className="text-sm font-normal opacity-90">{t("sosHint", lang)}</span>
+    <div className="no-scrollbar h-full space-y-6 overflow-y-auto px-4 pb-nav pt-4">
+      <a href="tel:112" className="relative flex items-center gap-4 overflow-hidden rounded-[1.75rem] bg-gradient-to-br from-[#ef4444] to-[#b91c1c] p-5 text-white no-underline shadow-[0_16px_36px_-14px_#dc2626] transition active:scale-[0.98]">
+        <span className="pointer-events-none absolute -right-10 -top-10 size-40 rounded-full bg-white/10" aria-hidden />
+        <span className="pointer-events-none absolute -bottom-16 right-10 size-32 rounded-full bg-white/10" aria-hidden />
+        <span className="relative grid size-16 shrink-0 place-items-center rounded-full bg-white text-[#dc2626] animate-ring">
+          <Siren size={30} />
+        </span>
+        <span className="relative min-w-0 flex-1">
+          <b className="block font-display text-2xl font-semibold leading-tight">{t("sos", lang)}</b>
+          <span className="text-sm text-white/85">{t("sosHint", lang)}</span>
+        </span>
+        <ArrowRight size={22} className="relative shrink-0" />
       </a>
 
-      <div className="grid grid-cols-2 gap-2">
-        {helplines.filter((h) => h.number !== "112").map((h) => (
-          <a key={h.id} href={`tel:${h.number}`} className="btn-secondary justify-start">
-            <Phone size={18} className="shrink-0 text-sos" />
-            <span className="text-left leading-tight">
-              <b className="block text-lg">{h.number}</b>
-              <span className="text-sm">{tr(h.name, L)}</span>
-            </span>
-          </a>
-        ))}
-        <button onClick={shareLocation} className="btn-secondary justify-start">
-          <Share2 size={18} className="shrink-0" /> {t("shareLocation", lang)}
-        </button>
-      </div>
-
-      <h2 className="pt-2 font-serif text-xl font-bold">{t("nearestFacilities", lang)}</h2>
-      <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1">
-        {FACILITY_TYPES.map((f) => (
-          <Chip key={f.key} active={type === f.key} onClick={() => setType(f.key)}>
-            <f.icon size={16} /> {lang === "hi" ? f.hi : f.en}
-          </Chip>
-        ))}
-      </div>
-      {!userPos && <p className="text-sm text-muted">{t("fromSite", lang)}</p>}
-
-      <MapView center={bundle.info.center} zoom={16} markers={markers} user={userPos} fit className="-mx-4 h-60 w-[calc(100%+2rem)]" />
-
-      <ul className="space-y-2 pb-4">
-        {items.length === 0 && <li className="text-muted">—</li>}
-        {items.map((f, i) => (
-          <li key={f.id} className="flex items-center gap-3 border border-line bg-paper px-3 py-2.5">
-            <span className="grid size-8 shrink-0 place-items-center text-sm font-bold text-paper" style={{ background: def.color }}>
-              {i + 1}
-            </span>
-            <div className="min-w-0 flex-1">
-              <p className="truncate font-semibold">{f.name || (lang === "hi" ? def.hi : def.en)}</p>
-              <p className="text-sm text-muted">
-                {formatDistance(f.d)} · {walkMinutes(f.d)} {t("min", lang)} {t("walk", lang)}
-                {f.timings ? ` · ${f.timings}` : ""}
-                {f.synthetic ? ` · ${t("syntheticData", lang)}` : ""}
-              </p>
-            </div>
-            {f.phone && (
-              <a href={`tel:${f.phone}`} className="btn-icon" aria-label="Call">
+      <section>
+        <p className="eyebrow mb-2.5">{t("helplines", lang)}</p>
+        <div className="card divide-y divide-line overflow-hidden">
+          {helplines.filter((h) => h.number !== "112").map((h) => (
+            <a key={h.id} href={`tel:${h.number}`} className="flex items-center gap-3.5 px-4 py-3 no-underline transition hover:bg-sunk/60">
+              <span className="grid size-10 shrink-0 place-items-center rounded-2xl bg-sos/10 text-sos">
                 <Phone size={18} />
-              </a>
-            )}
-            <a href={mapsLink(f)} target="_blank" rel="noreferrer" className="btn-icon" aria-label={t("directions", lang)}>
-              <Navigation size={18} />
+              </span>
+              <span className="min-w-0 flex-1 leading-tight">
+                <span className="line-clamp-2 text-sm text-muted">{tr(h.name, L)}</span>
+                <b className="mt-0.5 block font-display text-xl font-semibold tracking-wide">{h.number}</b>
+              </span>
+              <span className="rounded-full bg-sos px-3 py-1.5 text-xs font-bold text-white">{lang === "hi" ? "कॉल" : "Call"}</span>
             </a>
-          </li>
-        ))}
-      </ul>
-      <p className="flex gap-2 pb-6 text-xs text-muted">
+          ))}
+        </div>
+        <button onClick={shareLocation} className="btn btn-outline mt-3 w-full">
+          <Share2 size={18} className="text-history" /> {t("shareLocation", lang)}
+        </button>
+      </section>
+
+      <section className="space-y-3">
+        <h2 className="section-title">{t("nearestFacilities", lang)}</h2>
+        <div className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4 pb-1">
+          {FACILITY_TYPES.map((f) => (
+            <Chip key={f.key} active={type === f.key} onClick={() => setType(f.key)}>
+              <f.icon size={16} style={{ color: type === f.key ? undefined : f.color }} /> {lang === "hi" ? f.hi : f.en}
+            </Chip>
+          ))}
+        </div>
+        {!userPos && <p className="text-sm text-muted">{t("fromSite", lang)}</p>}
+
+        <div className="overflow-hidden rounded-[1.75rem] border border-line shadow-card">
+          <MapView center={bundle.info.center} zoom={16} markers={markers} user={userPos} fit className="h-60 w-full" />
+        </div>
+
+        <ul className="card divide-y divide-line overflow-hidden">
+          {items.length === 0 && <li className="p-4 text-muted">—</li>}
+          {items.map((f, i) => (
+            <li key={f.id} className="flex items-center gap-3 px-4 py-3">
+              <span className="grid size-9 shrink-0 place-items-center rounded-xl text-sm font-bold text-white" style={{ background: def.color }}>
+                {i + 1}
+              </span>
+              <div className="min-w-0 flex-1">
+                <p className="truncate font-semibold">{f.name || (lang === "hi" ? def.hi : def.en)}</p>
+                <p className="text-sm text-muted">
+                  {formatDistance(f.d)} · {walkMinutes(f.d)} {t("min", lang)} {t("walk", lang)}
+                  {f.timings ? ` · ${f.timings}` : ""}
+                  {f.synthetic ? ` · ${t("syntheticData", lang)}` : ""}
+                </p>
+              </div>
+              {f.phone && (
+                <a href={`tel:${f.phone}`} className="btn-icon bg-sunk" aria-label="Call">
+                  <Phone size={17} />
+                </a>
+              )}
+              <a href={mapsLink(f)} target="_blank" rel="noreferrer" className="btn-icon bg-brand text-on-brand" aria-label={t("directions", lang)}>
+                <Navigation size={17} />
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+      <p className="flex gap-2 text-xs leading-relaxed text-muted">
         <Info size={14} className="mt-0.5 shrink-0" /> {t("dataNote", lang)}
       </p>
     </div>

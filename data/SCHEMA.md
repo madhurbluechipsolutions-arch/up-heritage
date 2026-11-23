@@ -14,7 +14,7 @@ Rules for all content (from the UP AI Mission problem statement):
 ## data/cities.json
 
 ```json
-[{ "id": "agra", "name": {"en": "Agra", "hi": "आगरा"}, "depth": "full" },
+[{ "id": "agra", "name": {"en": "Agra", "hi": "आगरा"}, "depth": "full", "cover": "https://upload.wikimedia.org/..." },
  { "id": "varanasi", "name": {"en": "Varanasi", "hi": "वाराणसी"}, "depth": "lite" }]
 ```
 
@@ -24,6 +24,7 @@ Rules for all content (from the UP AI Mission problem statement):
 {
   "id": "agra",
   "name": {"en": "Agra", "hi": "आगरा"},
+  "cover": {"url": "https://upload.wikimedia.org/...", "credit": "Author", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:..."},
   "tagline": {"en": "...", "hi": "..."},
   "center": [27.1751, 78.0421],
   "zoom": 16,
@@ -98,9 +99,15 @@ Rules for all content (from the UP AI Mission problem statement):
   "entryFee": {"en": "...", "hi": "..."},
   "howToReach": {"en": "...", "hi": "..."},
   "when": "Only for festivals, e.g. 'February (annual)'",
-  "source": "...", "url": "https://..."
+  "source": "...", "url": "https://...",
+  "photos": [ {"url": "https://upload.wikimedia.org/...", "credit": "Author", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:..."} ]
 }]
 ```
+
+The app is image-led: the city `cover` is the home-screen hero and the city-picker card, and each
+spot/nearby place shows its first photo. Use freely licensed Wikimedia Commons photos and keep the
+`credit` + `license` + `page` (the app shows the attribution). A spot without a photo falls back to the
+city cover; a nearby place without one shows a plain tile.
 
 ## data/<city>/facilities.geojson
 

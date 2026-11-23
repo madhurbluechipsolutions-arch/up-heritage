@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import type { CityBundle, CityInfo, CityListItem, Facility, NearbyItem, Poi } from "./types";
+import type { CityBundle, CityInfo, CityListItem, Facility, NearbyItem, Photo, Poi } from "./types";
 
 async function getJson<T>(url: string, fallback: T): Promise<T> {
   try {
@@ -80,4 +80,12 @@ export function useOnline(): boolean {
     };
   }, []);
   return online;
+}
+
+/** First photo of a spot. Spots inside the main site without their own photo borrow the city cover, so no card is blank. */
+export function photoOf(bundle: CityBundle | null | undefined, id?: string | null): Photo | undefined {
+  if (!bundle || !id) return undefined;
+  const poi = bundle.pois.find((x) => x.id === id);
+  if (poi) return poi.photos?.[0] ?? bundle.info.cover;
+  return bundle.nearby.find((x) => x.id === id)?.photos?.[0];
 }

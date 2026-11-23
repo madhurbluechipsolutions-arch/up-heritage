@@ -1,7 +1,7 @@
-import { BookOpen, Building2, ExternalLink, HandHeart, Info, Landmark, MapPin, Route, ScrollText, ShieldAlert, Sparkles, HelpCircle } from "lucide-react";
+import { BookOpen, Building2, ExternalLink, HandHeart, Info, Landmark, MapPin, Route, ScrollText, ShieldAlert, Sparkles, HelpCircle, ArrowUpRight } from "lucide-react";
 import { t } from "../lib/i18n";
-import type { Answer, AnswerBlock } from "../lib/types";
-import { SpeakButton } from "./ui";
+import type { Answer, AnswerBlock, Photo } from "../lib/types";
+import { Img, SpeakButton } from "./ui";
 
 const KIND_STYLE: Record<AnswerBlock["kind"], { cls: string; icon: typeof Landmark }> = {
   history: { cls: "blk-history", icon: Landmark },
@@ -15,16 +15,18 @@ const KIND_STYLE: Record<AnswerBlock["kind"], { cls: string; icon: typeof Landma
 export function Block({ b, lang }: { b: AnswerBlock; lang: string }) {
   const { cls, icon: Icon } = KIND_STYLE[b.kind] ?? KIND_STYLE.info;
   return (
-    <section className={`blk ${cls}`}>
+    <section className={`blk ${cls} animate-rise`}>
       <header className="blk-head">
-        <Icon size={16} aria-hidden />
+        <span className="blk-icon">
+          <Icon size={13} aria-hidden />
+        </span>
         <span>{t(`kind_${b.kind}` as never, lang)}</span>
         {b.kind === "folklore" && b.label && <span className="blk-tag">{b.label}</span>}
       </header>
       <p className="blk-text">{b.text || t("notRecognised", lang)}</p>
       {b.kind === "folklore" && (
         <p className="blk-warn">
-          <ShieldAlert size={14} aria-hidden /> {b.note || t("folkloreWarn", lang)}
+          <ShieldAlert size={15} className="mt-0.5 shrink-0" aria-hidden /> {b.note || t("folkloreWarn", lang)}
         </p>
       )}
       {b.sources.length > 0 && (
@@ -32,7 +34,7 @@ export function Block({ b, lang }: { b: AnswerBlock; lang: string }) {
           <BookOpen size={13} aria-hidden />
           {b.sources.map((s, i) => (
             <a key={i} href={s.url} target="_blank" rel="noreferrer">
-              {s.name} <ExternalLink size={11} aria-hidden />
+              {s.name} <ExternalLink size={10} aria-hidden />
             </a>
           ))}
         </p>
@@ -48,9 +50,10 @@ interface Props {
   onAction?: (action: Answer["action"], facility: string) => void;
   onOpenPoi?: (id: string) => void;
   poiName?: (id: string) => string;
+  poiPhoto?: (id: string) => Photo | undefined;
 }
 
-export default function AnswerCard({ answer, lang, onFollowup, onAction, onOpenPoi, poiName }: Props) {
+export default function AnswerCard({ answer, lang, onFollowup, onAction, onOpenPoi, poiName, poiPhoto }: Props) {
   const spoken = answer.blocks.map((b) => b.text).join(" ");
   const poiIds = [...new Set(answer.blocks.flatMap((b) => b.poiIds ?? []))].slice(0, 3);
   const actionLabel: Partial<Record<Answer["action"], { key: Parameters<typeof t>[0]; icon: typeof MapPin }>> = {
@@ -62,32 +65,41 @@ export default function AnswerCard({ answer, lang, onFollowup, onAction, onOpenP
   const act = actionLabel[answer.action];
 
   return (
-    <div className="space-y-2">
+    <div className="space-y-2.5">
       {answer.mode !== "ai" && (
-        <p className="notice">{t(answer.mode === "offline" ? "offlineAnswer" : "basicAnswer", lang)}</p>
+        <p className="notice">
+          <Info size={16} className="mt-0.5 shrink-0 text-folk" />
+          {t(answer.mode === "offline" ? "offlineAnswer" : "basicAnswer", lang)}
+        </p>
       )}
       {answer.blocks.map((b, i) => (
         <Block key={i} b={b} lang={lang} />
       ))}
-      <div className="flex flex-wrap items-center gap-2 pt-1">
+
+      {poiIds.length > 0 && onOpenPoi && poiName && (
+        <div className="snap-row !mx-0 !px-0 pt-1">
+          {poiIds.map((id) => (
+            <button key={id} className="flex w-56 shrink-0 items-center gap-3 rounded-2xl border border-line bg-surface p-2 pr-3 text-left transition hover:shadow-card" onClick={() => onOpenPoi(id)}>
+              <Img photo={poiPhoto?.(id)} className="size-12 shrink-0 rounded-xl" fallback={<Landmark size={18} />} />
+              <span className="min-w-0 flex-1 text-sm font-semibold leading-snug line-clamp-2">{poiName(id)}</span>
+              <ArrowUpRight size={16} className="shrink-0 text-muted" />
+            </button>
+          ))}
+        </div>
+      )}
+
+      <div className="flex flex-wrap items-center gap-2 pt-0.5">
         <SpeakButton text={spoken} lang={lang} label={t("listen", lang)} stopLabel={t("stop", lang)} />
         {act && onAction && (
-          <button className={answer.action === "sos" ? "btn-sos-sm" : "btn-primary-sm"} onClick={() => onAction(answer.action, answer.facility)}>
+          <button className={"btn btn-sm " + (answer.action === "sos" ? "btn-sos" : "btn-primary")} onClick={() => onAction(answer.action, answer.facility)}>
             <act.icon size={16} /> {t(act.key, lang)}
           </button>
-        )}
-        {poiIds.map((id) =>
-          onOpenPoi && poiName ? (
-            <button key={id} className="btn-ghost" onClick={() => onOpenPoi(id)}>
-              <Landmark size={15} /> {poiName(id)}
-            </button>
-          ) : null,
         )}
       </div>
       {answer.followups.length > 0 && onFollowup && (
         <div className="flex flex-wrap gap-2 pt-1">
           {answer.followups.map((f) => (
-            <button key={f} className="chip" onClick={() => onFollowup(f)}>
+            <button key={f} className="rounded-2xl border border-brand/25 bg-brand/5 px-3.5 py-2 text-left text-sm font-medium text-brand transition hover:bg-brand/10" onClick={() => onFollowup(f)}>
               {f}
             </button>
           ))}

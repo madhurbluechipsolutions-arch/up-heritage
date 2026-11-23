@@ -1,6 +1,7 @@
 {
   "id": "agra",
   "name": { "en": "Agra", "hi": "आगरा" },
+  "cover": {"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/1280px-Taj_Mahal%2C_Agra%2C_India.jpg", "credit": "Yann (talk)", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India.jpg"},
   "tagline": {
     "en": "City of the Taj Mahal, on the banks of the Yamuna, with three UNESCO World Heritage Sites: the Taj Mahal, Agra Fort and Fatehpur Sikri.",
     "hi": "यमुना किनारे बसा ताजमहल का शहर, जहाँ तीन यूनेस्को विश्व धरोहर स्थल हैं: ताजमहल, आगरा किला और फतेहपुर सीकरी।"

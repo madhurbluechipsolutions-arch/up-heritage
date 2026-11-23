@@ -1,6 +1,6 @@
-import { useMemo, useState } from "react";
-import { BadgeCheck, Clock, ExternalLink, Navigation, Ticket, Bus } from "lucide-react";
-import { Chip } from "../components/ui";
+import { useMemo, useState, type ReactNode } from "react";
+import { BadgeCheck, Bus, ChevronDown, Clock3, ExternalLink, Info, MapPin, Navigation, SlidersHorizontal, Sparkles, Ticket } from "lucide-react";
+import { Chip, Credit, Img } from "../components/ui";
 import { distance, formatDistance, mapsLink } from "../lib/geo";
 import { t, tr } from "../lib/i18n";
 import { useSettings } from "../lib/settings";
@@ -70,9 +70,96 @@ function score(item: NearbyItem, prefs: Prefs, lang: string) {
   return { s, reasons };
 }
 
+function ChipRow({ label, children }: { label: string; children: ReactNode }) {
+  return (
+    <fieldset>
+      <legend className="eyebrow mb-2">{label}</legend>
+      <div className="no-scrollbar -mx-5 flex gap-2 overflow-x-auto px-5">{children}</div>
+    </fieldset>
+  );
+}
+
+function PlaceCard({ item, reasons, dist, lang, L, index }: { item: NearbyItem; reasons: string[]; dist: number | null; lang: string; L: string; index: number }) {
+  const [more, setMore] = useState(false);
+  const photo = item.photos?.[0];
+  const desc = tr(item.description, L);
+  return (
+    <li className="card overflow-hidden animate-rise" style={{ animationDelay: `${Math.min(index, 6) * 60}ms` }}>
+      <div className="relative h-56 text-white">
+        <Img photo={photo} alt={tr(item.name, "en")} className="absolute inset-0" fallback={<Sparkles size={30} />} />
+        <div className="absolute inset-0 shade-b" />
+        <div className="absolute inset-x-3 top-3 flex items-start gap-1.5">
+          <span className="glass rounded-full px-2.5 py-1 text-xs font-semibold capitalize">{lang === "hi" ? TYPE_HI[item.type] ?? item.type : item.type}</span>
+          {item.odop && (
+            <span className="flex items-center gap-1 rounded-full bg-gold px-2.5 py-1 text-xs font-bold text-white shadow">
+              <BadgeCheck size={13} /> ODOP
+            </span>
+          )}
+          <span className="flex-1" />
+          {dist != null && (
+            <span className="glass flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-semibold">
+              <MapPin size={12} /> {formatDistance(dist)}
+            </span>
+          )}
+        </div>
+        <div className="absolute inset-x-0 bottom-0 p-4">
+          <h3 className="font-display text-2xl font-semibold leading-tight">{tr(item.name, L)}</h3>
+          {item.when && <p className="mt-0.5 text-sm text-white/75">{item.when}</p>}
+          <Credit photo={photo} className="mt-1 block text-white" />
+        </div>
+      </div>
+      <div className="space-y-3 p-4">
+        {reasons.length > 0 && (
+          <p className="flex items-start gap-2 rounded-2xl bg-brand/[0.07] px-3 py-2 text-sm">
+            <Sparkles size={15} className="mt-0.5 shrink-0 text-brand" />
+            <span>
+              <b className="text-brand">{t("why", lang)}:</b> {reasons.join(" · ")}
+            </span>
+          </p>
+        )}
+        {item.odop && <p className="text-xs font-semibold text-gold">{t("odop", lang)}</p>}
+        <div>
+          <p className={"leading-relaxed " + (more ? "" : "line-clamp-3")}>{desc}</p>
+          {desc.length > 160 && (
+            <button className="mt-1 flex items-center gap-0.5 text-sm font-semibold text-brand" onClick={() => setMore((m) => !m)}>
+              {more ? t("less", lang) : t("more", lang)} <ChevronDown size={15} className={"transition " + (more ? "rotate-180" : "")} />
+            </button>
+          )}
+        </div>
+        {(item.timings || item.entryFee || item.howToReach) && (
+          <dl className="grid gap-2 rounded-2xl bg-sunk/70 p-3 text-sm">
+            {item.timings && (
+              <div className="flex gap-2.5"><Clock3 size={16} className="mt-0.5 shrink-0 text-muted" /><dd>{tr(item.timings, L)}</dd></div>
+            )}
+            {item.entryFee && (
+              <div className="flex gap-2.5"><Ticket size={16} className="mt-0.5 shrink-0 text-muted" /><dd>{tr(item.entryFee, L)}</dd></div>
+            )}
+            {item.howToReach && (
+              <div className="flex gap-2.5"><Bus size={16} className="mt-0.5 shrink-0 text-muted" /><dd>{tr(item.howToReach, L)}</dd></div>
+            )}
+          </dl>
+        )}
+        <div className="flex flex-wrap gap-2 pt-0.5">
+          {item.lat != null && item.lng != null && (
+            <a className="btn btn-sm btn-primary" href={mapsLink({ lat: item.lat, lng: item.lng })} target="_blank" rel="noreferrer">
+              <Navigation size={15} /> {t("directions", lang)}
+            </a>
+          )}
+          {item.url && (
+            <a className="btn btn-sm btn-soft" href={item.url} target="_blank" rel="noreferrer">
+              {item.source ?? t("sources", lang)} <ExternalLink size={13} />
+            </a>
+          )}
+        </div>
+      </div>
+    </li>
+  );
+}
+
 export default function ExploreScreen({ bundle, userPos }: { bundle: CityBundle; userPos: { lat: number; lng: number } | null }) {
   const { lang } = useSettings();
   const L = lang === "hi" ? "hi" : "en";
+  const [open, setOpen] = useState(true);
   const [prefs, setPrefs] = useState<Prefs>({ interests: ["history", "food"], hours: 4, budget: "medium", with: ["family"] });
   const toggle = (key: "interests" | "with", v: string) =>
     setPrefs((p) => ({ ...p, [key]: p[key].includes(v) ? p[key].filter((x) => x !== v) : [...p[key], v] }));
@@ -91,104 +178,63 @@ export default function ExploreScreen({ bundle, userPos }: { bundle: CityBundle;
   const label = (arr: [string, string, string][], v: string) => arr.find((x) => x[0] === v)?.[lang === "hi" ? 2 : 1] ?? v;
 
   return (
-    <div className="h-full space-y-4 overflow-y-auto px-4 py-4">
-      <h2 className="font-serif text-xl font-bold">{t("exploreTitle", lang)}</h2>
-
-      <fieldset className="space-y-2">
-        <legend className="label">{t("interests", lang)}</legend>
-        <div className="flex flex-wrap gap-2">
-          {INTERESTS.map(([k]) => (
-            <Chip key={k} active={prefs.interests.includes(k)} onClick={() => toggle("interests", k)}>
-              {label(INTERESTS, k)}
-            </Chip>
-          ))}
-        </div>
-      </fieldset>
-      <fieldset className="space-y-2">
-        <legend className="label">{t("withWho", lang)}</legend>
-        <div className="flex flex-wrap gap-2">
-          {COMPANIONS.map(([k]) => (
-            <Chip key={k} active={prefs.with.includes(k)} onClick={() => toggle("with", k)}>
-              {label(COMPANIONS, k)}
-            </Chip>
-          ))}
-        </div>
-      </fieldset>
-      <div className="grid grid-cols-2 gap-3">
-        <fieldset className="space-y-2">
-          <legend className="label">{t("timeLeft", lang)}</legend>
-          <div className="flex flex-wrap gap-2">
-            {HOURS.map((h) => (
-              <Chip key={h} active={prefs.hours === h} onClick={() => setPrefs((p) => ({ ...p, hours: h }))}>
-                {h === 8 ? (lang === "hi" ? "पूरा दिन" : "Full day") : `${h} h`}
-              </Chip>
-            ))}
+    <div className="no-scrollbar h-full space-y-5 overflow-y-auto px-5 pb-nav pt-4">
+      <div className="card overflow-hidden p-5">
+        <button className="flex w-full items-center gap-3 text-left" onClick={() => setOpen((o) => !o)} aria-expanded={open}>
+          <span className="grid size-10 place-items-center rounded-2xl bg-brand/10 text-brand">
+            <SlidersHorizontal size={19} />
+          </span>
+          <span className="flex-1">
+            <b className="block leading-tight">{t("personalise", lang)}</b>
+            <span className="text-sm text-muted">
+              {list.length} {t("forYou", lang)}
+            </span>
+          </span>
+          <ChevronDown size={20} className={"text-muted transition " + (open ? "rotate-180" : "")} />
+        </button>
+        {open && (
+          <div className="mt-5 space-y-4 animate-fade-in">
+            <ChipRow label={t("interests", lang)}>
+              {INTERESTS.map(([k]) => (
+                <Chip key={k} active={prefs.interests.includes(k)} onClick={() => toggle("interests", k)}>
+                  {label(INTERESTS, k)}
+                </Chip>
+              ))}
+            </ChipRow>
+            <ChipRow label={t("withWho", lang)}>
+              {COMPANIONS.map(([k]) => (
+                <Chip key={k} active={prefs.with.includes(k)} onClick={() => toggle("with", k)}>
+                  {label(COMPANIONS, k)}
+                </Chip>
+              ))}
+            </ChipRow>
+            <ChipRow label={t("timeLeft", lang)}>
+              {HOURS.map((h) => (
+                <Chip key={h} active={prefs.hours === h} onClick={() => setPrefs((p) => ({ ...p, hours: h }))}>
+                  {h === 8 ? (lang === "hi" ? "पूरा दिन" : "Full day") : `${h} h`}
+                </Chip>
+              ))}
+            </ChipRow>
+            <ChipRow label={t("budget", lang)}>
+              {BUDGETS.map(([k]) => (
+                <Chip key={k} active={prefs.budget === k} onClick={() => setPrefs((p) => ({ ...p, budget: k }))}>
+                  {label(BUDGETS, k)}
+                </Chip>
+              ))}
+            </ChipRow>
           </div>
-        </fieldset>
-        <fieldset className="space-y-2">
-          <legend className="label">{t("budget", lang)}</legend>
-          <div className="flex flex-wrap gap-2">
-            {BUDGETS.map(([k]) => (
-              <Chip key={k} active={prefs.budget === k} onClick={() => setPrefs((p) => ({ ...p, budget: k }))}>
-                {label(BUDGETS, k)}
-              </Chip>
-            ))}
-          </div>
-        </fieldset>
+        )}
       </div>
 
-      {!good.length && <p className="notice">{t("noMatches", lang)}</p>}
+      {!good.length && (
+        <p className="notice">
+          <Info size={16} className="mt-0.5 shrink-0 text-folk" /> {t("noMatches", lang)}
+        </p>
+      )}
 
-      <ul className="space-y-3 pb-4">
-        {list.map(({ item, reasons, dist }) => (
-          <li key={item.id} className="border border-line bg-paper">
-            <div className="border-b border-line px-4 py-3">
-              <div className="flex items-start justify-between gap-2">
-                <h3 className="font-serif text-lg font-bold">{tr(item.name, L)}</h3>
-                {dist != null && <span className="shrink-0 text-sm text-muted">{formatDistance(dist)}</span>}
-              </div>
-              <p className="mt-0.5 text-sm uppercase tracking-wide text-muted">
-                {lang === "hi" ? TYPE_HI[item.type] ?? item.type : item.type}
-                {item.when ? ` · ${item.when}` : ""}
-              </p>
-              {item.odop && (
-                <p className="mt-2 inline-flex items-center gap-1 bg-folk px-2 py-0.5 text-sm font-semibold text-paper">
-                  <BadgeCheck size={14} /> {t("odop", lang)}
-                </p>
-              )}
-            </div>
-            <div className="space-y-2 px-4 py-3">
-              <p className="leading-relaxed">{tr(item.description, L)}</p>
-              {reasons.length > 0 && (
-                <p className="text-sm">
-                  <b className="text-brand">{t("why", lang)}:</b> {reasons.join(" · ")}
-                </p>
-              )}
-              <dl className="grid gap-1 text-sm">
-                {item.timings && (
-                  <div className="flex gap-2"><Clock size={15} className="mt-0.5 shrink-0 text-muted" /><dd>{tr(item.timings, L)}</dd></div>
-                )}
-                {item.entryFee && (
-                  <div className="flex gap-2"><Ticket size={15} className="mt-0.5 shrink-0 text-muted" /><dd>{tr(item.entryFee, L)}</dd></div>
-                )}
-                {item.howToReach && (
-                  <div className="flex gap-2"><Bus size={15} className="mt-0.5 shrink-0 text-muted" /><dd>{tr(item.howToReach, L)}</dd></div>
-                )}
-              </dl>
-              <div className="flex flex-wrap gap-2 pt-1">
-                {item.lat != null && item.lng != null && (
-                  <a className="btn-primary-sm" href={mapsLink({ lat: item.lat, lng: item.lng })} target="_blank" rel="noreferrer">
-                    <Navigation size={15} /> {t("directions", lang)}
-                  </a>
-                )}
-                {item.url && (
-                  <a className="btn-ghost" href={item.url} target="_blank" rel="noreferrer">
-                    {item.source ?? t("sources", lang)} <ExternalLink size={13} />
-                  </a>
-                )}
-              </div>
-            </div>
-          </li>
+      <ul className="space-y-5">
+        {list.map(({ item, reasons, dist }, i) => (
+          <PlaceCard key={item.id} item={item} reasons={reasons} dist={dist} lang={lang} L={L} index={i} />
         ))}
       </ul>
     </div>

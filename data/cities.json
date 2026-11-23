@@ -1,4 +1,4 @@
 [
-  { "id": "agra", "name": { "en": "Agra", "hi": "आगरा" }, "depth": "full" },
-  { "id": "varanasi", "name": { "en": "Varanasi", "hi": "वाराणसी" }, "depth": "lite" }
+  {"id": "agra", "name": {"en": "Agra", "hi": "आगरा"}, "depth": "full", "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Taj_Mahal%2C_Agra%2C_India.jpg/1280px-Taj_Mahal%2C_Agra%2C_India.jpg"},
+  {"id": "varanasi", "name": {"en": "Varanasi", "hi": "वाराणसी"}, "depth": "lite", "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Varanasi%2C_India%2C_Sunset_in_Varanasi%2C_Boats_on_Ganges_River.jpg/1280px-Varanasi%2C_India%2C_Sunset_in_Varanasi%2C_Boats_on_Ganges_River.jpg"}
 ]

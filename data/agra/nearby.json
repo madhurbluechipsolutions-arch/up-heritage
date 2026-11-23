@@ -2,6 +2,7 @@
   {
     "id": "agra-fort",
     "type": "heritage",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Agra_Fort_2.jpg/1280px-Agra_Fort_2.jpg", "credit": "Argha1812", "license": "CC BY-SA 3.0", "page": "https://commons.wikimedia.org/wiki/File:Agra_Fort_2.jpg"}],
     "odop": false,
     "name": {
       "en": "Agra Fort",
@@ -50,6 +51,7 @@
   {
     "id": "fatehpur-sikri",
     "type": "heritage",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg/1280px-Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg", "credit": "Marcin Białek", "license": "CC BY-SA 3.0", "page": "https://commons.wikimedia.org/wiki/File:Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg"}],
     "odop": false,
     "name": {
       "en": "Fatehpur Sikri",
@@ -93,6 +95,7 @@
   {
     "id": "itimad-ud-daulah",
     "type": "heritage",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/I%27tim%C4%81d-ud-Daulah%2C_Agra.jpg/1280px-I%27tim%C4%81d-ud-Daulah%2C_Agra.jpg", "credit": "Muhammad Mahdi Karim", "license": "GFDL 1.2", "page": "https://commons.wikimedia.org/wiki/File:I%27tim%C4%81d-ud-Daulah,_Agra.jpg"}],
     "odop": false,
     "name": {
       "en": "Tomb of Itimad-ud-Daulah (Baby Taj)",
@@ -136,6 +139,7 @@
   {
     "id": "mehtab-bagh",
     "type": "heritage",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mehtab_Bagh_facing_Taj_Mahal.JPG/1280px-Mehtab_Bagh_facing_Taj_Mahal.JPG", "credit": "g.kaustav", "license": "CC BY-SA 3.0", "page": "https://commons.wikimedia.org/wiki/File:Mehtab_Bagh_facing_Taj_Mahal.JPG"}],
     "odop": false,
     "name": {
       "en": "Mehtab Bagh",
@@ -179,6 +183,7 @@
   {
     "id": "akbars-tomb-sikandra",
     "type": "heritage",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Akbar%27s_Tomb_in_Sikandra_15.jpg/1280px-Akbar%27s_Tomb_in_Sikandra_15.jpg", "credit": "Darshanavenugopal", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Akbar%27s_Tomb_in_Sikandra_15.jpg"}],
     "odop": false,
     "name": {
       "en": "Akbar's Tomb, Sikandra",
@@ -222,6 +227,7 @@
   {
     "id": "chini-ka-rauza",
     "type": "heritage",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chini_ki_Rauza_4.jpg/1280px-Chini_ki_Rauza_4.jpg", "credit": "Rangan Datta Wiki", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Chini_ki_Rauza_4.jpg"}],
     "odop": false,
     "name": {
       "en": "Chini ka Rauza",
@@ -263,6 +269,7 @@
   {
     "id": "ram-bagh",
     "type": "heritage",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pavilions_of_Aram_Bagh_1.jpg/1280px-Pavilions_of_Aram_Bagh_1.jpg", "credit": "Rangan Datta Wiki", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Pavilions_of_Aram_Bagh_1.jpg"}],
     "odop": false,
     "name": {
       "en": "Ram Bagh (Bagh-i-Gul Afshan)",
@@ -303,6 +310,7 @@
   {
     "id": "jama-masjid-agra",
     "type": "heritage",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Jami_Masjid_-Agra_-Uttar_Pradesh_-IMG_0282.jpg/1280px-Jami_Masjid_-Agra_-Uttar_Pradesh_-IMG_0282.jpg", "credit": "Anupam Mukherjee", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Jami_Masjid_-Agra_-Uttar_Pradesh_-IMG_0282.jpg"}],
     "odop": false,
     "name": {
       "en": "Jama Masjid, Agra",
@@ -344,6 +352,7 @@
   {
     "id": "taj-museum",
     "type": "museum",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Taj_Museum_Agra_India.jpg/1280px-Taj_Museum_Agra_India.jpg", "credit": "Philip Nalangan", "license": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:Taj_Museum_Agra_India.jpg"}],
     "odop": false,
     "name": {
       "en": "Taj Museum (inside the Taj Mahal complex)",
@@ -432,6 +441,7 @@
   {
     "id": "sadar-bazaar",
     "type": "market",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sadar_Bazar%2C_Agra.jpg/1280px-Sadar_Bazar%2C_Agra.jpg", "credit": "Siddhartha Shukla", "license": "CC BY-SA 2.0", "page": "https://commons.wikimedia.org/wiki/File:Sadar_Bazar,_Agra.jpg"}],
     "odop": false,
     "name": {
       "en": "Sadar Bazaar",
@@ -473,6 +483,7 @@
   {
     "id": "agra-petha",
     "type": "food",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Petha_kesari.JPG/1280px-Petha_kesari.JPG", "credit": "PJ.wikilovesfood", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Petha_kesari.JPG"}],
     "odop": true,
     "name": {
       "en": "Agra Petha",
@@ -526,6 +537,7 @@
   {
     "id": "bedai-jalebi",
     "type": "food",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bedai_and_Sabzi.JPG/1280px-Bedai_and_Sabzi.JPG", "credit": "Ravi Talwar", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Bedai_and_Sabzi.JPG"}],
     "odop": false,
     "name": {
       "en": "Bedai and Jalebi Breakfast",
@@ -566,6 +578,7 @@
   {
     "id": "mughlai-food",
     "type": "food",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Murgh_Musallam_Steamed.JPG/1280px-Murgh_Musallam_Steamed.JPG", "credit": "Miansari66", "license": "CC0", "page": "https://commons.wikimedia.org/wiki/File:Murgh_Musallam_Steamed.JPG"}],
     "odop": false,
     "name": {
       "en": "Mughlai Cuisine",
@@ -661,6 +674,7 @@
   {
     "id": "marble-inlay",
     "type": "craft",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Marble_Inlay_Demonstration_-_U_P_Handicrafts_Complex_-_Fatehabad_Road_-_Agra_2014-05-14_4221.JPG/1280px-Marble_Inlay_Demonstration_-_U_P_Handicrafts_Complex_-_Fatehabad_Road_-_Agra_2014-05-14_4221.JPG", "credit": "Biswarup Ganguly", "license": "CC BY 3.0", "page": "https://commons.wikimedia.org/wiki/File:Marble_Inlay_Demonstration_-_U_P_Handicrafts_Complex_-_Fatehabad_Road_-_Agra_2014-05-14_4221.JPG"}],
     "odop": true,
     "name": {
       "en": "Marble Inlay (Parchin Kari / Pietra Dura)",
@@ -713,6 +727,7 @@
   {
     "id": "taj-mahotsav",
     "type": "festival",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Taj_Mahal_in_Taj_Mahotsav.jpg/1280px-Taj_Mahal_in_Taj_Mahotsav.jpg", "credit": "Imabh", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_Taj_Mahotsav.jpg"}],
     "odop": false,
     "name": {
       "en": "Taj Mahotsav",

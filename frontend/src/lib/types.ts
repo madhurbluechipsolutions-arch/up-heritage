@@ -4,6 +4,13 @@ export type Sourced = { en: string; hi?: string; source?: string; url?: string }
 
 export type Folklore = Sourced & { label?: string; note?: L10n };
 
+export interface Photo {
+  url: string;
+  credit?: string;
+  license?: string;
+  page?: string;
+}
+
 export interface Poi {
   id: string;
   site?: string;
@@ -23,7 +30,7 @@ export interface Poi {
   visualCues?: string;
   accessibility?: L10n;
   faq?: { q: L10n; a: L10n }[];
-  photos?: { url: string; credit?: string; license?: string; page?: string }[];
+  photos?: Photo[];
 }
 
 export interface NearbyItem {
@@ -44,6 +51,7 @@ export interface NearbyItem {
   when?: string;
   source?: string;
   url?: string;
+  photos?: Photo[];
 }
 
 export interface Helpline {
@@ -55,6 +63,7 @@ export interface Helpline {
 export interface CityInfo {
   id: string;
   name: L10n;
+  cover?: Photo;
   tagline?: L10n;
   center: [number, number];
   zoom?: number;
@@ -74,6 +83,7 @@ export interface CityListItem {
   id: string;
   name: L10n;
   depth?: "full" | "lite";
+  cover?: string;
 }
 
 export interface Facility {
@@ -115,4 +125,4 @@ export interface Answer {
 }
 
 export type Mode = "standard" | "kid" | "quick" | "scholar" | "pilgrim";
-export type Tab = "ask" | "lens" | "tour" | "explore" | "help";
+export type Tab = "home" | "ask" | "lens" | "tour" | "explore" | "help";

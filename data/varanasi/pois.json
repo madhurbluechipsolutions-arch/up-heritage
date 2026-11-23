@@ -3,6 +3,7 @@
     "id": "dashashwamedh-ghat",
     "site": "ganga-ghats",
     "category": "ghat",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Evening_Ganga_Aarti_at_Dashashwamedh_Ghat.JPG/1280px-Evening_Ganga_Aarti_at_Dashashwamedh_Ghat.JPG", "credit": "AKS.9955", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Evening_Ganga_Aarti_at_Dashashwamedh_Ghat.JPG"}],
     "name": {
       "en": "Dashashwamedh Ghat and Ganga Aarti",
       "hi": "दशाश्वमेध घाट और गंगा आरती"
@@ -69,6 +70,7 @@
     "id": "kashi-vishwanath",
     "site": "kashi-vishwanath",
     "category": "temple",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg", "credit": "Architkumar1234", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Kashi_Vishwanath.jpg"}],
     "name": {
       "en": "Shri Kashi Vishwanath Temple and Dham",
       "hi": "श्री काशी विश्वनाथ मंदिर और धाम"
@@ -129,6 +131,7 @@
     "id": "manikarnika-ghat",
     "site": "ganga-ghats",
     "category": "ghat",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Manikarnika_Ghat%2C_Varanasi%2C_Uttar_Pradesh%2C_India_%282011%29_5.jpg", "credit": "Aleksandr Zykov from Russia", "license": "CC BY-SA 2.0", "page": "https://commons.wikimedia.org/wiki/File:Manikarnika_Ghat,_Varanasi,_Uttar_Pradesh,_India_(2011)_5.jpg"}],
     "name": {
       "en": "Manikarnika Ghat",
       "hi": "मणिकर्णिका घाट"
@@ -182,6 +185,7 @@
     "id": "assi-ghat",
     "site": "ganga-ghats",
     "category": "ghat",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Assi_Ghat_Varanasi_morning_Aarti.jpg", "credit": "Titodutta", "license": "CC0", "page": "https://commons.wikimedia.org/wiki/File:Assi_Ghat_Varanasi_morning_Aarti.jpg"}],
     "name": {
       "en": "Assi Ghat",
       "hi": "अस्सी घाट"
@@ -229,6 +233,7 @@
     "id": "ganga-boat-ride",
     "site": "ganga-ghats",
     "category": "experience",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Boats_at_sunrise_Ganges_River_Varanasi_Uttar_Pradesh_Schwiki.jpg/1280px-Boats_at_sunrise_Ganges_River_Varanasi_Uttar_Pradesh_Schwiki.jpg", "credit": "Schwiki", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Boats_at_sunrise_Ganges_River_Varanasi_Uttar_Pradesh_Schwiki.jpg"}],
     "name": {
       "en": "Sunrise Boat Ride on the Ganga",
       "hi": "गंगा में सूर्योदय की नाव सवारी"
@@ -270,6 +275,7 @@
     "id": "dhamek-stupa",
     "site": "sarnath",
     "category": "stupa",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dhamek_Stupa%2C_Sarnath.jpg/1280px-Dhamek_Stupa%2C_Sarnath.jpg", "credit": "GONG JIE", "license": "CC BY-SA 3.0", "page": "https://commons.wikimedia.org/wiki/File:Dhamek_Stupa,_Sarnath.jpg"}],
     "name": {
       "en": "Sarnath - Dhamek Stupa",
       "hi": "सारनाथ - धमेख स्तूप"
@@ -330,6 +336,7 @@
     "id": "sarnath-museum",
     "site": "sarnath",
     "category": "museum",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sarnath_Museum_Front.jpg/1280px-Sarnath_Museum_Front.jpg", "credit": "सत्यम् मिश्र", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Sarnath_Museum_Front.jpg"}],
     "name": {
       "en": "Sarnath Museum - Lion Capital of Ashoka",
       "hi": "सारनाथ संग्रहालय - अशोक का सिंह शीर्ष"
@@ -364,6 +371,7 @@
     "id": "ramnagar-fort",
     "site": "ramnagar-fort",
     "category": "fort",
+    "photos": [{"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Entrance_area_of_Ramnagar_Fort.jpg/1280px-Entrance_area_of_Ramnagar_Fort.jpg", "credit": "Sidhiwasi", "license": "CC BY-SA 4.0", "page": "https://commons.wikimedia.org/wiki/File:Entrance_area_of_Ramnagar_Fort.jpg"}],
     "name": {
       "en": "Ramnagar Fort",
       "hi": "रामनगर किला"

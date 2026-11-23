@@ -1,6 +1,9 @@
 import { useSyncExternalStore } from "react";
 import type { Mode } from "./types";
 
+export type Theme = "system" | "light" | "dark";
+export type Accent = "sandstone" | "peacock" | "saffron" | "neel";
+
 export interface Settings {
   city: string;
   lang: string;
@@ -8,6 +11,8 @@ export interface Settings {
   largeText: boolean;
   autoRead: boolean;
   onboarded: boolean;
+  theme: Theme;
+  accent: Accent;
 }
 
 const KEY = "saathi.settings.v1";
@@ -19,6 +24,8 @@ const defaults: Settings = {
   largeText: false,
   autoRead: false,
   onboarded: false,
+  theme: "system",
+  accent: "sandstone",
 };
 
 function load(): Settings {

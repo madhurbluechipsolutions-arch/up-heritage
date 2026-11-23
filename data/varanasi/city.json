@@ -1,6 +1,7 @@
 {
   "id": "varanasi",
   "name": { "en": "Varanasi", "hi": "वाराणसी" },
+  "cover": {"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Varanasi%2C_India%2C_Sunset_in_Varanasi%2C_Boats_on_Ganges_River.jpg/1280px-Varanasi%2C_India%2C_Sunset_in_Varanasi%2C_Boats_on_Ganges_River.jpg", "credit": "Vyacheslav Argenberg", "license": "CC BY 4.0", "page": "https://commons.wikimedia.org/wiki/File:Varanasi,_India,_Sunset_in_Varanasi,_Boats_on_Ganges_River.jpg"},
   "tagline": {
     "en": "Kashi, the holy city on the west bank of the Ganga, with a spiritual legacy of more than 3,000 years.",
     "hi": "काशी, गंगा के पश्चिमी किनारे पर बसा पवित्र शहर, जिसकी आध्यात्मिक विरासत 3,000 साल से भी पुरानी है।"
