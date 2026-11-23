@@ -1,0 +1,69 @@
+{
+  "id": "varanasi",
+  "name": { "en": "Varanasi", "hi": "वाराणसी" },
+  "tagline": {
+    "en": "Kashi, the holy city on the west bank of the Ganga, with a spiritual legacy of more than 3,000 years.",
+    "hi": "काशी, गंगा के पश्चिमी किनारे पर बसा पवित्र शहर, जिसकी आध्यात्मिक विरासत 3,000 साल से भी पुरानी है।"
+  },
+  "center": [25.3072, 83.0103],
+  "zoom": 15,
+  "mainSite": {
+    "id": "dashashwamedh-ghat",
+    "name": { "en": "Dashashwamedh Ghat and Ganga Aarti", "hi": "दशाश्वमेध घाट और गंगा आरती" },
+    "timings": {
+      "en": "The ghat is open at all hours. The Ganga Aarti is held every evening at dusk, starting soon after sunset (around 7 PM in summer and 6 PM in winter) and lasting about 45 minutes. Special aartis are held on Tuesdays and religious festivals. Arrive early for a place to sit, or watch from a boat.",
+      "hi": "घाट हर समय खुला रहता है। गंगा आरती रोज़ शाम को सूर्यास्त के कुछ देर बाद शुरू होती है (गर्मियों में लगभग शाम 7 बजे और सर्दियों में लगभग 6 बजे) और लगभग 45 मिनट चलती है। मंगलवार और त्योहारों पर विशेष आरती होती है। बैठने की जगह के लिए जल्दी पहुँचें, या नाव से आरती देखें।"
+    },
+    "closedOn": {
+      "en": "Not closed; the aarti is held daily.",
+      "hi": "कभी बंद नहीं; आरती रोज़ होती है।"
+    },
+    "entryFee": {
+      "en": "No entry fee for the ghat or the aarti. Boat rides are paid; agree the fare with the boatman before boarding.",
+      "hi": "घाट और आरती के लिए कोई प्रवेश शुल्क नहीं। नाव की सवारी का किराया लगता है; बैठने से पहले नाविक से किराया तय कर लें।"
+    },
+    "source": "Wikipedia - Dashashwamedh Ghat",
+    "url": "https://en.wikipedia.org/wiki/Dashashwamedh_Ghat",
+    "extraSources": [
+      { "source": "Incredible India (Ministry of Tourism) - Varanasi", "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi" },
+      { "source": "District Varanasi, Government of Uttar Pradesh - Other Important Places", "url": "https://varanasi.nic.in/tourist-place/other-important-places/" }
+    ]
+  },
+  "helplines": [
+    {
+      "id": "emergency",
+      "name": { "en": "Emergency (Police/Fire/Ambulance)", "hi": "आपातकाल (पुलिस/अग्निशमन/एम्बुलेंस)" },
+      "number": "112"
+    },
+    {
+      "id": "ambulance",
+      "name": { "en": "Ambulance", "hi": "एम्बुलेंस" },
+      "number": "108"
+    },
+    {
+      "id": "tourist",
+      "name": { "en": "Tourist Helpline (Ministry of Tourism, 24x7, toll free, multilingual)", "hi": "पर्यटक हेल्पलाइन (पर्यटन मंत्रालय, 24x7, निःशुल्क, कई भाषाओं में)" },
+      "number": "1363",
+      "altNumber": "1800-11-1363",
+      "source": "Embassy of India, Stockholm - Tourist Help Line in India (Ministry of Tourism)",
+      "url": "https://www.indembassysweden.gov.in/page/tourist-help-line-in-india/"
+    },
+    {
+      "id": "women-helpline",
+      "name": { "en": "Women Helpline (UP)", "hi": "महिला हेल्पलाइन (उत्तर प्रदेश)" },
+      "number": "1090"
+    },
+    {
+      "id": "child-helpline",
+      "name": { "en": "Child Line", "hi": "चाइल्ड लाइन (बच्चों की मदद)" },
+      "number": "1098"
+    },
+    {
+      "id": "railway-enquiry",
+      "name": { "en": "Varanasi Cantt Railway Station Enquiry", "hi": "वाराणसी कैंट रेलवे स्टेशन पूछताछ" },
+      "number": "135",
+      "source": "District Varanasi, Government of Uttar Pradesh - Shri Kashi Vishwanath Temple page",
+      "url": "https://varanasi.nic.in/tourist-place/shri-kashi-vishwanath-temple/"
+    }
+  ]
+}

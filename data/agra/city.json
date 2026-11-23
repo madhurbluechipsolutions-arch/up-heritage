@@ -1,0 +1,105 @@
+{
+  "id": "agra",
+  "name": { "en": "Agra", "hi": "आगरा" },
+  "tagline": {
+    "en": "City of the Taj Mahal, on the banks of the Yamuna, with three UNESCO World Heritage Sites: the Taj Mahal, Agra Fort and Fatehpur Sikri.",
+    "hi": "यमुना किनारे बसा ताजमहल का शहर, जहाँ तीन यूनेस्को विश्व धरोहर स्थल हैं: ताजमहल, आगरा किला और फतेहपुर सीकरी।"
+  },
+  "center": [27.1751, 78.0421],
+  "zoom": 16,
+  "mainSite": {
+    "id": "taj-mahal",
+    "name": { "en": "Taj Mahal", "hi": "ताजमहल" },
+    "timings": {
+      "en": "Opens 30 minutes before sunrise and closes 30 minutes before sunset. Ticket counters (Western and Eastern gates) sell tickets from 1 hour before sunrise until 45 minutes before sunset. The Taj Museum inside the complex is open 10 AM to 5 PM (entry free). Night viewing is allowed on notified nights between 8 PM and midnight, in 30-minute batches of up to 50 people (maximum 400 a night); tickets are sold at the ASI office, 22 Mall Road, Agra. The official FAQ lists night-viewing charges of Rs 510 (Indian) and Rs 750 (foreigner) per person; confirm current dates and rates at the ASI office.",
+      "hi": "सूर्योदय से 30 मिनट पहले खुलता है और सूर्यास्त से 30 मिनट पहले बंद होता है। टिकट खिड़की (पश्चिमी और पूर्वी गेट) सूर्योदय से 1 घंटा पहले से सूर्यास्त से 45 मिनट पहले तक खुली रहती है। परिसर के अंदर ताज संग्रहालय सुबह 10 से शाम 5 बजे तक खुला रहता है (प्रवेश निःशुल्क)। तय रातों में रात्रि दर्शन रात 8 बजे से 12 बजे तक होता है, 30 मिनट के बैच में, हर बैच में अधिकतम 50 लोग (एक रात में कुल 400)। इसके टिकट एएसआई कार्यालय, 22 माल रोड, आगरा पर मिलते हैं। आधिकारिक FAQ के अनुसार रात्रि दर्शन शुल्क भारतीय के लिए ₹510 और विदेशी के लिए ₹750 प्रति व्यक्ति है; ताज़ा तारीख़ और शुल्क एएसआई कार्यालय से पक्का कर लें।"
+    },
+    "closedOn": {
+      "en": "Closed every Friday for general visitors (the mosque is open only for namaz on Fridays).",
+      "hi": "हर शुक्रवार आम पर्यटकों के लिए बंद रहता है (शुक्रवार को मस्जिद केवल नमाज़ के लिए खुलती है)।"
+    },
+    "entryFee": {
+      "en": "Indian citizens and OCI cardholders: Rs 50. SAARC and BIMSTEC citizens: Rs 540. Foreign tourists: Rs 1,100 (includes ASI and ADA fees). Main mausoleum (the tomb chamber): extra Rs 200 for every visitor, optional. Children below 15 years: free (Indian and foreign). Buying online gives Rs 5 off per Indian ticket and Rs 50 off per foreigner ticket. SAARC, BIMSTEC and foreigner tickets include shoe covers, a half-litre water bottle and an Agra tourist map. Fees are revised from time to time, so check at the counter or the official online portal.",
+      "hi": "भारतीय नागरिक और OCI कार्डधारक: ₹50। सार्क और बिम्सटेक देशों के नागरिक: ₹540। विदेशी पर्यटक: ₹1,100 (एएसआई और एडीए शुल्क मिलाकर)। मुख्य मकबरे (कब्र वाले कक्ष) में जाने के लिए हर पर्यटक को ₹200 अलग से देने होते हैं, यह वैकल्पिक है। 15 साल से कम उम्र के बच्चों का प्रवेश निःशुल्क (भारतीय और विदेशी दोनों)। ऑनलाइन टिकट लेने पर हर भारतीय टिकट पर ₹5 और हर विदेशी टिकट पर ₹50 की छूट मिलती है। सार्क, बिम्सटेक और विदेशी टिकट के साथ जूता-कवर, आधा लीटर पानी की बोतल और आगरा का नक्शा मुफ़्त मिलता है। शुल्क समय-समय पर बदलते हैं, इसलिए टिकट खिड़की या आधिकारिक ऑनलाइन पोर्टल पर जाँच लें।"
+    },
+    "rules": {
+      "en": "Not allowed inside: arms, fire or smoking items, tobacco, liquor, eatables (including toffees), headphones, knives, wire, mobile chargers, electric goods (cameras are allowed) and tripods. Drones are strictly prohibited inside and around the Taj Mahal. Eating and smoking inside are prohibited. Keep mobile phones switched off or on silent. A water bottle is allowed. Wheelchairs and a first-aid box are available at the ASI office at the Taj Mahal (0562-2330498).",
+      "hi": "अंदर ले जाना मना है: हथियार, आग या धूम्रपान का सामान, तंबाकू, शराब, खाने की चीज़ें (टॉफ़ी भी), हेडफ़ोन, चाकू, तार, मोबाइल चार्जर, बिजली का सामान (कैमरा ले जा सकते हैं) और ट्राइपॉड। ताजमहल के अंदर और आसपास ड्रोन पूरी तरह मना है। अंदर खाना और धूम्रपान मना है। मोबाइल फ़ोन बंद या साइलेंट रखें। पानी की बोतल ले जा सकते हैं। दिव्यांगजनों के लिए व्हीलचेयर और प्राथमिक चिकित्सा बॉक्स ताजमहल स्थित एएसआई कार्यालय में मिलते हैं (0562-2330498)।"
+    },
+    "bestTime": {
+      "en": "Most visitors prefer sunrise, when the monument glows pink and it is cooler and less crowded. Best season: October to March.",
+      "hi": "ज़्यादातर पर्यटक सूर्योदय का समय पसंद करते हैं, जब स्मारक गुलाबी रंग में चमकता है और गर्मी व भीड़ कम होती है। घूमने का सबसे अच्छा मौसम: अक्टूबर से मार्च।"
+    },
+    "source": "Taj Mahal official website (Ministry of Tourism / ASI) - Visiting Hours",
+    "url": "https://tajmahal.gov.in/visiting-hours.aspx",
+    "extraSources": [
+      { "source": "Taj Mahal official website - Ticketing", "url": "https://tajmahal.gov.in/ticketing.aspx" },
+      { "source": "Taj Mahal official website - FAQs (night viewing, best time)", "url": "https://tajmahal.gov.in/faqs.aspx" },
+      { "source": "Taj Mahal official website - Do's and Don'ts (rules, Taj Museum, wheelchair)", "url": "https://tajmahal.gov.in/dos-and-donts.aspx" },
+      { "source": "District Agra, Government of Uttar Pradesh - Taj Mahal", "url": "https://agra.nic.in/tourist-place/tajmahal/" }
+    ]
+  },
+  "helplines": [
+    {
+      "id": "emergency",
+      "name": { "en": "Emergency (Police/Fire/Ambulance)", "hi": "आपातकाल (पुलिस/अग्निशमन/एम्बुलेंस)" },
+      "number": "112",
+      "source": "Taj Mahal official website - Emergency Services (UP Police Helpline)",
+      "url": "https://tajmahal.gov.in/emergency-services.aspx"
+    },
+    {
+      "id": "ambulance",
+      "name": { "en": "Ambulance", "hi": "एम्बुलेंस" },
+      "number": "108",
+      "source": "Taj Mahal official website - Emergency Services",
+      "url": "https://tajmahal.gov.in/emergency-services.aspx"
+    },
+    {
+      "id": "tourist",
+      "name": { "en": "Tourist Helpline (Ministry of Tourism, 24x7, toll free, multilingual)", "hi": "पर्यटक हेल्पलाइन (पर्यटन मंत्रालय, 24x7, निःशुल्क, कई भाषाओं में)" },
+      "number": "1363",
+      "altNumber": "1800-11-1363",
+      "note": {
+        "en": "Runs 24 hours, every day. Available in Hindi and English plus Arabic, French, German, Italian, Japanese, Korean, Chinese, Portuguese, Russian and Spanish.",
+        "hi": "दिन-रात, हर दिन चालू। हिंदी और अंग्रेज़ी के साथ अरबी, फ़्रेंच, जर्मन, इतालवी, जापानी, कोरियाई, चीनी, पुर्तगाली, रूसी और स्पेनिश में भी।"
+      },
+      "source": "Embassy of India, Stockholm - Tourist Help Line in India (Ministry of Tourism)",
+      "url": "https://www.indembassysweden.gov.in/page/tourist-help-line-in-india/"
+    },
+    {
+      "id": "tourist-police-agra",
+      "name": { "en": "Tourist Police Station, Agra", "hi": "पर्यटक पुलिस थाना, आगरा" },
+      "number": "9454402764",
+      "source": "Taj Mahal official website - Emergency Services",
+      "url": "https://tajmahal.gov.in/emergency-services.aspx"
+    },
+    {
+      "id": "women-helpline",
+      "name": { "en": "Women Helpline", "hi": "महिला हेल्पलाइन" },
+      "number": "1090",
+      "source": "Taj Mahal official website - Emergency Services",
+      "url": "https://tajmahal.gov.in/emergency-services.aspx"
+    },
+    {
+      "id": "child-helpline",
+      "name": { "en": "Child Line", "hi": "चाइल्ड लाइन (बच्चों की मदद)" },
+      "number": "1098",
+      "source": "Taj Mahal official website - Emergency Services",
+      "url": "https://tajmahal.gov.in/emergency-services.aspx"
+    },
+    {
+      "id": "asi-taj-office",
+      "name": { "en": "ASI Office at Taj Mahal (wheelchair and first aid)", "hi": "ताजमहल स्थित एएसआई कार्यालय (व्हीलचेयर और प्राथमिक चिकित्सा)" },
+      "number": "0562-2330498",
+      "source": "Taj Mahal official website - Do's and Don'ts",
+      "url": "https://tajmahal.gov.in/dos-and-donts.aspx"
+    },
+    {
+      "id": "fro-agra",
+      "name": { "en": "Foreigners Registration Office, Agra", "hi": "विदेशी पंजीकरण कार्यालय, आगरा" },
+      "number": "9454401717",
+      "source": "Taj Mahal official website - Emergency Services",
+      "url": "https://tajmahal.gov.in/emergency-services.aspx"
+    }
+  ]
+}

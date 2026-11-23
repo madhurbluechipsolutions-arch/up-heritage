@@ -1,0 +1,768 @@
+[
+  {
+    "id": "agra-fort",
+    "type": "heritage",
+    "odop": false,
+    "name": {
+      "en": "Agra Fort",
+      "hi": "आगरा किला"
+    },
+    "lat": 27.1795,
+    "lng": 78.0211,
+    "description": {
+      "en": "A UNESCO World Heritage Site and walled imperial city, rebuilt in red sandstone by Emperor Akbar from 1565; Shah Jahan later added white-marble buildings. Its ramparts run about 2.5 km. Inside are Jahangir Mahal, Khas Mahal, Diwan-i-Aam, Diwan-i-Khas, Sheesh Mahal, Musamman Burj and Moti Masjid. Shah Jahan spent his last years at Musamman Burj, which looks across the river to the Taj Mahal.",
+      "hi": "यूनेस्को विश्व धरोहर स्थल और चारदीवारी से घिरा शाही शहर। बादशाह अकबर ने 1565 से इसे लाल बलुआ पत्थर में दोबारा बनवाया; बाद में शाहजहाँ ने सफ़ेद संगमरमर की इमारतें जोड़ीं। इसकी दीवारें लगभग 2.5 किमी लंबी हैं। अंदर जहाँगीरी महल, ख़ास महल, दीवान-ए-आम, दीवान-ए-ख़ास, शीश महल, मुसम्मन बुर्ज और मोती मस्जिद हैं। शाहजहाँ ने अपने आख़िरी साल मुसम्मन बुर्ज में बिताए, जहाँ से नदी के पार ताजमहल दिखता है।"
+    },
+    "interests": [
+      "history",
+      "architecture",
+      "photography"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "family",
+      "couple",
+      "solo",
+      "kids"
+    ],
+    "durationHours": 2,
+    "timings": {
+      "en": "Sunrise to sunset (about 6 AM to 6 PM), open all days.",
+      "hi": "सूर्योदय से सूर्यास्त तक (लगभग सुबह 6 से शाम 6 बजे), सभी दिन खुला।"
+    },
+    "entryFee": {
+      "en": "Indian Rs 50, SAARC/BIMSTEC Rs 90, other foreigners Rs 650; children under 15 free. The official Taj ticketing page lists lower Friday rates and Rs 600 for foreigners who have already visited the Taj the same day. Fees change, so check at the counter.",
+      "hi": "भारतीय ₹50, सार्क/बिम्सटेक ₹90, अन्य विदेशी ₹650; 15 साल से कम उम्र के बच्चे निःशुल्क। आधिकारिक ताज टिकट पेज पर शुक्रवार की दरें कम हैं, और उसी दिन ताज देख चुके विदेशियों के लिए ₹600 है। शुल्क बदलते रहते हैं, टिकट खिड़की पर जाँच लें।"
+    },
+    "howToReach": {
+      "en": "About 2.5 km from the Taj Mahal; a short auto-rickshaw or cab ride. Agra Fort railway and metro stations are next to it. Enter through Amar Singh Gate.",
+      "hi": "ताजमहल से लगभग 2.5 किमी; ऑटो-रिक्शा या कैब से थोड़ी ही दूरी। आगरा फ़ोर्ट रेलवे और मेट्रो स्टेशन इसके पास हैं। प्रवेश अमर सिंह गेट से होता है।"
+    },
+    "source": "District Agra, Government of Uttar Pradesh",
+    "url": "https://agra.nic.in/tourist-place/agra-fort/",
+    "extraSources": [
+      {
+        "source": "Taj Mahal official website - Ticketing (Friday and after-Taj rates)",
+        "url": "https://tajmahal.gov.in/ticketing.aspx"
+      }
+    ]
+  },
+  {
+    "id": "fatehpur-sikri",
+    "type": "heritage",
+    "odop": false,
+    "name": {
+      "en": "Fatehpur Sikri",
+      "hi": "फतेहपुर सीकरी"
+    },
+    "lat": 27.0943,
+    "lng": 77.6628,
+    "description": {
+      "en": "A UNESCO World Heritage Site: a remarkably complete red-sandstone city founded by Emperor Akbar in 1571, which served as the Mughal capital for about 14 years. See the 54-metre Buland Darwaza, the Jama Masjid, the marble tomb of Sheikh Salim Chishti, Panch Mahal, Diwan-i-Khas and Jodha Bai's Palace. Plan a half-day trip.",
+      "hi": "यूनेस्को विश्व धरोहर स्थल: लाल बलुआ पत्थर का लगभग पूरा बचा हुआ शहर, जिसे बादशाह अकबर ने 1571 में बसाया। यह लगभग 14 साल मुग़ल राजधानी रहा। यहाँ 54 मीटर ऊँचा बुलंद दरवाज़ा, जामा मस्जिद, शेख़ सलीम चिश्ती का संगमरमर का मकबरा, पंच महल, दीवान-ए-ख़ास और जोधाबाई महल देखें। आधे दिन की यात्रा की योजना बनाएँ।"
+    },
+    "interests": [
+      "history",
+      "architecture",
+      "spiritual",
+      "photography"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "family",
+      "couple",
+      "solo",
+      "pilgrim"
+    ],
+    "durationHours": 5,
+    "timings": {
+      "en": "Sunrise to sunset (about 6 AM to 6 PM), open all days.",
+      "hi": "सूर्योदय से सूर्यास्त तक (लगभग सुबह 6 से शाम 6 बजे), सभी दिन खुला।"
+    },
+    "entryFee": {
+      "en": "Indian Rs 50, SAARC/BIMSTEC Rs 50, other foreigners Rs 610; children under 15 free. Foreign visitors may also be charged an ADA toll. Check at the counter.",
+      "hi": "भारतीय ₹50, सार्क/बिम्सटेक ₹50, अन्य विदेशी ₹610; 15 साल से कम उम्र के बच्चे निःशुल्क। विदेशी पर्यटकों से एडीए टोल भी लिया जा सकता है। टिकट खिड़की पर जाँच लें।"
+    },
+    "howToReach": {
+      "en": "About 36-40 km west of Agra by the Fatehpur Sikri Road (NH-21). Take a taxi or a UPSRTC bus from ISBT/Idgah. Private vehicles park at the base; battery buses run up to the monument gate. Allow a half day including travel.",
+      "hi": "आगरा से लगभग 36-40 किमी पश्चिम, फतेहपुर सीकरी रोड (NH-21) से। टैक्सी लें या ISBT/ईदगाह से UPSRTC बस पकड़ें। निजी गाड़ियाँ नीचे पार्किंग में रुकती हैं; वहाँ से बैटरी बसें स्मारक के गेट तक जाती हैं। आने-जाने सहित आधा दिन रखें।"
+    },
+    "source": "District Agra, Government of Uttar Pradesh",
+    "url": "https://agra.nic.in/tourist-place/fatehpur-sikri/"
+  },
+  {
+    "id": "itimad-ud-daulah",
+    "type": "heritage",
+    "odop": false,
+    "name": {
+      "en": "Tomb of Itimad-ud-Daulah (Baby Taj)",
+      "hi": "एतमादुद्दौला का मकबरा (बेबी ताज)"
+    },
+    "lat": 27.1925,
+    "lng": 78.0319,
+    "description": {
+      "en": "Built between 1622 and 1628 by Empress Nur Jahan for her father, Mirza Ghiyas Beg. It is the first Mughal building made entirely of white marble and the first to use pietra dura (stone inlay) on a large scale. It is called the 'Baby Taj' because it hints at the Taj Mahal that came later. Quiet, compact and good for close-up inlay details.",
+      "hi": "इसे 1622 से 1628 के बीच महारानी नूरजहाँ ने अपने पिता मिर्ज़ा ग़यास बेग के लिए बनवाया। यह पूरी तरह सफ़ेद संगमरमर से बनी पहली मुग़ल इमारत है और पच्चीकारी (पत्थर जड़ने का काम) का बड़े पैमाने पर इस्तेमाल भी पहली बार यहीं हुआ। इसे 'बेबी ताज' कहते हैं क्योंकि इसमें बाद में बने ताजमहल की झलक दिखती है। शांत, छोटी जगह; पच्चीकारी को पास से देखने के लिए अच्छी।"
+    },
+    "interests": [
+      "history",
+      "architecture",
+      "art",
+      "photography"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "elderly",
+      "couple",
+      "solo",
+      "family"
+    ],
+    "durationHours": 1,
+    "timings": {
+      "en": "Sunrise to sunset, open all days.",
+      "hi": "सूर्योदय से सूर्यास्त तक, सभी दिन खुला।"
+    },
+    "entryFee": {
+      "en": "Indian Rs 30, SAARC/BIMSTEC Rs 30, other foreigners Rs 310; children under 15 free. Foreign visitors may also be charged an ADA toll. Check at the counter.",
+      "hi": "भारतीय ₹30, सार्क/बिम्सटेक ₹30, अन्य विदेशी ₹310; 15 साल से कम उम्र के बच्चे निःशुल्क। विदेशी पर्यटकों से एडीए टोल भी लिया जा सकता है। टिकट खिड़की पर जाँच लें।"
+    },
+    "howToReach": {
+      "en": "On the left (east) bank of the Yamuna, on the Aligarh road, about 4 km from Agra Fort. From the Taj, take an auto-rickshaw or cab across the Yamuna bridge (roughly 6-7 km by road, approx.). Easy to combine with Chini ka Rauza and Ram Bagh.",
+      "hi": "यमुना के बाएँ (पूर्वी) किनारे पर, अलीगढ़ रोड पर, आगरा किले से लगभग 4 किमी। ताज से ऑटो-रिक्शा या कैब लेकर यमुना पुल पार करें (सड़क से लगभग 6-7 किमी, अनुमानित)। चीनी का रौज़ा और राम बाग़ के साथ आसानी से देख सकते हैं।"
+    },
+    "source": "District Agra, Government of Uttar Pradesh",
+    "url": "https://agra.nic.in/tourist-place/tomb-of-itimad-ud-daulah-baby-taj/"
+  },
+  {
+    "id": "mehtab-bagh",
+    "type": "heritage",
+    "odop": false,
+    "name": {
+      "en": "Mehtab Bagh",
+      "hi": "मेहताब बाग़"
+    },
+    "lat": 27.1797,
+    "lng": 78.0419,
+    "description": {
+      "en": "A Mughal garden on the far bank of the Yamuna, directly opposite the Taj Mahal. First laid out by Emperor Babur and later aligned by Shah Jahan with the Taj. The district administration calls it the finest spot to view and photograph the Taj, especially at sunset. An open, calm garden that suits elderly visitors.",
+      "hi": "यमुना के उस पार, ताजमहल के ठीक सामने एक मुग़ल बाग़। इसे पहले बादशाह बाबर ने बनवाया और बाद में शाहजहाँ ने इसे ताज की सीध में किया। ज़िला प्रशासन के अनुसार ताज को देखने और उसकी फ़ोटो लेने के लिए, ख़ासकर सूर्यास्त के समय, यह सबसे अच्छी जगह है। खुला और शांत बाग़, बुज़ुर्गों के लिए अच्छा।"
+    },
+    "interests": [
+      "photography",
+      "nature",
+      "history"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "elderly",
+      "couple",
+      "family",
+      "kids",
+      "solo"
+    ],
+    "durationHours": 1,
+    "timings": {
+      "en": "Sunrise to sunset, open all days. Best at sunset for Taj views.",
+      "hi": "सूर्योदय से सूर्यास्त तक, सभी दिन खुला। ताज देखने के लिए सूर्यास्त सबसे अच्छा समय।"
+    },
+    "entryFee": {
+      "en": "Indian Rs 25, SAARC/BIMSTEC Rs 25, other foreigners Rs 300; children under 15 free. Foreign visitors may also be charged an ADA toll. Check at the counter.",
+      "hi": "भारतीय ₹25, सार्क/बिम्सटेक ₹25, अन्य विदेशी ₹300; 15 साल से कम उम्र के बच्चे निःशुल्क। विदेशी पर्यटकों से एडीए टोल भी लिया जा सकता है। टिकट खिड़की पर जाँच लें।"
+    },
+    "howToReach": {
+      "en": "Only about 0.5 km from the Taj across the river, but there is no direct crossing: go by auto-rickshaw or cab over the Ambedkar (Yamuna) bridge, roughly 8 km by road (approx.).",
+      "hi": "नदी के पार ताज से सिर्फ़ लगभग 0.5 किमी, पर सीधा रास्ता नहीं है: ऑटो-रिक्शा या कैब से आंबेडकर (यमुना) पुल होकर जाएँ, सड़क से लगभग 8 किमी (अनुमानित)।"
+    },
+    "source": "District Agra, Government of Uttar Pradesh",
+    "url": "https://agra.nic.in/tourist-place/mehtab-bagh/"
+  },
+  {
+    "id": "akbars-tomb-sikandra",
+    "type": "heritage",
+    "odop": false,
+    "name": {
+      "en": "Akbar's Tomb, Sikandra",
+      "hi": "अकबर का मकबरा, सिकंदरा"
+    },
+    "lat": 27.2204,
+    "lng": 77.9504,
+    "description": {
+      "en": "Tomb of Emperor Akbar, begun by Akbar and completed by his son Jahangir in 1613. A five-storeyed, pyramid-like building of sandstone and marble set in a 119-acre charbagh garden, with a grand gateway. Its design mixes Hindu, Islamic and Persian motifs, reflecting Akbar's inclusive outlook.",
+      "hi": "बादशाह अकबर का मकबरा, जिसे अकबर ने शुरू करवाया और उनके बेटे जहाँगीर ने 1613 में पूरा किया। 119 एकड़ के चारबाग़ में बलुआ पत्थर और संगमरमर की पाँच मंज़िला, पिरामिड जैसी इमारत, साथ में भव्य द्वार। इसकी बनावट में हिंदू, इस्लामी और फ़ारसी कला का मेल है, जो अकबर की सबको साथ लेकर चलने की सोच दिखाता है।"
+    },
+    "interests": [
+      "history",
+      "architecture",
+      "nature",
+      "photography"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "family",
+      "couple",
+      "solo",
+      "kids"
+    ],
+    "durationHours": 1.5,
+    "timings": {
+      "en": "Sunrise to sunset, open all days.",
+      "hi": "सूर्योदय से सूर्यास्त तक, सभी दिन खुला।"
+    },
+    "entryFee": {
+      "en": "Indian Rs 30, SAARC/BIMSTEC Rs 30, other foreigners Rs 310; children under 15 free. Foreign visitors may also be charged an ADA toll. Check at the counter.",
+      "hi": "भारतीय ₹30, सार्क/बिम्सटेक ₹30, अन्य विदेशी ₹310; 15 साल से कम उम्र के बच्चे निःशुल्क। विदेशी पर्यटकों से एडीए टोल भी लिया जा सकता है। टिकट खिड़की पर जाँच लें।"
+    },
+    "howToReach": {
+      "en": "At Sikandra on the Agra-Delhi highway (NH-19), about 10 km from the city centre; from the Taj, take a cab or auto-rickshaw. The Tomb of Mariam-uz-Zamani is about 1 km away.",
+      "hi": "आगरा-दिल्ली हाईवे (NH-19) पर सिकंदरा में, शहर के बीच से लगभग 10 किमी; ताज से कैब या ऑटो-रिक्शा लें। मरियम-उज़-ज़मानी का मकबरा लगभग 1 किमी दूर है।"
+    },
+    "source": "District Agra, Government of Uttar Pradesh",
+    "url": "https://agra.nic.in/tourist-place/akbars-tomb-sikandra/"
+  },
+  {
+    "id": "chini-ka-rauza",
+    "type": "heritage",
+    "odop": false,
+    "name": {
+      "en": "Chini ka Rauza",
+      "hi": "चीनी का रौज़ा"
+    },
+    "lat": 27.2008,
+    "lng": 78.0342,
+    "description": {
+      "en": "Tomb of Allama Afzal Khan 'Mullah Shukrullah Shirazi', a poet-scholar who was prime minister to Shah Jahan, built around 1635. It is the only monument in Agra faced entirely with Persian glazed tiles (kashi or chini work); blue and turquoise tiles still show on the river-facing side.",
+      "hi": "अल्लामा अफ़ज़ल ख़ान 'मुल्ला शुक्रुल्लाह शिराज़ी' का मकबरा, जो कवि-विद्वान और शाहजहाँ के प्रधानमंत्री थे। यह लगभग 1635 में बना। आगरा में यही एक स्मारक है जो पूरी तरह फ़ारसी चमकदार टाइलों (काशी या चीनी काम) से ढका था; नदी की ओर वाली दीवार पर नीली और फ़िरोज़ी टाइलें आज भी दिखती हैं।"
+    },
+    "interests": [
+      "history",
+      "architecture",
+      "art"
+    ],
+    "budget": "free",
+    "goodFor": [
+      "solo",
+      "couple",
+      "elderly"
+    ],
+    "durationHours": 0.5,
+    "timings": {
+      "en": "Sunrise to sunset, open all days.",
+      "hi": "सूर्योदय से सूर्यास्त तक, सभी दिन खुला।"
+    },
+    "entryFee": {
+      "en": "Free for all visitors.",
+      "hi": "सभी के लिए निःशुल्क।"
+    },
+    "howToReach": {
+      "en": "On the left bank of the Yamuna, about 1 km north of Itimad-ud-Daulah's tomb. Go by auto-rickshaw and combine with Itimad-ud-Daulah and Ram Bagh.",
+      "hi": "यमुना के बाएँ किनारे पर, एतमादुद्दौला के मकबरे से लगभग 1 किमी उत्तर। ऑटो-रिक्शा से जाएँ और एतमादुद्दौला व राम बाग़ के साथ देखें।"
+    },
+    "source": "District Agra, Government of Uttar Pradesh",
+    "url": "https://agra.nic.in/tourist-place/chini-ka-rauza/"
+  },
+  {
+    "id": "ram-bagh",
+    "type": "heritage",
+    "odop": false,
+    "name": {
+      "en": "Ram Bagh (Bagh-i-Gul Afshan)",
+      "hi": "राम बाग़ (बाग़-ए-गुल अफ़शाँ)"
+    },
+    "lat": 27.2055,
+    "lng": 78.0385,
+    "description": {
+      "en": "Laid out by Emperor Babur around 1528, it is described as the oldest surviving Mughal garden in India and an early model of the charbagh (four-part garden) style that later shaped the Taj Mahal's gardens.",
+      "hi": "बादशाह बाबर ने इसे लगभग 1528 में बनवाया। इसे भारत का सबसे पुराना बचा हुआ मुग़ल बाग़ माना जाता है। यह चारबाग़ (चार हिस्सों वाले बाग़) शैली का शुरुआती नमूना है, जिससे आगे चलकर ताजमहल के बाग़ों का रूप बना।"
+    },
+    "interests": [
+      "history",
+      "nature"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "elderly",
+      "couple",
+      "solo"
+    ],
+    "durationHours": 0.75,
+    "timings": {
+      "en": "Sunrise to sunset, open all days.",
+      "hi": "सूर्योदय से सूर्यास्त तक, सभी दिन खुला।"
+    },
+    "entryFee": {
+      "en": "Indian Rs 25, SAARC/BIMSTEC Rs 25, other foreigners Rs 300; children under 15 free. Foreign visitors may also be charged an ADA toll. Check at the counter.",
+      "hi": "भारतीय ₹25, सार्क/बिम्सटेक ₹25, अन्य विदेशी ₹300; 15 साल से कम उम्र के बच्चे निःशुल्क। विदेशी पर्यटकों से एडीए टोल भी लिया जा सकता है। टिकट खिड़की पर जाँच लें।"
+    },
+    "howToReach": {
+      "en": "On the Agra-Aligarh road, about 3 km north-east of Itimad-ud-Daulah, on the left bank of the Yamuna. Auto-rickshaw or cab from the Taj across the Yamuna bridge.",
+      "hi": "आगरा-अलीगढ़ रोड पर, एतमादुद्दौला से लगभग 3 किमी उत्तर-पूर्व, यमुना के बाएँ किनारे पर। ताज से ऑटो-रिक्शा या कैब लेकर यमुना पुल पार करें।"
+    },
+    "source": "District Agra, Government of Uttar Pradesh",
+    "url": "https://agra.nic.in/tourist-place/ram-bagh-bagh-i-gul-afshan/"
+  },
+  {
+    "id": "jama-masjid-agra",
+    "type": "heritage",
+    "odop": false,
+    "name": {
+      "en": "Jama Masjid, Agra",
+      "hi": "जामा मस्जिद, आगरा"
+    },
+    "lat": 27.1821,
+    "lng": 78.0162,
+    "description": {
+      "en": "A large mosque in Agra's historic core near Agra Fort, endowed by Jahanara Begum, the eldest daughter of Shah Jahan. Construction began in 1643 and was completed in 1648. It is built mainly of red sandstone with white-marble detailing. It is an active place of worship.",
+      "hi": "आगरा के पुराने शहर में, आगरा किले के पास एक बड़ी मस्जिद, जिसे शाहजहाँ की सबसे बड़ी बेटी जहाँआरा बेगम ने बनवाया। इसका निर्माण 1643 में शुरू होकर 1648 में पूरा हुआ। यह मुख्य रूप से लाल बलुआ पत्थर से बनी है, बीच-बीच में सफ़ेद संगमरमर का काम है। यहाँ आज भी नमाज़ होती है।"
+    },
+    "interests": [
+      "history",
+      "architecture",
+      "spiritual"
+    ],
+    "budget": "free",
+    "goodFor": [
+      "solo",
+      "couple",
+      "pilgrim"
+    ],
+    "durationHours": 0.5,
+    "timings": {
+      "en": "No official visiting hours found. It is a working mosque, so avoid prayer times, dress modestly and check locally.",
+      "hi": "आधिकारिक समय नहीं मिला। यहाँ नमाज़ होती है, इसलिए नमाज़ के समय न जाएँ, शालीन कपड़े पहनें और स्थानीय रूप से समय पता कर लें।"
+    },
+    "entryFee": {
+      "en": "No official fee information found; check locally.",
+      "hi": "शुल्क की आधिकारिक जानकारी नहीं मिली; स्थानीय रूप से पता करें।"
+    },
+    "howToReach": {
+      "en": "About 3 km from the Taj by auto-rickshaw or cab, beside the Agra Fort railway station area; the old-city bazaars start right around it.",
+      "hi": "ताज से लगभग 3 किमी, ऑटो-रिक्शा या कैब से; आगरा फ़ोर्ट रेलवे स्टेशन के पास। पुराने शहर के बाज़ार इसके आसपास से ही शुरू होते हैं।"
+    },
+    "source": "Wikipedia - Jama Masjid, Agra",
+    "url": "https://en.wikipedia.org/wiki/Jama_Masjid,_Agra"
+  },
+  {
+    "id": "taj-museum",
+    "type": "museum",
+    "odop": false,
+    "name": {
+      "en": "Taj Museum (inside the Taj Mahal complex)",
+      "hi": "ताज संग्रहालय (ताजमहल परिसर के अंदर)"
+    },
+    "lat": 27.1731,
+    "lng": 78.0406,
+    "description": {
+      "en": "A small museum inside the Taj Mahal complex, run alongside the monument. A good short stop to add to your Taj visit.",
+      "hi": "ताजमहल परिसर के अंदर एक छोटा संग्रहालय। ताज घूमते समय थोड़ी देर रुकने के लिए अच्छी जगह।"
+    },
+    "interests": [
+      "history",
+      "art"
+    ],
+    "budget": "free",
+    "goodFor": [
+      "kids",
+      "elderly",
+      "family",
+      "solo"
+    ],
+    "durationHours": 0.5,
+    "timings": {
+      "en": "10 AM to 5 PM. The Taj Mahal complex is closed on Fridays.",
+      "hi": "सुबह 10 से शाम 5 बजे तक। ताजमहल परिसर शुक्रवार को बंद रहता है।"
+    },
+    "entryFee": {
+      "en": "Free (you need a valid Taj Mahal entry ticket to be inside the complex).",
+      "hi": "निःशुल्क (परिसर में जाने के लिए ताजमहल का प्रवेश टिकट ज़रूरी है)।"
+    },
+    "howToReach": {
+      "en": "Inside the Taj Mahal complex; ask the staff at the gate for directions.",
+      "hi": "ताजमहल परिसर के अंदर; रास्ते के लिए गेट पर कर्मचारियों से पूछें।"
+    },
+    "source": "Taj Mahal official website - Do's and Don'ts",
+    "url": "https://tajmahal.gov.in/dos-and-donts.aspx"
+  },
+  {
+    "id": "kinari-bazaar",
+    "type": "market",
+    "odop": false,
+    "name": {
+      "en": "Kinari Bazaar",
+      "hi": "किनारी बाज़ार"
+    },
+    "lat": 27.1819,
+    "lng": 78.0118,
+    "description": {
+      "en": "A busy old-city market of narrow lanes and crowded shops, selling traditional Indian clothing, accessories, and hand-embroidered bedspreads and cushion covers. Known also for its street food. Handcrafted leather goods are sold here too.",
+      "hi": "पुराने शहर का भीड़-भाड़ वाला बाज़ार, संकरी गलियों और दुकानों से भरा। यहाँ पारंपरिक भारतीय कपड़े, सजावट का सामान, और हाथ की कढ़ाई वाली चादरें व कुशन कवर मिलते हैं। यहाँ का स्ट्रीट फ़ूड भी मशहूर है। हाथ से बना चमड़े का सामान भी मिलता है।"
+    },
+    "interests": [
+      "shopping",
+      "food",
+      "photography"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "couple",
+      "solo",
+      "family"
+    ],
+    "durationHours": 1.5,
+    "timings": {
+      "en": "Shop timings vary; no official hours. Check locally.",
+      "hi": "दुकानों का समय अलग-अलग है; कोई आधिकारिक समय नहीं। स्थानीय रूप से पता करें।"
+    },
+    "entryFee": {
+      "en": "Free to walk around.",
+      "hi": "घूमना निःशुल्क।"
+    },
+    "howToReach": {
+      "en": "In the old city near Jama Masjid, about 3 km from the Taj by auto-rickshaw or cab. Lanes are narrow and crowded, so walk inside the market.",
+      "hi": "पुराने शहर में जामा मस्जिद के पास, ताज से लगभग 3 किमी, ऑटो-रिक्शा या कैब से। गलियाँ संकरी और भीड़ वाली हैं, इसलिए बाज़ार के अंदर पैदल घूमें।"
+    },
+    "source": "Incredible India (Ministry of Tourism) - Agra's Vibrant Bazaars",
+    "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra/agras-vibrant-bazaars",
+    "extraSources": [
+      {
+        "source": "Incredible India - Agra (leather goods in Sadar and Kinari Bazaar)",
+        "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra"
+      }
+    ]
+  },
+  {
+    "id": "sadar-bazaar",
+    "type": "market",
+    "odop": false,
+    "name": {
+      "en": "Sadar Bazaar",
+      "hi": "सदर बाज़ार"
+    },
+    "lat": 27.159,
+    "lng": 78.0111,
+    "description": {
+      "en": "A major shopping street close to Agra Cantonment railway station, selling leather goods, petha sweets, handicrafts and clothing. It is busiest in the evening, and its Chaat Gali is known for street food such as bhalla (dahi aloo tikki).",
+      "hi": "आगरा कैंट रेलवे स्टेशन के पास का बड़ा बाज़ार, जहाँ चमड़े का सामान, पेठा, हस्तशिल्प और कपड़े मिलते हैं। शाम को यहाँ सबसे ज़्यादा रौनक़ रहती है, और यहाँ की चाट गली भल्ला (दही आलू टिक्की) जैसे स्ट्रीट फ़ूड के लिए जानी जाती है।"
+    },
+    "interests": [
+      "shopping",
+      "food"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "family",
+      "couple",
+      "solo",
+      "kids"
+    ],
+    "durationHours": 1.5,
+    "timings": {
+      "en": "Busiest in the evening; shop timings vary. Check locally.",
+      "hi": "शाम को सबसे ज़्यादा रौनक़; दुकानों का समय अलग-अलग। स्थानीय रूप से पता करें।"
+    },
+    "entryFee": {
+      "en": "Free to walk around.",
+      "hi": "घूमना निःशुल्क।"
+    },
+    "howToReach": {
+      "en": "About 4 km south-west of the Taj in the Cantonment area, near Agra Cantt station; 10-15 minutes by auto-rickshaw or cab (approx., depends on traffic).",
+      "hi": "ताज से लगभग 4 किमी दक्षिण-पश्चिम, कैंट इलाके में आगरा कैंट स्टेशन के पास; ऑटो-रिक्शा या कैब से लगभग 10-15 मिनट (अनुमानित, ट्रैफ़िक पर निर्भर)।"
+    },
+    "source": "Wikipedia - Sadar Bazaar, Agra",
+    "url": "https://en.wikipedia.org/wiki/Sadar_Bazaar,_Agra"
+  },
+  {
+    "id": "agra-petha",
+    "type": "food",
+    "odop": true,
+    "name": {
+      "en": "Agra Petha",
+      "hi": "आगरा का पेठा"
+    },
+    "lat": 27.159,
+    "lng": 78.0111,
+    "description": {
+      "en": "Agra's best-known sweet, made from ash gourd and sugar, with a crystal-like, translucent texture. It is sold all over the city, including Sadar Bazaar, and makes a popular gift. The UP government's One District One Product (ODOP) portal lists the petha industry among Agra's district products. Try flavours such as kesar (saffron) and angoori petha.",
+      "hi": "आगरा की सबसे मशहूर मिठाई, जो पेठे (सफ़ेद कद्दू/ऐश गार्ड) और चीनी से बनती है और क्रिस्टल जैसी पारदर्शी दिखती है। यह पूरे शहर में, सदर बाज़ार समेत, मिलती है और तोहफ़े में ख़ूब ले जाई जाती है। उत्तर प्रदेश सरकार के 'एक ज़िला एक उत्पाद' (ODOP) पोर्टल पर पेठा उद्योग आगरा के उत्पादों में शामिल है। केसर और अंगूरी पेठा ज़रूर चखें।"
+    },
+    "interests": [
+      "food",
+      "shopping"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "kids",
+      "elderly",
+      "family",
+      "couple",
+      "solo",
+      "pilgrim"
+    ],
+    "durationHours": 0.5,
+    "timings": {
+      "en": "Sweet shops keep their own hours; check locally.",
+      "hi": "मिठाई की दुकानों का अपना समय होता है; स्थानीय रूप से पता करें।"
+    },
+    "entryFee": {
+      "en": "Pay per purchase; prices vary by shop.",
+      "hi": "ख़रीद के हिसाब से भुगतान; दाम दुकान के अनुसार।"
+    },
+    "howToReach": {
+      "en": "Petha shops are found across Agra; Sadar Bazaar (about 4 km from the Taj by auto-rickshaw or cab) has many.",
+      "hi": "पेठे की दुकानें पूरे आगरा में हैं; सदर बाज़ार (ताज से लगभग 4 किमी, ऑटो-रिक्शा या कैब से) में कई दुकानें हैं।"
+    },
+    "source": "One District One Product, Government of Uttar Pradesh - Agra district profile",
+    "url": "https://odopup.in/en/article/district-profile-agra",
+    "extraSources": [
+      {
+        "source": "Wikipedia - Petha (ash gourd; kesar and angoori varieties)",
+        "url": "https://en.wikipedia.org/wiki/Petha"
+      },
+      {
+        "source": "Wikipedia - Sadar Bazaar, Agra",
+        "url": "https://en.wikipedia.org/wiki/Sadar_Bazaar,_Agra"
+      }
+    ]
+  },
+  {
+    "id": "bedai-jalebi",
+    "type": "food",
+    "odop": false,
+    "name": {
+      "en": "Bedai and Jalebi Breakfast",
+      "hi": "बेढ़ई और जलेबी का नाश्ता"
+    },
+    "lat": 27.1819,
+    "lng": 78.0118,
+    "description": {
+      "en": "A favourite local morning meal: bedai, a puffy deep-fried kachori with a spicy filling, served with spicy aloo bhaaji (potato curry) and dahi, followed by hot jalebi. Eaten mostly in the mornings.",
+      "hi": "आगरा का पसंदीदा सुबह का नाश्ता: बेढ़ई, यानी मसालेदार भरावन वाली फूली हुई तली कचौड़ी, जिसे तीखी आलू की सब्ज़ी और दही के साथ परोसा जाता है, और साथ में गरम जलेबी। यह ज़्यादातर सुबह खाया जाता है।"
+    },
+    "interests": [
+      "food"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "family",
+      "couple",
+      "solo",
+      "pilgrim"
+    ],
+    "durationHours": 0.5,
+    "timings": {
+      "en": "Mornings. Stall timings vary; check locally.",
+      "hi": "सुबह के समय। ठेलों/दुकानों का समय अलग-अलग; स्थानीय रूप से पता करें।"
+    },
+    "entryFee": {
+      "en": "Pay per plate; prices vary.",
+      "hi": "प्लेट के हिसाब से भुगतान; दाम अलग-अलग।"
+    },
+    "howToReach": {
+      "en": "Sold at sweet and snack shops across the city, including the old-city market lanes (about 3 km from the Taj by auto-rickshaw or cab).",
+      "hi": "पूरे शहर की मिठाई और नाश्ते की दुकानों पर मिलता है, पुराने शहर की बाज़ार गलियों में भी (ताज से लगभग 3 किमी, ऑटो-रिक्शा या कैब से)।"
+    },
+    "source": "Wikipedia - Agra (Cuisine)",
+    "url": "https://en.wikipedia.org/wiki/Agra#Cuisine"
+  },
+  {
+    "id": "mughlai-food",
+    "type": "food",
+    "odop": false,
+    "name": {
+      "en": "Mughlai Cuisine",
+      "hi": "मुग़लई खाना"
+    },
+    "lat": 27.159,
+    "lng": 78.0111,
+    "description": {
+      "en": "Agra is famous for its Mughlai cuisine; the city's food is described as a blend of Mughal and local flavours. Try Mughlai dishes at restaurants across the city, and pick up dal moth, a savoury lentil snack, to take home.",
+      "hi": "आगरा अपने मुग़लई खाने के लिए मशहूर है; यहाँ के खाने में मुग़ल और स्थानीय स्वाद का मेल है। शहर भर के रेस्तराँ में मुग़लई व्यंजन चखें, और घर ले जाने के लिए दालमोठ (दाल का चटपटा नमकीन) ज़रूर लें।"
+    },
+    "interests": [
+      "food"
+    ],
+    "budget": "medium",
+    "goodFor": [
+      "family",
+      "couple",
+      "solo"
+    ],
+    "durationHours": 1.5,
+    "timings": {
+      "en": "Restaurant hours vary; check locally.",
+      "hi": "रेस्तराँ का समय अलग-अलग; स्थानीय रूप से पता करें।"
+    },
+    "entryFee": {
+      "en": "Pay per meal; prices vary from budget to fine dining.",
+      "hi": "खाने के हिसाब से भुगतान; दाम सस्ते से महँगे तक।"
+    },
+    "howToReach": {
+      "en": "Restaurants are spread across Agra, including near the Taj and in the Sadar Bazaar area; reach by auto-rickshaw or cab.",
+      "hi": "रेस्तराँ पूरे आगरा में हैं, ताज के आसपास और सदर बाज़ार इलाके में भी; ऑटो-रिक्शा या कैब से पहुँचें।"
+    },
+    "source": "Incredible India (Ministry of Tourism) - Agra",
+    "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra",
+    "extraSources": [
+      {
+        "source": "Wikipedia - Agra (famous for its Mughlai cuisine; blend of Mughal and local flavours)",
+        "url": "https://en.wikipedia.org/wiki/Agra"
+      }
+    ]
+  },
+  {
+    "id": "agra-leather",
+    "type": "craft",
+    "odop": true,
+    "name": {
+      "en": "Agra Leather Products and Footwear (ODOP)",
+      "hi": "आगरा के चमड़ा उत्पाद और फुटवियर (ODOP)"
+    },
+    "lat": 27.159,
+    "lng": 78.0111,
+    "description": {
+      "en": "Leather products and footwear are Agra's One District One Product (ODOP) under the UP government's programme; the portal's Agra page is titled 'Leather Shoe'. Experienced artisans make finely stitched shoes and a wide range of leather goods, a craft rooted in centuries of skill. Agra's footwear units make over 1.5 lakh pairs of shoes a day. Leather goods are sold in Sadar Bazaar and Kinari Bazaar.",
+      "hi": "उत्तर प्रदेश सरकार की 'एक ज़िला एक उत्पाद' (ODOP) योजना में चमड़ा उत्पाद और फुटवियर आगरा का उत्पाद है; पोर्टल पर आगरा के पेज का नाम 'चमड़े का जूता' है। अनुभवी कारीगर बारीकी से सिले जूते और चमड़े की कई चीज़ें बनाते हैं; यह हुनर सदियों पुराना है। आगरा की फुटवियर इकाइयाँ रोज़ 1.5 लाख से ज़्यादा जोड़ी जूते बनाती हैं। चमड़े का सामान सदर बाज़ार और किनारी बाज़ार में मिलता है।"
+    },
+    "interests": [
+      "shopping",
+      "art"
+    ],
+    "budget": "medium",
+    "goodFor": [
+      "couple",
+      "solo",
+      "family"
+    ],
+    "durationHours": 1,
+    "timings": {
+      "en": "Shop timings vary; check locally.",
+      "hi": "दुकानों का समय अलग-अलग; स्थानीय रूप से पता करें।"
+    },
+    "entryFee": {
+      "en": "Pay per purchase; prices vary.",
+      "hi": "ख़रीद के हिसाब से भुगतान; दाम अलग-अलग।"
+    },
+    "howToReach": {
+      "en": "Shop in Sadar Bazaar (about 4 km from the Taj) or Kinari Bazaar (about 3 km); auto-rickshaw or cab.",
+      "hi": "सदर बाज़ार (ताज से लगभग 4 किमी) या किनारी बाज़ार (लगभग 3 किमी) में ख़रीदें; ऑटो-रिक्शा या कैब से जाएँ।"
+    },
+    "source": "One District One Product, Government of Uttar Pradesh - Agra district profile",
+    "url": "https://odopup.in/en/article/district-profile-agra",
+    "extraSources": [
+      {
+        "source": "Wikipedia - Agra (over 1.5 lakh pairs of shoes a day)",
+        "url": "https://en.wikipedia.org/wiki/Agra"
+      },
+      {
+        "source": "Incredible India - Agra (leather goods in Sadar and Kinari Bazaar)",
+        "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra"
+      }
+    ]
+  },
+  {
+    "id": "marble-inlay",
+    "type": "craft",
+    "odop": true,
+    "name": {
+      "en": "Marble Inlay (Parchin Kari / Pietra Dura)",
+      "hi": "संगमरमर पच्चीकारी (परचिनकारी)"
+    },
+    "lat": 27.1819,
+    "lng": 78.0118,
+    "description": {
+      "en": "The same art seen on the Taj Mahal: semi-precious stones are cut and set into white marble to form flowers and patterns. In Mughal India it was called parchin kari. Agra still has a flourishing inlay industry. Stone and marble engraving handicrafts are also listed among Agra's products on the UP ODOP portal. Look for inlay work at Raja Ki Mandi, Subhash Bazar and Shah Market.",
+      "hi": "वही कला जो ताजमहल पर दिखती है: क़ीमती पत्थरों को काटकर सफ़ेद संगमरमर में जड़ा जाता है, जिससे फूल और नमूने बनते हैं। मुग़ल काल में इसे परचिनकारी कहते थे। आगरा में आज भी यह काम बड़े पैमाने पर होता है। उत्तर प्रदेश के ODOP पोर्टल पर पत्थर और संगमरमर नक्काशी हस्तशिल्प भी आगरा के उत्पादों में शामिल है। पच्चीकारी का सामान राजा की मंडी, सुभाष बाज़ार और शाह मार्केट में देखें।"
+    },
+    "interests": [
+      "art",
+      "shopping",
+      "history"
+    ],
+    "budget": "medium",
+    "goodFor": [
+      "couple",
+      "solo",
+      "elderly",
+      "family"
+    ],
+    "durationHours": 1,
+    "timings": {
+      "en": "Shop timings vary; check locally.",
+      "hi": "दुकानों का समय अलग-अलग; स्थानीय रूप से पता करें।"
+    },
+    "entryFee": {
+      "en": "Pay per purchase; prices vary widely with stone count and size.",
+      "hi": "ख़रीद के हिसाब से भुगतान; दाम पत्थरों की संख्या और आकार के अनुसार बहुत अलग-अलग।"
+    },
+    "howToReach": {
+      "en": "Subhash Bazar is in the old city near Kinari Bazaar, about 3 km from the Taj; Raja Ki Mandi and Shah Market are also reachable by auto-rickshaw or cab.",
+      "hi": "सुभाष बाज़ार पुराने शहर में किनारी बाज़ार के पास है, ताज से लगभग 3 किमी; राजा की मंडी और शाह मार्केट भी ऑटो-रिक्शा या कैब से पहुँच सकते हैं।"
+    },
+    "source": "Incredible India (Ministry of Tourism) - Agra's Vibrant Bazaars",
+    "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra/agras-vibrant-bazaars",
+    "extraSources": [
+      {
+        "source": "Wikipedia - Pietra dura (parchin kari; Agra's inlay industry)",
+        "url": "https://en.wikipedia.org/wiki/Pietra_dura"
+      },
+      {
+        "source": "One District One Product UP - Agra (Stone/Marble Engraving Handicrafts)",
+        "url": "https://odopup.in/en/article/district-profile-agra"
+      }
+    ]
+  },
+  {
+    "id": "taj-mahotsav",
+    "type": "festival",
+    "odop": false,
+    "name": {
+      "en": "Taj Mahotsav",
+      "hi": "ताज महोत्सव"
+    },
+    "lat": 27.171,
+    "lng": 78.051,
+    "description": {
+      "en": "A 10-day festival of crafts, folk performances, classical music and food, held every February near the Taj Mahal's eastern gate at Shilpgram. Started in 1992 to promote artisans, it brings craftspeople from across India and sells crafts at fair prices.",
+      "hi": "हर फ़रवरी ताजमहल के पूर्वी गेट के पास शिल्पग्राम में होने वाला 10 दिन का उत्सव, जिसमें हस्तशिल्प, लोक नृत्य-संगीत, शास्त्रीय संगीत और खान-पान होता है। कारीगरों को बढ़ावा देने के लिए 1992 में शुरू हुए इस मेले में देश भर के शिल्पकार आते हैं और वाजिब दाम पर सामान मिलता है।"
+    },
+    "interests": [
+      "art",
+      "shopping",
+      "food",
+      "photography"
+    ],
+    "budget": "low",
+    "goodFor": [
+      "kids",
+      "family",
+      "couple",
+      "solo",
+      "elderly"
+    ],
+    "durationHours": 3,
+    "when": "February (annual, usually 18-27 February; check the current year's dates)",
+    "timings": {
+      "en": "Daily during the festival; check the current year's schedule.",
+      "hi": "उत्सव के दौरान रोज़; इस साल का कार्यक्रम पता कर लें।"
+    },
+    "entryFee": {
+      "en": "Entry is ticketed; check the current rate at the gate.",
+      "hi": "प्रवेश के लिए टिकट लगता है; मौजूदा दर गेट पर पता करें।"
+    },
+    "howToReach": {
+      "en": "Shilpgram is near the Taj Mahal's eastern gate; a short walk or auto-rickshaw ride from the Taj.",
+      "hi": "शिल्पग्राम ताजमहल के पूर्वी गेट के पास है; ताज से थोड़ा पैदल या ऑटो-रिक्शा से।"
+    },
+    "source": "Incredible India (Ministry of Tourism) - Taj Mahotsav, Agra",
+    "url": "https://www.incredibleindia.gov.in/en/festivals-and-events/uttar-pradesh/taj-mahotsav-agra",
+    "extraSources": [
+      {
+        "source": "Wikipedia - Taj Mahotsav (Shilpgram, 1992, 18-27 February)",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahotsav"
+      },
+      {
+        "source": "Incredible India - Agra (held near the Taj Mahal's eastern gate)",
+        "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra"
+      }
+    ]
+  }
+]

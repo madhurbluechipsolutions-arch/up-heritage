@@ -1,0 +1,1944 @@
+[
+  {
+    "id": "forecourt-jilaukhana",
+    "site": "taj-mahal",
+    "category": "courtyard",
+    "name": {
+      "en": "Forecourt (Jilaukhana)",
+      "hi": "जिलौखाना (आगे का आँगन)"
+    },
+    "lat": 27.1711,
+    "lng": 78.04215,
+    "tourOrder": 1,
+    "tourMinutes": 6,
+    "priority": 2,
+    "summary": {
+      "en": "The big entrance courtyard you reach from the East or West Gate. In Mughal times visitors got off their horses and elephants here before passing through the Great Gate.",
+      "hi": "पूर्वी या पश्चिमी गेट से अंदर आते ही यह बड़ा आँगन मिलता है। मुग़ल ज़माने में लोग यहीं अपने घोड़ों और हाथियों से उतरते थे और फिर बड़े दरवाज़े से अंदर जाते थे।"
+    },
+    "history": [
+      {
+        "en": "'Jilaukhana' literally means 'in front of the house'. This kind of forecourt was introduced into Mughal architecture by Shah Jahan; here visitors dismounted from horses or elephants and assembled before entering the tomb complex.",
+        "hi": "'जिलौखाना' का मतलब है 'घर के सामने'। ऐसा आँगन शाहजहाँ ने मुग़ल वास्तुकला में शुरू किया था। यहाँ आने वाले लोग घोड़े या हाथी से उतरकर इकट्ठा होते थे, फिर मक़बरे की ओर बढ़ते थे।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "The first death-anniversary ceremony ('Urs') for Mumtaz Mahal, on 5 June 1632, was a tented event held where the entrance courtyard (jilaukhana) is now; alms were given and prayers recited.",
+        "hi": "मुमताज़ महल की पहली बरसी (उर्स) 5 जून 1632 को उसी जगह तंबुओं में मनाई गई थी जहाँ आज यह आँगन है। उस दिन दान बाँटा गया और दुआएँ पढ़ी गईं।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Two identical bazaar streets lead into the forecourt from the East and West gates. Their small rooms were used to sell goods from the time the Taj was built until 1996, and the tax from this trade paid for the upkeep of the Taj.",
+        "hi": "पूर्वी और पश्चिमी गेट से दो एक जैसी बाज़ार गलियाँ इस आँगन तक आती हैं। इनकी छोटी कोठरियों में ताज बनने के समय से 1996 तक सामान बिकता था, और इस व्यापार के टैक्स से ताज की देखभाल होती थी।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "In the two northern corners were the Khawasspuras – quarters for the tomb attendants and the Quran reciters (Hafiz). They were restored by Lord Curzon during his repairs of 1900–1908.",
+        "hi": "आँगन के उत्तरी कोनों में ख़वासपुरा थे – मक़बरे के सेवकों और क़ुरान पढ़ने वाले हाफ़िज़ों के रहने की जगह। 1900 से 1908 के बीच लॉर्ड कर्ज़न की मरम्मत में इन्हें ठीक किया गया।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Today the complex is entered through the East Gate (Fatehabadi Darwaza) or West Gate (Fatehpuri Darwaza); the South Gate is used only as an exit.",
+        "hi": "आज ताज परिसर में पूर्वी गेट (फ़तेहाबादी दरवाज़ा) या पश्चिमी गेट (फ़तेहपुरी दरवाज़ा) से प्रवेश होता है; दक्षिणी गेट सिर्फ़ बाहर निकलने के लिए है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "The bazaar streets are lined with small windowless cells behind an arcaded verandah with many-cusped arches on the simplest form of the 'Shah Jahan' column; sloping stone eaves on brackets (chhajja) shade them from sun and rain.",
+        "hi": "बाज़ार की गलियों में बिना खिड़की वाली छोटी कोठरियाँ हैं, जिनके आगे बरामदा है। बरामदे के मेहराब कई कंगूरों वाले हैं और खंभे 'शाहजहानी' शैली के सबसे सादे रूप में हैं। ऊपर ढलवाँ पत्थर का छज्जा धूप और बारिश से बचाता है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      },
+      {
+        "en": "Plant-style (naturalistic) decoration is completely absent in the jilaukhana and the bazaar area; it appears more and more as you walk towards the mausoleum – a deliberate hierarchy.",
+        "hi": "जिलौखाने और बाज़ार वाले हिस्से में फूल-पत्तियों की सजावट बिल्कुल नहीं है; मक़बरे की ओर बढ़ते-बढ़ते यह सजावट बढ़ती जाती है – यह जान-बूझकर बनाया गया क्रम है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Because the site slopes down towards the river, the South Gate stands about 7 ft 10 in above the forecourt and is reached by a short flight of steps.",
+        "hi": "ज़मीन नदी की ओर ढलान वाली है, इसलिए दक्षिणी गेट आँगन से लगभग 7 फ़ुट 10 इंच ऊँचा है और कुछ सीढ़ियाँ चढ़कर पहुँचा जाता है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      }
+    ],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "During Shah Jahan's annual Urs, after the 'chadar poshi' (offering of a long cloth sheet) at the tomb, langar (a free community meal) is served in the forecourt (as described for the 2023 Urs).",
+        "hi": "शाहजहाँ के सालाना उर्स में मक़बरे पर चादरपोशी के बाद इसी आँगन में लंगर (सबके लिए मुफ़्त भोजन) बाँटा जाता है (2023 के उर्स के विवरण के अनुसार)।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/shahjahan-urs.aspx"
+      }
+    ],
+    "visualCues": "Large rectangular open courtyard paved in red sandstone with lawns, enclosed by long low red-sandstone arcades of small cusped arches with flat projecting eaves; on its north side rises the tall red-and-white Great Gate with a big central arch. Crowds, ticket/security queues; no white marble buildings in this space.",
+    "accessibility": {
+      "en": "Battery buses and golf carts run from the parking areas to the gates. Wheelchairs and a first-aid box are available at the ASI office at the Taj (phone 0562-2330498).",
+      "hi": "पार्किंग से गेट तक बैटरी बस और गोल्फ़ कार्ट चलती हैं। ताज पर ASI ऑफ़िस में व्हीलचेयर और फ़र्स्ट-एड बॉक्स मिलता है (फ़ोन 0562-2330498)।"
+    },
+    "faq": [
+      {
+        "q": {
+          "en": "Which gate should I use to enter?",
+          "hi": "अंदर जाने के लिए कौन-सा गेट इस्तेमाल करें?"
+        },
+        "a": {
+          "en": "Enter through the East or West Gate, where tickets are sold. The South Gate is exit-only.",
+          "hi": "पूर्वी या पश्चिमी गेट से अंदर जाएँ, वहीं टिकट मिलते हैं। दक्षिणी गेट सिर्फ़ बाहर निकलने के लिए है।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/The_Jilaukhana_at_the_Taj_Mahal%2C_India%2C_2013-03_%2811551324674%29.jpg/1280px-The_Jilaukhana_at_the_Taj_Mahal%2C_India%2C_2013-03_%2811551324674%29.jpg",
+        "credit": "Edmund Gall",
+        "license": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Jilaukhana_at_the_Taj_Mahal,_India,_2013-03_(11551324674).jpg"
+      }
+    ]
+  },
+  {
+    "id": "saheli-burj",
+    "site": "taj-mahal",
+    "category": "tomb",
+    "name": {
+      "en": "Saheli Burj (Subsidiary Tombs of the Forecourt)",
+      "hi": "सहेली बुर्ज (आँगन के छोटे मक़बरे)"
+    },
+    "lat": 27.17065,
+    "lng": 78.04071,
+    "tourOrder": 2,
+    "tourMinutes": 4,
+    "priority": 3,
+    "summary": {
+      "en": "Two small mirror-image tomb enclosures in the southern corners of the forecourt, traditionally linked with two other wives of Shah Jahan.",
+      "hi": "आँगन के दक्षिणी कोनों में दो छोटे, एक जैसे मक़बरे, जिन्हें परंपरा से शाहजहाँ की दो और बेगमों से जोड़ा जाता है।"
+    },
+    "history": [
+      {
+        "en": "The ASI identifies the tombs at the south-east and south-west corners of the forecourt as those of Akbarabadi Begum and Fatehpuri Begum, two other queens of Shah Jahan, and calls them Saheli Burj 1 and 2.",
+        "hi": "ASI के अनुसार आँगन के दक्षिण-पूर्वी और दक्षिण-पश्चिमी कोनों के मक़बरे शाहजहाँ की दो और बेगमों – अकबराबादी बेगम और फ़तेहपुरी बेगम – के हैं, और इन्हें सहेली बुर्ज 1 और 2 कहा जाता है।",
+        "source": "Archaeological Survey of India (archived monument page)",
+        "url": "https://web.archive.org/web/20150215034204/http://asi.nic.in/asi_monu_whs_agratajmahal.asp"
+      },
+      {
+        "en": "There is some uncertainty about who is buried here: the tombs are not described in the contemporary Mughal accounts. The first document to name them is a 1789 plan by Thomas and William Daniell, which marks the eastern tomb as Akbarabadi Mahal's and the western as Fatehpuri Mahal's.",
+        "hi": "यहाँ कौन दफ़न है, इस पर कुछ संदेह है: उस समय के मुग़ल विवरणों में इनका ज़िक्र नहीं है। इनका नाम सबसे पहले 1789 में टॉमस और विलियम डैनियल के नक्शे में मिलता है, जिसमें पूर्वी मक़बरा अकबराबादी महल का और पश्चिमी फ़तेहपुरी महल का बताया गया है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "The name 'Saheli Burj' is traditional and means 'tower of the female friend'.",
+        "hi": "'सहेली बुर्ज' एक पारंपरिक नाम है, जिसका अर्थ है 'सहेली का बुर्ज'।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Each is a miniature version of the main complex: an octagonal tomb on a raised rectangular platform reached by steps, flanked by smaller buildings, with a small four-part (charbagh) garden in front.",
+        "hi": "हर मक़बरा मुख्य ताज परिसर का छोटा रूप है: सीढ़ियों से चढ़ने वाले ऊँचे आयताकार चबूतरे पर अठकोना मक़बरा, अगल-बगल छोटी इमारतें, और सामने चार हिस्सों वाला छोटा बाग़ (चारबाग़)।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "folklore": [],
+    "visualCues": "Small octagonal domed tomb in red sandstone with white marble details, sitting on a raised platform with steps, inside its own walled enclosure with a small square lawn garden in front; located in a corner of the forecourt, far smaller than the main white mausoleum.",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/The_Tomb_of_Fatehpuri_Begum_in_the_Taj_Mahal_complex.jpg",
+        "credit": "Leonid Andronov",
+        "license": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Tomb_of_Fatehpuri_Begum_in_the_Taj_Mahal_complex.jpg"
+      }
+    ]
+  },
+  {
+    "id": "great-gate",
+    "site": "taj-mahal",
+    "category": "gateway",
+    "name": {
+      "en": "Great Gate (Darwaza-i-Rauza)",
+      "hi": "दरवाज़ा-ए-रौज़ा (मुख्य द्वार)"
+    },
+    "lat": 27.17168,
+    "lng": 78.04219,
+    "tourOrder": 3,
+    "tourMinutes": 8,
+    "priority": 1,
+    "summary": {
+      "en": "The monumental main gateway between the forecourt and the garden. Through its arch you get your first framed view of the Taj Mahal.",
+      "hi": "आँगन और बाग़ के बीच बना विशाल मुख्य दरवाज़ा। इसके मेहराब से ताजमहल की पहली झलक एक फ़्रेम की तरह दिखती है।"
+    },
+    "history": [
+      {
+        "en": "The court historian Lahauri calls it 'darwaza-i rauza' – 'gate of the mausoleum'. It stands in the centre of the southern wall of the funerary garden.",
+        "hi": "दरबारी इतिहासकार लाहौरी ने इसे 'दरवाज़ा-ए-रौज़ा' यानी 'मक़बरे का दरवाज़ा' कहा है। यह बाग़ की दक्षिणी दीवार के बीच में खड़ा है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      },
+      {
+        "en": "The calligrapher Amanat Khan dated the north arch of the Great Gate in 1648 (1058 AH) with the words 'Finished with His help, the Most High'.",
+        "hi": "सुलेखक अमानत ख़ाँ ने 1648 (1058 हिजरी) में बड़े दरवाज़े के उत्तरी मेहराब पर तारीख़ के साथ लिखा: 'उस सर्वोच्च की मदद से पूरा हुआ'।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "UNESCO describes the main gate as the most impressive building in the complex after the tomb itself; the mosque, guest house and main gateway on the south, with the outer courtyard, were completed by 1653.",
+        "hi": "यूनेस्को के अनुसार मक़बरे के बाद यह मुख्य दरवाज़ा परिसर की सबसे प्रभावशाली इमारत है; मस्जिद, मेहमानख़ाना, दक्षिण का मुख्य दरवाज़ा और बाहरी आँगन 1653 तक पूरे हुए।",
+        "source": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "The gate symbolises the passage from the worldly area of bazaars to the spiritual realm of the paradise garden and the tomb. Its rectangular plan is a variation of the nine-part 'hasht bihisht' plan used in the mausoleum, and octagonal towers at its corners give it a fort-like look.",
+        "hi": "यह दरवाज़ा बाज़ार की दुनियादारी से जन्नत जैसे बाग़ और मक़बरे की आध्यात्मिक दुनिया में जाने का प्रतीक है। इसका आयताकार नक्शा मक़बरे के नौ-हिस्सों वाले 'हश्त बिहिश्त' नक्शे का ही एक रूप है, और कोनों पर अठकोने बुर्ज इसे किले जैसा रूप देते हैं।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Outer domes were reserved for tombs and mosques, so the gate's large inner dome is not visible from outside.",
+        "hi": "बाहर दिखने वाले गुंबद सिर्फ़ मक़बरों और मस्जिदों के लिए थे, इसलिए दरवाज़े के अंदर का बड़ा गुंबद बाहर से नहीं दिखता।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Quranic inscriptions frame the northern and southern arches. The calligraphy on the gate reads: 'O Soul, thou art at rest. Return to the Lord at peace with Him, and He at peace with you.'",
+        "hi": "उत्तरी और दक्षिणी मेहराबों के चारों ओर क़ुरान की आयतें लिखी हैं। दरवाज़े पर लिखा है: 'ऐ सुकून पाई हुई रूह, अपने रब की ओर लौट चल, तू उससे राज़ी और वह तुझसे राज़ी।'",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Its front is a monumental version of a Mughal design – one large arched portal (pishtaq) flanked by two tiers of niches – whose roots go back to the Delhi Sultanate's Alai Darwaza. Platforms with geometric paving lie on its south and north sides.",
+        "hi": "इसका सामने का हिस्सा एक मुग़ल डिज़ाइन का विशाल रूप है – बीच में एक बड़ा मेहराबदार द्वार (पिश्ताक़) और दोनों ओर दो मंज़िल ताक़। इस डिज़ाइन की जड़ें दिल्ली सल्तनत के अलाई दरवाज़े तक जाती हैं। इसके दक्षिण और उत्तर में ज्यामितीय फ़र्श वाले चबूतरे हैं।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      },
+      {
+        "en": "Seen from inside the Great Gate, the mausoleum is framed by the pointed arch of the portal.",
+        "hi": "बड़े दरवाज़े के अंदर से देखने पर मक़बरा उसके नुकीले मेहराब में फ़्रेम की तरह दिखता है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "A popular comparison says the Great Gate is like a bride's veil: just as a veil is lifted gently to reveal the bride, the gate slowly reveals the Taj framed in its arch as you walk through.",
+        "hi": "एक लोकप्रिय उपमा कहती है कि बड़ा दरवाज़ा दुल्हन के घूँघट जैसा है: जैसे घूँघट धीरे से उठकर दुल्हन का चेहरा दिखाता है, वैसे ही दरवाज़े से गुज़रते हुए उसके मेहराब में ताज धीरे-धीरे सामने आता है।",
+        "label": "popular belief",
+        "note": {
+          "en": "This is a poetic interpretation told on the official site's 'Taj Story' page; no Mughal record says the builders intended it.",
+          "hi": "यह आधिकारिक साइट के 'ताज स्टोरी' पन्ने पर दी गई एक काव्यात्मक व्याख्या है; किसी मुग़ल दस्तावेज़ में नहीं लिखा कि बनाने वालों का यही इरादा था।"
+        },
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-story.aspx"
+      }
+    ],
+    "devotional": [
+      {
+        "en": "The inscription around the southern arch is from the Quran's chapter 'Daybreak' (al-Fajr) and invites believers to enter the garden of paradise.",
+        "hi": "दक्षिणी मेहराब के चारों ओर की आयत क़ुरान की सूरह 'अल-फ़ज्र' (भोर) से है, जो ईमान वालों को जन्नत के बाग़ में आने का न्योता देती है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "kidsStory": {
+      "en": "Long ago, people riding horses and elephants stopped in front of this giant red gate. Its name means 'gate of the tomb'. Walk into its big arch and look ahead – the white Taj Mahal appears inside the arch like a picture in a frame! A writer named Amanat Khan carved a note on the gate saying the work was finished in 1648.",
+      "hi": "बहुत पहले घोड़ों और हाथियों पर आने वाले लोग इस बड़े लाल दरवाज़े के सामने रुकते थे। इसके नाम का मतलब है 'मक़बरे का दरवाज़ा'। इसके बड़े मेहराब में जाकर सामने देखो – सफ़ेद ताजमहल ऐसा दिखता है जैसे किसी फ़्रेम में लगी तस्वीर! अमानत ख़ाँ नाम के सुलेखक ने दरवाज़े पर लिखा कि काम 1648 में पूरा हुआ।"
+    },
+    "visualCues": "Massive rectangular red-sandstone gateway with a very tall central pointed-arch portal outlined in white marble bands of black Arabic calligraphy; octagonal corner towers topped by small white domed kiosks, and a row of small white domed kiosks (chhatris) along the top edge. Inlaid white geometric and floral panels on red stone. Viewed from the garden side, it closes the long water channel; from the forecourt it hides the Taj.",
+    "faq": [
+      {
+        "q": {
+          "en": "Where is the best first view of the Taj?",
+          "hi": "ताज की सबसे अच्छी पहली झलक कहाँ से मिलती है?"
+        },
+        "a": {
+          "en": "From inside the Great Gate's arch: the mausoleum appears framed by the pointed arch of the portal.",
+          "hi": "बड़े दरवाज़े के मेहराब के अंदर से: वहाँ से मक़बरा नुकीले मेहराब में फ़्रेम की तरह दिखता है।"
+        }
+      },
+      {
+        "q": {
+          "en": "What is written on the gate?",
+          "hi": "दरवाज़े पर क्या लिखा है?"
+        },
+        "a": {
+          "en": "Quranic verses in black inlaid script. One reads: 'O Soul, thou art at rest. Return to the Lord at peace with Him, and He at peace with you.'",
+          "hi": "काले पत्थर से जड़ी क़ुरान की आयतें। एक आयत है: 'ऐ सुकून पाई हुई रूह, अपने रब की ओर लौट चल, तू उससे राज़ी और वह तुझसे राज़ी।'"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_Great_gate_%28Darwaza-i_rauza%29%2C_Agra.jpg/1280px-The_Great_gate_%28Darwaza-i_rauza%29%2C_Agra.jpg",
+        "credit": "Clément Bardot",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Great_gate_(Darwaza-i_rauza),_Agra.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/20191204_Great_Gate%2C_Taj_Mahal_0724_6580_DxO.jpg/1280px-20191204_Great_Gate%2C_Taj_Mahal_0724_6580_DxO.jpg",
+        "credit": "Jakub Hałun",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:20191204_Great_Gate,_Taj_Mahal_0724_6580_DxO.jpg"
+      }
+    ]
+  },
+  {
+    "id": "southern-galleries",
+    "site": "taj-mahal",
+    "category": "gallery",
+    "name": {
+      "en": "Southern Galleries (Iwan Dar Iwan)",
+      "hi": "दक्षिणी दालान (ऐवान-दर-ऐवान)"
+    },
+    "lat": 27.172,
+    "lng": 78.0412,
+    "tourOrder": 4,
+    "tourMinutes": 3,
+    "priority": 3,
+    "summary": {
+      "en": "Long arcaded galleries on the garden side of the southern wall, on both sides of the Great Gate – once used to receive the poor and give alms.",
+      "hi": "बड़े दरवाज़े के दोनों ओर, दक्षिणी दीवार के बाग़ वाले हिस्से में लंबे खंभों वाले दालान – जहाँ कभी ग़रीबों को बुलाकर दान दिया जाता था।"
+    },
+    "history": [
+      {
+        "en": "The galleries were used during the rainy season to admit the poor and distribute alms.",
+        "hi": "बारिश के मौसम में इन दालानों में ग़रीबों को बुलाकर दान बाँटा जाता था।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "A raised platform with geometric paving carries the column bases; between the columns are cusped arches typical of Mughal architecture of the period. Each end finishes in a cross-wise room with three divisions.",
+        "hi": "ज्यामितीय फ़र्श वाले ऊँचे चबूतरे पर खंभे टिके हैं; खंभों के बीच उस दौर की मुग़ल शैली के कंगूरेदार मेहराब हैं। दोनों छोर पर आड़ा बना तीन हिस्सों वाला कमरा है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "A single column type, the 'Shahjahani column', with a many-faceted shaft and a capital built up of tiny arches, is used across the whole complex – simplest in the bazaar streets and richest near the tomb.",
+        "hi": "पूरे परिसर में एक ही तरह का खंभा – 'शाहजहानी खंभा' – इस्तेमाल हुआ है, जिसका तना कई पहलुओं वाला और सिरा छोटे-छोटे मेहराबों से बना है। बाज़ार में यह सबसे सादा और मक़बरे के पास सबसे सजीला है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/architecture.aspx"
+      }
+    ],
+    "folklore": [],
+    "visualCues": "Long, shaded red-sandstone colonnade of repeating cusped (scalloped) arches on slender faceted columns, raised on a low platform, running left and right of the Great Gate along the garden's southern wall; views of the garden lawns in front.",
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Agra-Taj_Mahal-11a-Galerie_am_Eingang-2018-gje.jpg/1280px-Agra-Taj_Mahal-11a-Galerie_am_Eingang-2018-gje.jpg",
+        "credit": "Gerd Eichmann",
+        "license": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Agra-Taj_Mahal-11a-Galerie_am_Eingang-2018-gje.jpg"
+      }
+    ]
+  },
+  {
+    "id": "charbagh-garden",
+    "site": "taj-mahal",
+    "category": "garden",
+    "name": {
+      "en": "Charbagh Garden and Water Channels",
+      "hi": "चारबाग़ और पानी की नहरें"
+    },
+    "lat": 27.1725,
+    "lng": 78.0418,
+    "tourOrder": 5,
+    "tourMinutes": 10,
+    "priority": 1,
+    "summary": {
+      "en": "The great four-part Mughal garden between the Great Gate and the tomb, divided by raised walkways and water channels that symbolise the rivers of Paradise.",
+      "hi": "बड़े दरवाज़े और मक़बरे के बीच चार हिस्सों में बँटा विशाल मुग़ल बाग़, जिसकी ऊँची पगडंडियाँ और पानी की नहरें जन्नत की नदियों का प्रतीक हैं।"
+    },
+    "history": [
+      {
+        "en": "The charbagh style, inspired by Persian gardens, was introduced to India by Babur, the first Mughal emperor.",
+        "hi": "फ़ारसी बाग़ों से प्रेरित चारबाग़ शैली भारत में पहले मुग़ल बादशाह बाबर लाए थे।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "Early accounts describe roses, daffodils and many fruit trees. The original planting is not exactly known; at the end of the 19th century, under Viceroy Lord Curzon, the gardener A. E. P. Griessen thinned the trees, replanted cypresses and laid the garden out as lawns – the lawns you see today.",
+        "hi": "पुराने विवरणों में गुलाब, नरगिस और बहुत से फलदार पेड़ों का ज़िक्र है। शुरुआत में ठीक कौन-से पौधे लगे थे, यह पूरी तरह पता नहीं है। 19वीं सदी के अंत में वायसराय लॉर्ड कर्ज़न के समय माली ए. ई. पी. ग्रिसेन ने पेड़ छाँटे, सरू फिर से लगाए और घास के लॉन बनाए – जो आज दिखते हैं।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Water came from the Yamuna through an aqueduct outside the west wall, lifted by animal-powered devices (purs). From a 9.47 m high wall the falling water gave enough pressure to run the fountains; a copper pot under each fountain head kept the pressure equal.",
+        "hi": "पानी यमुना से पश्चिमी दीवार के बाहर बनी नहर-पुल (एक्वाडक्ट) से आता था, जिसे जानवरों से चलने वाले 'पुर' ऊपर उठाते थे। 9.47 मीटर ऊँची दीवार से गिरते पानी से इतना दबाव बनता था कि फव्वारे चल सकें; हर फव्वारे के नीचे ताँबे का बर्तन दबाव बराबर रखता था।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-garden.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Two main walkways (khiyaban) divide the garden into four quarters; narrower raised paths divide each quarter further, making 16 sunken flower beds in all. A walkway runs around the whole garden.",
+        "hi": "दो मुख्य रास्ते (ख़ियाबान) बाग़ को चार हिस्सों में बाँटते हैं; पतले, ऊँचे रास्ते हर हिस्से को और बाँटते हैं, जिससे कुल 16 नीची क्यारियाँ बनती हैं। पूरे बाग़ के चारों ओर भी एक रास्ता है।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "The four channels represent the four rivers of Paradise, which in Islamic texts flow from a central spring – the promised rivers of water, milk, wine and honey.",
+        "hi": "चार नहरें जन्नत की चार नदियों का प्रतीक हैं, जो इस्लामी ग्रंथों में एक केंद्रीय झरने से निकलती हैं – पानी, दूध, शराब और शहद की वादा की गई नदियाँ।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-garden.aspx"
+      },
+      {
+        "en": "Unusually, the tomb stands at the far end of the garden instead of the centre. UNESCO calls this a remarkable innovation that adds rich depth and perspective to the distant view of the monument.",
+        "hi": "ख़ास बात यह है कि मक़बरा बाग़ के बीच में नहीं, बल्कि आख़िरी छोर पर है। यूनेस्को इसे एक अनोखा प्रयोग मानता है जिससे दूर से देखने पर इमारत में गहराई और परिप्रेक्ष्य आता है।",
+        "source": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "en": "Some scholars suggest that if the 'Moonlight Garden' (Mehtab Bagh) across the river is counted as part of the complex, the mausoleum stands in the centre of a garden divided by a real river.",
+        "hi": "कुछ विद्वानों का कहना है कि अगर नदी पार के 'चाँदनी बाग़' (मेहताब बाग़) को भी परिसर का हिस्सा मानें, तो मक़बरा एक असली नदी से बँटे बाग़ के बीच में आ जाता है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-garden.aspx"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "In the north-western quarter, near the north-west corner, a small enclosure is said to mark the spot where Mumtaz Mahal's body was first laid when it arrived in Agra, before it was moved to the crypt of the mausoleum.",
+        "hi": "बाग़ के उत्तर-पश्चिमी हिस्से में, उत्तर-पश्चिमी कोने के पास, एक छोटा घेरा उस जगह की निशानी माना जाता है जहाँ आगरा पहुँचने पर मुमताज़ महल का शरीर पहले रखा गया था, फिर बाद में मक़बरे के तहख़ाने में ले जाया गया।",
+        "label": "local tradition",
+        "note": {
+          "en": "Sources say the enclosure is 'supposed to mark' or is 'thought to' mark this site; the exact spot is not confirmed by records.",
+          "hi": "स्रोत कहते हैं कि यह घेरा इस जगह का 'माना जाता है'; सही जगह किसी दस्तावेज़ से पक्की नहीं है।"
+        },
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-garden.aspx"
+      }
+    ],
+    "kidsStory": {
+      "en": "This garden is cut into four big pieces by long water channels, like a giant plus sign. Long ago, the gardeners pulled water up from the river Yamuna using animals, and the water flowed down a tall wall to make the fountains dance. Count the squares – there are 16 flower beds hiding in this garden!",
+      "hi": "यह बाग़ लंबी पानी की नहरों से चार बड़े हिस्सों में बँटा है, जैसे एक बड़ा प्लस (+) का निशान। बहुत पहले माली जानवरों की मदद से यमुना नदी से पानी ऊपर खींचते थे, और वह पानी ऊँची दीवार से नीचे गिरकर फव्वारों को नचाता था। गिनो – इस बाग़ में 16 क्यारियाँ छिपी हैं!"
+    },
+    "visualCues": "Wide green lawns in square sunken plots divided by raised red-sandstone walkways in a cross pattern, with a long straight narrow water channel lined by fountain jets and rows of tall dark cypress trees along the central axis; the white Taj Mahal at one end and the red Great Gate at the other.",
+    "faq": [
+      {
+        "q": {
+          "en": "Why is the tomb not in the middle of the garden?",
+          "hi": "मक़बरा बाग़ के बीच में क्यों नहीं है?"
+        },
+        "a": {
+          "en": "It was deliberately placed at the river end. UNESCO calls this an innovation that adds depth to the view; some scholars think Mehtab Bagh across the river was part of the same garden, putting the tomb in the centre.",
+          "hi": "इसे जान-बूझकर नदी वाले छोर पर बनाया गया। यूनेस्को इसे दृश्य में गहराई लाने वाला नया प्रयोग मानता है; कुछ विद्वान मानते हैं कि नदी पार का मेहताब बाग़ इसी बाग़ का हिस्सा था, जिससे मक़बरा बीच में आ जाता है।"
+        }
+      },
+      {
+        "q": {
+          "en": "Were these lawns always here?",
+          "hi": "क्या ये घास के मैदान हमेशा से थे?"
+        },
+        "a": {
+          "en": "No. Early accounts mention roses, daffodils and fruit trees. The lawns were laid out under Lord Curzon around 1900.",
+          "hi": "नहीं। पुराने विवरणों में गुलाब, नरगिस और फलदार पेड़ों का ज़िक्र है। ये लॉन लगभग 1900 में लॉर्ड कर्ज़न के समय बनाए गए।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/View_from_plinth.JPG/1280px-View_from_plinth.JPG",
+        "credit": "Vsoft11",
+        "license": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:View_from_plinth.JPG"
+      }
+    ]
+  },
+  {
+    "id": "hauz-al-kawthar",
+    "site": "taj-mahal",
+    "category": "water-feature",
+    "name": {
+      "en": "Central Marble Tank (Hauz al-Kawthar)",
+      "hi": "बीच का संगमरमर हौज़ (हौज़-ए-कौसर)"
+    },
+    "lat": 27.17316,
+    "lng": 78.04219,
+    "tourOrder": 6,
+    "tourMinutes": 8,
+    "priority": 1,
+    "summary": {
+      "en": "The raised white-marble pool with five fountains at the centre of the garden – the classic spot where the Taj is reflected in the water.",
+      "hi": "बाग़ के बीचों-बीच पाँच फव्वारों वाला ऊँचा सफ़ेद संगमरमर का हौज़ – वही मशहूर जगह जहाँ पानी में ताज का अक्स दिखता है।"
+    },
+    "history": [
+      {
+        "en": "The Mughal historian Kanbo praised the pool, saying it held the water of the heavenly Kausar, and admired its 'novel design' with lobed and scrolled corners.",
+        "hi": "मुग़ल इतिहासकार कंबो ने इस हौज़ की तारीफ़ में लिखा कि इसमें जन्नत की नहर 'कौसर' का पानी है, और इसके लहरदार कोनों के 'नए डिज़ाइन' की प्रशंसा की।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-garden.aspx"
+      },
+      {
+        "en": "The four marble benches around the tank were added in 1907–08 on the order of Lord Curzon.",
+        "hi": "हौज़ के चारों ओर की संगमरमर की चार बेंचें 1907–08 में लॉर्ड कर्ज़न के आदेश पर लगाई गईं।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-garden.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Halfway between the tomb and the gateway is a raised marble water tank with five fountains, with a reflecting pool laid north–south so that it mirrors the mausoleum.",
+        "hi": "मक़बरे और दरवाज़े के बीचों-बीच पाँच फव्वारों वाला ऊँचा संगमरमर का हौज़ है, और उत्तर-दक्षिण दिशा में बना लंबा पानी का ताल मक़बरे का अक्स दिखाता है।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "The tank is called al Hawd al-Kawthar, after the 'Tank of Abundance' promised to the Prophet Muhammad in Paradise, where the faithful quench their thirst on arrival.",
+        "hi": "इसे 'अल-हौज़ अल-कौसर' कहा जाता है – जन्नत में पैग़ंबर मुहम्मद से वादा किए गए 'प्रचुरता के हौज़' के नाम पर, जहाँ पहुँचकर ईमान वाले अपनी प्यास बुझाते हैं।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "The fountains of the central tank were fed by copper vessels joined by copper pipes to the main supply pipe.",
+        "hi": "बीच के हौज़ के फव्वारे ताँबे के बर्तनों से चलते थे, जो ताँबे की पाइपों से मुख्य पाइप से जुड़े थे।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-garden.aspx"
+      }
+    ],
+    "folklore": [],
+    "kidsStory": {
+      "en": "This square marble pool sits right in the middle of the garden. When the water is still, the Taj Mahal looks into it like a mirror and you can see two Taj Mahals – one up, one upside down! People long ago named the pool after a special pool in Paradise.",
+      "hi": "संगमरमर का यह चौकोर हौज़ बाग़ के ठीक बीच में है। जब पानी शांत होता है तो ताजमहल इसमें शीशे की तरह दिखता है – एक ताज ऊपर और एक उल्टा नीचे! पुराने लोगों ने इस हौज़ का नाम जन्नत के एक ख़ास हौज़ के नाम पर रखा था।"
+    },
+    "visualCues": "Raised square white-marble platform with a shallow pool with lobed corners and a few fountain jets, white marble benches around it, set where the long north–south water channel crosses the east–west channel; the full Taj Mahal reflected in the still water behind it, cypress rows on both sides.",
+    "faq": [
+      {
+        "q": {
+          "en": "Where is the famous reflection photo taken?",
+          "hi": "पानी में ताज के अक्स वाली मशहूर फ़ोटो कहाँ से ली जाती है?"
+        },
+        "a": {
+          "en": "At this central raised marble tank; the long north–south pool here reflects the mausoleum.",
+          "hi": "इसी बीच वाले संगमरमर के हौज़ से; यहाँ उत्तर-दक्षिण का लंबा ताल मक़बरे का अक्स दिखाता है।"
+        }
+      },
+      {
+        "q": {
+          "en": "What does 'Hauz al-Kawthar' mean?",
+          "hi": "'हौज़-ए-कौसर' का क्या मतलब है?"
+        },
+        "a": {
+          "en": "It refers to the 'Tank of Abundance' promised to the Prophet Muhammad in Paradise.",
+          "hi": "इसका मतलब है जन्नत में पैग़ंबर मुहम्मद से वादा किया गया 'प्रचुरता का हौज़'।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/A_close_look_on_the_fountains_in_Taj_Garden.jpg/1280px-A_close_look_on_the_fountains_in_Taj_Garden.jpg",
+        "credit": "Anahitaa Pandey",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:A_close_look_on_the_fountains_in_Taj_Garden.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Taj_Reflected.jpg/1280px-Taj_Reflected.jpg",
+        "credit": "Mrigank Verma",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Reflected.jpg"
+      }
+    ]
+  },
+  {
+    "id": "taj-museum",
+    "site": "taj-mahal",
+    "category": "museum",
+    "name": {
+      "en": "Taj Museum (Western Naubat Khana / Jal Mahal)",
+      "hi": "ताज संग्रहालय (पश्चिमी नौबतख़ाना / जल महल)"
+    },
+    "lat": 27.17314,
+    "lng": 78.04063,
+    "tourOrder": 7,
+    "tourMinutes": 15,
+    "priority": 2,
+    "summary": {
+      "en": "A small free ASI museum inside the garden's western pavilion, showing old plans, photographs, royal orders and samples of the stones used in the Taj.",
+      "hi": "बाग़ के पश्चिमी मंडप में ASI का छोटा, मुफ़्त संग्रहालय, जहाँ पुराने नक्शे, तस्वीरें, शाही फ़रमान और ताज में लगे पत्थरों के नमूने रखे हैं।"
+    },
+    "history": [
+      {
+        "en": "Two Drum Houses (Naubat Khana) stand at the east and west ends of the garden's cross-axis, mirror images of each other. The western one has been converted into a museum.",
+        "hi": "बाग़ की आड़ी धुरी के पूर्वी और पश्चिमी छोर पर दो नौबतख़ाने (नगाड़ा-घर) हैं, जो एक-दूसरे की हूबहू नकल हैं। पश्चिमी नौबतख़ाने को संग्रहालय बना दिया गया है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "The museum's origins go back to 1906, when it opened in two hexagonal rooms west of the main gateway at Lord Curzon's suggestion; it is recorded as established in its present form in 1982, in the Western Jal Mahal.",
+        "hi": "इस संग्रहालय की शुरुआत 1906 में हुई, जब लॉर्ड कर्ज़न के सुझाव पर मुख्य दरवाज़े के पश्चिम में दो छहकोने कमरों में इसे खोला गया; आज के रूप में इसकी स्थापना 1982 में पश्चिमी जल महल में दर्ज है।",
+        "source": "Museums of India portal – Taj Museum",
+        "url": "https://shop.museumsofindia.org/node/345"
+      },
+      {
+        "en": "Exhibits include old plans and historic photographs of the Taj, coloured drawings, samples of inlay stones, royal orders (farmans) and land records (sanads), a 17th-century jade Quran stand (rehal) and a 17th-century iron spearhead.",
+        "hi": "यहाँ ताज के पुराने नक्शे और ऐतिहासिक तस्वीरें, रंगीन चित्र, जड़ाई वाले पत्थरों के नमूने, शाही फ़रमान और ज़मीन के काग़ज़ (सनद), 17वीं सदी का जेड पत्थर का क़ुरान-स्टैंड (रेहल) और 17वीं सदी का लोहे का भाला-फलक रखे हैं।",
+        "source": "Museums of India portal – Taj Museum",
+        "url": "https://shop.museumsofindia.org/node/345"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "The Naubat Khanas are built of sandstone in a three-part form over two storeys and are crowned by white marble chhatris on eight columns; they mark the place where gates would stand in a classic charbagh.",
+        "hi": "नौबतख़ाने बलुआ पत्थर से दो मंज़िल में तीन हिस्सों वाले रूप में बने हैं और ऊपर आठ खंभों पर सफ़ेद संगमरमर की छतरियाँ हैं; ये उस जगह पर हैं जहाँ आम चारबाग़ में दरवाज़े होते।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "folklore": [],
+    "kidsStory": {
+      "en": "This building on the side of the garden was once a drum house. Now it is a small museum where you can see old maps of the Taj, very old photos, and real samples of the colourful stones that were fitted into the white marble.",
+      "hi": "बाग़ के किनारे बनी यह इमारत कभी नगाड़ा-घर थी। अब यह छोटा संग्रहालय है जहाँ ताज के पुराने नक्शे, बहुत पुरानी तस्वीरें और सफ़ेद संगमरमर में जड़े रंग-बिरंगे पत्थरों के असली नमूने देख सकते हो।"
+    },
+    "visualCues": "Two-storey red-sandstone pavilion on the garden's western wall, with a three-part arched front and a small white marble domed kiosk on top; a museum sign at the entrance; identical twin pavilion visible directly opposite on the eastern wall.",
+    "accessibility": {
+      "en": "Entry is free. The ASI page lists the site museum as open 9 AM–5 PM and closed on Fridays; the official UP Tourism site gives 10 AM–5 PM. It is on the ground floor.",
+      "hi": "प्रवेश मुफ़्त है। ASI के पन्ने के अनुसार संग्रहालय सुबह 9 से शाम 5 बजे तक खुला रहता है और शुक्रवार को बंद रहता है; UP पर्यटन की आधिकारिक साइट पर समय सुबह 10 से शाम 5 बजे लिखा है। संग्रहालय भूतल (ग्राउंड फ़्लोर) पर है।"
+    },
+    "faq": [
+      {
+        "q": {
+          "en": "Is there an extra ticket for the museum?",
+          "hi": "क्या संग्रहालय के लिए अलग टिकट है?"
+        },
+        "a": {
+          "en": "No, entry to the Taj Museum is free once you are inside the complex.",
+          "hi": "नहीं, परिसर के अंदर आने के बाद ताज संग्रहालय में प्रवेश मुफ़्त है।"
+        }
+      },
+      {
+        "q": {
+          "en": "When is the museum open?",
+          "hi": "संग्रहालय कब खुलता है?"
+        },
+        "a": {
+          "en": "Roughly 9 or 10 AM to 5 PM (sources differ), closed on Fridays like the Taj.",
+          "hi": "लगभग सुबह 9 या 10 बजे से शाम 5 बजे तक (स्रोतों में थोड़ा अंतर है), और ताज की तरह शुक्रवार को बंद।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Taj_Museum_Agra_India.jpg/1280px-Taj_Museum_Agra_India.jpg",
+        "credit": "Philip Nalangan",
+        "license": "CC BY 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Museum_Agra_India.jpg"
+      }
+    ]
+  },
+  {
+    "id": "plinth-platform",
+    "site": "taj-mahal",
+    "category": "platform",
+    "name": {
+      "en": "Marble Plinth and Riverfront Terrace",
+      "hi": "संगमरमर का चबूतरा और नदी किनारे की छत"
+    },
+    "lat": 27.17455,
+    "lng": 78.04209,
+    "tourOrder": 8,
+    "tourMinutes": 5,
+    "priority": 2,
+    "summary": {
+      "en": "The high square white-marble platform on which the tomb and its four minarets stand, itself set on a long red-sandstone terrace above the river.",
+      "hi": "ऊँचा, चौकोर सफ़ेद संगमरमर का चबूतरा जिस पर मक़बरा और चारों मीनारें खड़ी हैं; यह ख़ुद नदी के ऊपर बनी लंबी लाल पत्थर की छत पर टिका है।"
+    },
+    "history": [
+      {
+        "en": "To carry the huge load on the sandy riverbank, wells were sunk, cased in timber and filled with rubble, iron and mortar – acting like piles. The riverfront terrace was built first, then the rest of the complex.",
+        "hi": "रेतीले किनारे पर इतना भारी बोझ उठाने के लिए कुएँ खोदे गए, उनमें लकड़ी की परत लगाई गई और फिर पत्थर, लोहा और गारा भरा गया – जो खंभों (पाइल) का काम करते हैं। सबसे पहले नदी किनारे की छत बनी, फिर बाक़ी परिसर।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "By the second Urs on 25 May 1633, the riverside terrace, the plinth of the mausoleum and the tahkhana (a suite of rooms under the terrace opening to the river) were finished.",
+        "hi": "25 मई 1633 को दूसरे उर्स तक नदी किनारे की छत, मक़बरे का चबूतरा और तहख़ाना (छत के नीचे नदी की ओर खुलने वाले कमरे) बन चुके थे।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "The mausoleum stands on a 6 m (20 ft) high square plinth with sides of 95.5 m (313 ft); the entire complex sits on a platform about 300 m long.",
+        "hi": "मक़बरा 6 मीटर (20 फ़ुट) ऊँचे चौकोर चबूतरे पर है जिसकी हर भुजा 95.5 मीटर (313 फ़ुट) है; पूरा परिसर लगभग 300 मीटर लंबे मंच पर बना है।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "UNESCO calls the Taj one of the best examples of the 'raised tomb' type: the tomb is raised on a square platform, with the octagonal bases of the minarets projecting at the corners, reached by steps in the centre of the southern side.",
+        "hi": "यूनेस्को ताज को 'ऊँचे चबूतरे वाले मक़बरे' का सबसे अच्छा उदाहरण मानता है: मक़बरा चौकोर चबूतरे पर है, कोनों पर मीनारों के अठकोने आधार बाहर निकले हैं, और दक्षिणी ओर बीच में सीढ़ियाँ हैं।",
+        "source": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "en": "The plinth's paving is an interlocking pattern of white marble octagons set with four-pointed red-sandstone stars. In the middle of its other three sides are small rooms built into the platform, probably for the imperial family to rest or for the Quran reciters.",
+        "hi": "चबूतरे के फ़र्श में सफ़ेद संगमरमर के अठकोनों के बीच लाल पत्थर के चार-कोने वाले तारे जड़े हैं। बाक़ी तीन ओर चबूतरे के अंदर छोटे कमरे बने हैं, जो शायद शाही परिवार के आराम या क़ुरान पढ़ने वालों के लिए थे।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-exteriors.aspx"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "A story says that Lord William Bentinck, Governor-General in the 1830s, planned to demolish the Taj Mahal and auction its marble.",
+        "hi": "एक कहानी कहती है कि 1830 के दशक में गवर्नर-जनरल लॉर्ड विलियम बेंटिंक ने ताजमहल गिराकर उसका संगमरमर नीलाम करने की योजना बनाई थी।",
+        "label": "popular belief",
+        "note": {
+          "en": "No evidence exists for this. Bentinck's biographer John Rosselli traced the story to a fund-raising sale of discarded marble from Agra Fort.",
+          "hi": "इसका कोई सबूत नहीं है। बेंटिंक के जीवनी-लेखक जॉन रोसेली के अनुसार यह कहानी आगरा किले के बेकार पड़े संगमरमर की बिक्री से बनी।"
+        },
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
+    ],
+    "visualCues": "Broad, flat white-marble platform about chest-to-head height above the garden, its surface patterned with white octagons and small red sandstone stars; two partly covered stairways in the middle of the garden side; shoe-cover/shoe-removal area at its foot; the tomb and minarets rise from it.",
+    "accessibility": {
+      "en": "The only way up from the garden to the mausoleum level is by the two partly covered flights of stairs on the south side. Shoe covers are given free with SAARC, BIMSTEC and foreigner tickets.",
+      "hi": "बाग़ से मक़बरे के स्तर तक जाने का एकमात्र रास्ता दक्षिणी ओर की दो आंशिक रूप से ढकी सीढ़ियाँ हैं। सार्क, बिम्सटेक और विदेशी टिकट के साथ जूतों के कवर मुफ़्त मिलते हैं।"
+    }
+  },
+  {
+    "id": "mausoleum-exterior",
+    "site": "taj-mahal",
+    "category": "mausoleum",
+    "name": {
+      "en": "The Mausoleum – Exterior",
+      "hi": "मक़बरा – बाहरी रूप"
+    },
+    "lat": 27.17478,
+    "lng": 78.04209,
+    "tourOrder": 9,
+    "tourMinutes": 8,
+    "priority": 1,
+    "summary": {
+      "en": "The white marble tomb built by Shah Jahan in memory of his wife Mumtaz Mahal – the most famous building in India and a UNESCO World Heritage Site since 1983.",
+      "hi": "शाहजहाँ द्वारा अपनी बेगम मुमताज़ महल की याद में बनवाया गया सफ़ेद संगमरमर का मक़बरा – भारत की सबसे मशहूर इमारत और 1983 से यूनेस्को विश्व धरोहर।"
+    },
+    "history": [
+      {
+        "en": "The Taj Mahal was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal; construction started in 1632 and the tomb was completed in 1648. Ustad Ahmad Lahori was the main architect.",
+        "hi": "ताजमहल मुग़ल बादशाह शाहजहाँ ने अपनी बेगम मुमताज़ महल की याद में बनवाया; निर्माण 1632 में शुरू हुआ और मक़बरा 1648 में पूरा हुआ। उस्ताद अहमद लाहौरी इसके मुख्य वास्तुकार थे।",
+        "source": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "en": "Mumtaz Mahal (Arjumand Bano Begum) was born in 1593 and died in 1631 at Burhanpur during the birth of her fourteenth child. The Taj is the mausoleum of both Mumtaz Mahal and Shah Jahan.",
+        "hi": "मुमताज़ महल (अर्जुमंद बानो बेगम) का जन्म 1593 में हुआ और 1631 में बुरहानपुर में अपनी चौदहवीं संतान के जन्म के दौरान उनकी मृत्यु हुई। ताजमहल में मुमताज़ महल और शाहजहाँ दोनों का मक़बरा है।",
+        "source": "Archaeological Survey of India (archived monument page)",
+        "url": "https://web.archive.org/web/20150215034204/http://asi.nic.in/asi_monu_whs_agratajmahal.asp"
+      },
+      {
+        "en": "More than 20,000 workers and artisans were involved; white marble came from Makrana in Rajasthan, and specialists came from as far as Bukhara, Syria, Persia and Baluchistan.",
+        "hi": "इसे बनाने में 20,000 से ज़्यादा मज़दूर और कारीगर लगे; सफ़ेद संगमरमर राजस्थान के मकराना से आया, और कारीगर बुख़ारा, सीरिया, फ़ारस और बलूचिस्तान तक से आए।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "Incredible India notes that about 1,000 elephants helped carry building materials.",
+        "hi": "इनक्रेडिबल इंडिया के अनुसार निर्माण सामग्री ढोने में लगभग 1,000 हाथियों की मदद ली गई।",
+        "source": "Incredible India (Ministry of Tourism, Govt. of India)",
+        "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/agra/taj-mahal"
+      },
+      {
+        "en": "In December 1652 Shah Jahan's son Aurangzeb wrote to his father that the tomb had developed leaks in the rainy season. By the late 19th century parts of the complex were in disrepair, and Lord Curzon's restoration was completed in 1908.",
+        "hi": "दिसंबर 1652 में शाहजहाँ के बेटे औरंगज़ेब ने पिता को लिखा कि बारिश में मक़बरे में पानी टपकने लगा है। 19वीं सदी के अंत तक परिसर के कई हिस्से ख़राब हो गए थे, और लॉर्ड कर्ज़न की मरम्मत 1908 में पूरी हुई।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "The Taj Mahal was inscribed as a UNESCO World Heritage Site in 1983 as 'the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage'.",
+        "hi": "1983 में ताजमहल को यूनेस्को विश्व धरोहर घोषित किया गया – 'भारत में मुस्लिम कला का रत्न और विश्व धरोहर की सर्वत्र सराही जाने वाली उत्कृष्ट कृतियों में से एक'।",
+        "source": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "en": "Rabindranath Tagore called the Taj Mahal 'a teardrop on the cheek of time'.",
+        "hi": "रवींद्रनाथ टैगोर ने ताजमहल को 'समय के गाल पर एक आँसू' कहा था।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-story.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "The tomb is a cube with chamfered (cut) corners, so it reads as an unequal octagon about 57.3 m on each long side. Each face has a 33 m high arched portal (pishtaq) with two tiers of smaller arched balconies on either side; all four sides are identical.",
+        "hi": "मक़बरा कटे कोनों वाला घन है, इसलिए यह एक असमान अठकोने जैसा दिखता है जिसकी हर लंबी भुजा लगभग 57.3 मीटर है। हर तरफ़ 33 मीटर ऊँचा मेहराबदार द्वार (पिश्ताक़) है और उसके दोनों ओर दो मंज़िल छोटे मेहराबदार झरोखे; चारों तरफ़ एक जैसी हैं।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "The mausoleum is the only building in the whole complex faced entirely in white marble; the hierarchical use of white marble and red sandstone is typical of imperial Mughal architecture. Mughal poets compared its marble to the early dawn or a cloud.",
+        "hi": "पूरे परिसर में सिर्फ़ मक़बरा ही पूरी तरह सफ़ेद संगमरमर से ढका है; सफ़ेद संगमरमर और लाल पत्थर का यह ऊँच-नीच वाला इस्तेमाल शाही मुग़ल वास्तुकला की पहचान है। मुग़ल कवियों ने इसके संगमरमर की तुलना सुबह की पहली रोशनी या बादल से की।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/architecture.aspx"
+      },
+      {
+        "en": "The walls are of brick and rubble cores faced with marble or sandstone, locked together with iron dowels and clamps; some walls are several metres thick.",
+        "hi": "दीवारें अंदर से ईंट और पत्थर की हैं, जिन पर संगमरमर या बलुआ पत्थर की परत लगी है और लोहे की कीलों-कुंडों से जोड़ी गई है; कुछ दीवारें कई मीटर मोटी हैं।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "The whole complex follows strict bilateral symmetry along a central axis; the Taj complex was conceived as an earthly replica of the house of Mumtaz in Paradise.",
+        "hi": "पूरा परिसर एक केंद्रीय धुरी के दोनों ओर सख़्त समरूपता में बना है; इसे जन्नत में मुमताज़ के घर की धरती पर बनी प्रतिकृति के रूप में सोचा गया था।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/architecture.aspx"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "Legend says the scaffolding was built of brick, and the emperor announced that anyone could keep the bricks they took away – so the whole scaffold vanished within a week.",
+        "hi": "किंवदंती है कि मचान ईंटों का बना था और बादशाह ने ऐलान किया कि जो जितनी ईंटें ले जाए, उसकी – और पूरा मचान एक हफ़्ते में ग़ायब हो गया।",
+        "label": "legend",
+        "note": {
+          "en": "The source itself introduces this with 'Legend says'; modern scholars think the scaffolding was more likely bamboo, with timber ramps.",
+          "hi": "स्रोत ख़ुद इसे 'किंवदंती' कहता है; आधुनिक विद्वान मानते हैं कि मचान शायद बाँस का था और सामान लकड़ी की ढलानों से ऊपर पहुँचाया गया।"
+        },
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Some 19th-century writers claimed the Taj was designed by a European – an Italian, Geronimo Veroneo, or a Frenchman, 'Austin of Bordeaux'.",
+        "hi": "19वीं सदी के कुछ लेखकों ने दावा किया कि ताज को किसी यूरोपीय ने बनाया – इतालवी जेरोनिमो वेरोनियो या फ़्रांसीसी 'ऑस्टिन ऑफ़ बोर्डो' ने।",
+        "label": "popular belief",
+        "note": {
+          "en": "These theories are not supported by the archaeological record; contemporary sources name a board of Mughal architects led by Ustad Ahmad Lahori.",
+          "hi": "पुरातात्विक प्रमाण इन बातों का समर्थन नहीं करते; उस समय के स्रोत उस्ताद अहमद लाहौरी की अगुवाई वाले मुग़ल वास्तुकारों के दल का नाम लेते हैं।"
+        },
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
+    ],
+    "kidsStory": {
+      "en": "A long time ago, Emperor Shah Jahan was very sad when his wife Mumtaz Mahal died, so he built this white marble tomb for her. More than 20,000 people worked on it, and elephants helped carry the heavy stones. It took many years and was finished in 1648. Look closely – all four sides of the building look exactly the same!",
+      "hi": "बहुत समय पहले बादशाह शाहजहाँ अपनी बेगम मुमताज़ महल के गुज़र जाने पर बहुत दुखी हुए, तो उन्होंने उनके लिए यह सफ़ेद संगमरमर का मक़बरा बनवाया। इसे बनाने में 20,000 से ज़्यादा लोगों ने काम किया और भारी पत्थर ढोने में हाथियों ने मदद की। कई साल लगे और यह 1648 में पूरा हुआ। ध्यान से देखो – इमारत की चारों तरफ़ बिल्कुल एक जैसी दिखती हैं!"
+    },
+    "visualCues": "Close view of the gleaming white marble tomb facade: a giant central pointed-arch recess (pishtaq) framed by black calligraphy bands, flanked by two stacked smaller arched recesses on each side and on the cut corners; carved flower panels at the base; the big white onion dome and small domed kiosks above. All white, no red stone on the building itself.",
+    "faq": [
+      {
+        "q": {
+          "en": "Who built the Taj Mahal and when?",
+          "hi": "ताजमहल किसने और कब बनवाया?"
+        },
+        "a": {
+          "en": "Mughal Emperor Shah Jahan, in memory of his wife Mumtaz Mahal. Work began in 1632; the tomb was finished in 1648 and the whole complex by 1653.",
+          "hi": "मुग़ल बादशाह शाहजहाँ ने, अपनी बेगम मुमताज़ महल की याद में। काम 1632 में शुरू हुआ; मक़बरा 1648 में और पूरा परिसर 1653 तक बना।"
+        }
+      },
+      {
+        "q": {
+          "en": "Who was the architect?",
+          "hi": "इसके वास्तुकार कौन थे?"
+        },
+        "a": {
+          "en": "UNESCO names Ustad Ahmad Lahori as the main architect; he led a team of architects and craftsmen.",
+          "hi": "यूनेस्को के अनुसार मुख्य वास्तुकार उस्ताद अहमद लाहौरी थे, जिन्होंने वास्तुकारों और कारीगरों के दल की अगुवाई की।"
+        }
+      },
+      {
+        "q": {
+          "en": "Where did the white marble come from?",
+          "hi": "सफ़ेद संगमरमर कहाँ से आया?"
+        },
+        "a": {
+          "en": "From Makrana in Rajasthan.",
+          "hi": "राजस्थान के मकराना से।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Taj_Mahal_-_South_Facade_-_Agra_2014-05-14_3973.JPG/1280px-Taj_Mahal_-_South_Facade_-_Agra_2014-05-14_3973.JPG",
+        "credit": "Biswarup Ganguly",
+        "license": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_-_South_Facade_-_Agra_2014-05-14_3973.JPG"
+      }
+    ]
+  },
+  {
+    "id": "calligraphy",
+    "site": "taj-mahal",
+    "category": "decoration",
+    "name": {
+      "en": "Quranic Calligraphy and Amanat Khan",
+      "hi": "क़ुरानी सुलेख और अमानत ख़ाँ"
+    },
+    "lat": 27.1748,
+    "lng": 78.04195,
+    "tourOrder": 10,
+    "tourMinutes": 5,
+    "priority": 1,
+    "summary": {
+      "en": "Bands of black Arabic lettering inlaid in white marble around the great arches – Quranic verses chosen and written by the Persian calligrapher Amanat Khan.",
+      "hi": "बड़े मेहराबों के चारों ओर सफ़ेद संगमरमर में जड़े काले अरबी अक्षर – फ़ारसी सुलेखक अमानत ख़ाँ द्वारा चुनी और लिखी गई क़ुरान की आयतें।"
+    },
+    "history": [
+      {
+        "en": "The passages are thought to have been chosen by the Persian calligrapher Abd ul-Haq, who came to India from Shiraz in 1609. Shah Jahan gave him the title 'Amanat Khan' for his 'dazzling virtuosity'.",
+        "hi": "माना जाता है कि ये आयतें फ़ारसी सुलेखक अब्दुल हक़ ने चुनीं, जो 1609 में शीराज़ (ईरान) से भारत आए थे। उनकी 'चकाचौंध करने वाली कला' के लिए शाहजहाँ ने उन्हें 'अमानत ख़ाँ' की उपाधि दी।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "At the base of the interior dome he signed: 'Written by the insignificant being, Amanat Khan Shirazi.'",
+        "hi": "अंदर के गुंबद के नीचे उन्होंने लिखा: 'तुच्छ बंदे अमानत ख़ाँ शीराज़ी ने लिखा।'",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "His dated signatures help time the building: the south arch of the domed hall was nearing completion in 1638/39, and he dated the north arch of the Great Gate in 1648.",
+        "hi": "उनके तारीख़ वाले हस्ताक्षरों से निर्माण का समय पता चलता है: गुंबद वाले हॉल का दक्षिणी मेहराब 1638/39 में पूरा होने को था, और बड़े दरवाज़े के उत्तरी मेहराब पर उन्होंने 1648 की तारीख़ लिखी।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Most of the calligraphy is in the flowing 'thuluth' script, made of jasper or black marble inlaid into white marble panels.",
+        "hi": "ज़्यादातर सुलेख बहती हुई 'सुलुस' लिपि में है, जो जैस्पर या काले संगमरमर को सफ़ेद संगमरमर की पट्टियों में जड़कर बनाया गया है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Optical trick: panels placed higher up use slightly larger letters, to reduce the skewing effect when read from below – so the writing looks the same size from the ground.",
+        "hi": "आँखों का कमाल: ऊपर लगी पट्टियों में अक्षर थोड़े बड़े हैं, ताकि नीचे से पढ़ने पर वे छोटे या टेढ़े न लगें – इसलिए ज़मीन से देखने पर लिखावट एक जैसे आकार की लगती है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/calligraphy.aspx"
+      },
+      {
+        "en": "There are twenty-two Quranic passages in all, including fourteen complete chapters; the texts broadly concern judgement and the rewards of Paradise for the faithful.",
+        "hi": "कुल बाईस आयत-समूह हैं, जिनमें चौदह पूरी सूरतें शामिल हैं; इनका विषय मुख्य रूप से क़यामत का दिन और ईमान वालों के लिए जन्नत का इनाम है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/calligraphy.aspx"
+      }
+    ],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "The inscriptions on the outer walls speak of the Day of Judgement, while those inside are more reassuring, with descriptions of Paradise; passages on Mumtaz Mahal's cenotaph ask for God's mercy for her.",
+        "hi": "बाहरी दीवारों की आयतें क़यामत के दिन की बात करती हैं, जबकि अंदर की आयतें ज़्यादा तसल्ली देती हैं और जन्नत का वर्णन करती हैं; मुमताज़ महल की क़ब्र पर लिखी आयतें उनके लिए अल्लाह की रहमत माँगती हैं।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/calligraphy.aspx"
+      }
+    ],
+    "kidsStory": {
+      "en": "Look at the black writing around the big arch – it is not painted! Each letter is a piece of black stone carefully fitted into the white marble. The writer, Amanat Khan, made the letters higher up a little bigger, so from the ground they all look the same size. It's a clever eye trick!",
+      "hi": "बड़े मेहराब के चारों ओर की काली लिखावट देखो – यह पेंट नहीं की गई! हर अक्षर काले पत्थर का टुकड़ा है जिसे सफ़ेद संगमरमर में ध्यान से जड़ा गया है। लिखने वाले अमानत ख़ाँ ने ऊपर के अक्षर थोड़े बड़े बनाए, ताकि नीचे से सब एक जैसे दिखें। है न आँखों का मज़ेदार खेल!"
+    },
+    "visualCues": "Close-up of a white marble rectangular band framing a huge pointed arch, filled with elegant flowing black Arabic letters (inlaid black stone, not paint) in tall vertical strokes; the band runs up the sides and across the top of the arch.",
+    "faq": [
+      {
+        "q": {
+          "en": "Why does the writing look the same size from top to bottom?",
+          "hi": "ऊपर से नीचे तक लिखावट एक जैसी क्यों दिखती है?"
+        },
+        "a": {
+          "en": "The higher panels use slightly larger letters to offset the distortion of viewing from below.",
+          "hi": "ऊपर की पट्टियों में अक्षर थोड़े बड़े रखे गए हैं ताकि नीचे से देखने पर फ़र्क़ न लगे।"
+        }
+      },
+      {
+        "q": {
+          "en": "Who wrote the calligraphy?",
+          "hi": "यह सुलेख किसने लिखा?"
+        },
+        "a": {
+          "en": "Abd ul-Haq of Shiraz, given the title Amanat Khan by Shah Jahan. He signed his name at the base of the interior dome.",
+          "hi": "शीराज़ के अब्दुल हक़ ने, जिन्हें शाहजहाँ ने अमानत ख़ाँ की उपाधि दी। उन्होंने अंदर के गुंबद के नीचे अपना नाम लिखा है।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Taj_Mahal_Calligraphy_Example.jpg/1280px-Taj_Mahal_Calligraphy_Example.jpg",
+        "credit": "Bjørn Christian Tørrissen",
+        "license": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Calligraphy_Example.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Taj_Mahal_calligraphy%2C_India%2C_2013-03_%2811551455483%29.jpg/1280px-Taj_Mahal_calligraphy%2C_India%2C_2013-03_%2811551455483%29.jpg",
+        "credit": "Edmund Gall",
+        "license": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_calligraphy,_India,_2013-03_(11551455483).jpg"
+      }
+    ]
+  },
+  {
+    "id": "pietra-dura",
+    "site": "taj-mahal",
+    "category": "decoration",
+    "name": {
+      "en": "Pietra Dura Inlay and Carved Marble Flowers",
+      "hi": "पच्चीकारी (पत्थर जड़ाई) और संगमरमर पर तराशे फूल"
+    },
+    "lat": 27.17485,
+    "lng": 78.04228,
+    "tourOrder": 11,
+    "tourMinutes": 6,
+    "priority": 1,
+    "summary": {
+      "en": "Flowers and vines made of coloured semi-precious stones set flush into the white marble, along with life-like flowers carved in relief on the lower walls.",
+      "hi": "सफ़ेद संगमरमर में बराबर बैठाए गए रंग-बिरंगे क़ीमती पत्थरों से बने फूल-बेलें, और निचली दीवारों पर उभरे हुए असली जैसे तराशे फूल।"
+    },
+    "history": [
+      {
+        "en": "In all, 28 types of precious and semi-precious stones were inlaid into the white marble. Jasper came from the Punjab, jade and crystal from China, turquoise from Tibet, lapis lazuli from Afghanistan, sapphire from Sri Lanka and carnelian from Arabia.",
+        "hi": "सफ़ेद संगमरमर में कुल 28 तरह के क़ीमती और अर्ध-क़ीमती पत्थर जड़े गए। जैस्पर पंजाब से, जेड और स्फटिक चीन से, फ़िरोज़ा तिब्बत से, लाजवर्द अफ़ग़ानिस्तान से, नीलम श्रीलंका से और अक़ीक़ (कार्नेलियन) अरब से आया।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "During the 1857 uprising the Taj Mahal was defaced by British soldiers and officials, who chiselled precious stones and lapis lazuli out of its walls.",
+        "hi": "1857 के विद्रोह के दौरान ब्रिटिश सैनिकों और अफ़सरों ने ताजमहल को नुक़सान पहुँचाया और दीवारों से क़ीमती पत्थर और लाजवर्द निकाल ले गए।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/history-of-the-taj-mahal.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "The ASI notes fine polychrome inlay both inside and outside – on the dados, on the cenotaphs and on the marble screen around them.",
+        "hi": "ASI के अनुसार अंदर और बाहर दोनों जगह बहुरंगी जड़ाई के बेहतरीन नमूने हैं – दीवारों के निचले हिस्सों पर, क़ब्रों पर और उनके चारों ओर की संगमरमर की जाली पर।",
+        "source": "Archaeological Survey of India (archived monument page)",
+        "url": "https://web.archive.org/web/20150215034204/http://asi.nic.in/asi_monu_whs_agratajmahal.asp"
+      },
+      {
+        "en": "The lower walls have white marble dados carved with realistic relief flowers and vines; the dado frames and arch spandrels carry pietra dura inlays of stylised vines, flowers and fruits in yellow marble, jasper and jade, polished level with the wall.",
+        "hi": "निचली दीवारों पर सफ़ेद संगमरमर में असली जैसे उभरे फूल और बेलें तराशी गई हैं; इनके फ़्रेम और मेहराबों के कोनों में पीले संगमरमर, जैस्पर और जेड से बनी फूल-बेल-फल की जड़ाई है, जो दीवार के बराबर घिसकर चिकनी की गई है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/calligraphy.aspx"
+      },
+      {
+        "en": "Inlay work like this was usually reserved in Shah Jahan's buildings for spaces associated with the emperor or his immediate family, and it gets denser and richer as you approach the cenotaphs.",
+        "hi": "शाहजहाँ की इमारतों में ऐसी जड़ाई आम तौर पर बादशाह और उनके परिवार से जुड़ी जगहों के लिए ही होती थी, और क़ब्रों के पास जाते-जाते यह और घनी और बारीक होती जाती है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "The official site says Mughal lapidaries developed this 'parchin kari' work from techniques taught by Italian craftsmen at court, and adapted the look of European botanical books (herbals).",
+        "hi": "आधिकारिक साइट के अनुसार मुग़ल कारीगरों ने यह 'पर्चीनकारी' दरबार में काम करने वाले इतालवी कारीगरों से सीखी तकनीकों से विकसित की, और यूरोप की वनस्पति-किताबों के चित्रों का रूप अपनाया।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/calligraphy.aspx"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "A well-known tale claims that after the Taj was finished, Shah Jahan had the hands of the workers cut off so that they could never build anything as beautiful again.",
+        "hi": "एक मशहूर कहानी है कि ताज बनने के बाद शाहजहाँ ने कारीगरों के हाथ कटवा दिए ताकि वे फिर कभी इतनी सुंदर चीज़ न बना सकें।",
+        "label": "popular belief",
+        "note": {
+          "en": "A fact-check found no evidence that Shah Jahan cut off the workers' hands, and the art historian Ebba Koch calls such stories 'guides' tales'.",
+          "hi": "एक तथ्य-जाँच में शाहजहाँ द्वारा कारीगरों के हाथ कटवाने का कोई सबूत नहीं मिला, और कला-इतिहासकार एब्बा कोच ऐसी कहानियों को 'गाइडों की कहानियाँ' कहती हैं।"
+        },
+        "source": "Dawn (reprint of The Wire fact-check, 2 Jan 2022)",
+        "url": "https://www.dawn.com/news/1667195"
+      }
+    ],
+    "kidsStory": {
+      "en": "These flowers are not painted – they are made of tiny coloured stones! Workers cut red, green, blue and yellow stones into petals and leaves and fitted them into the white marble so perfectly that you can't feel the joins. The stones came from far-away places like China, Tibet, Afghanistan and Sri Lanka – 28 kinds in all!",
+      "hi": "ये फूल पेंट नहीं किए गए – ये छोटे-छोटे रंगीन पत्थरों से बने हैं! कारीगरों ने लाल, हरे, नीले और पीले पत्थरों को पंखुड़ियों और पत्तियों के आकार में काटकर सफ़ेद संगमरमर में इतनी सफ़ाई से जड़ा कि जोड़ महसूस नहीं होते। ये पत्थर चीन, तिब्बत, अफ़ग़ानिस्तान और श्रीलंका जैसी दूर की जगहों से आए थे – कुल 28 तरह के!"
+    },
+    "visualCues": "Close-up of smooth white marble with flat inlaid floral scrolls and vines in coloured stones (dark red, green, yellow, black, blue) forming symmetrical flowers and leaves, sometimes next to raised carved white marble flowering plants in a vase-like arrangement on a wall panel. No lettering – that distinguishes it from the calligraphy bands.",
+    "faq": [
+      {
+        "q": {
+          "en": "How many kinds of stones are used?",
+          "hi": "कितनी तरह के पत्थर इस्तेमाल हुए?"
+        },
+        "a": {
+          "en": "28 types of precious and semi-precious stones were inlaid into the white marble.",
+          "hi": "सफ़ेद संगमरमर में 28 तरह के क़ीमती और अर्ध-क़ीमती पत्थर जड़े गए।"
+        }
+      },
+      {
+        "q": {
+          "en": "Is it true the workers' hands were cut off?",
+          "hi": "क्या सच में कारीगरों के हाथ काटे गए थे?"
+        },
+        "a": {
+          "en": "No. It is a popular tale with no evidence behind it; historians call it a guides' story.",
+          "hi": "नहीं। यह एक लोकप्रिय कहानी है जिसका कोई सबूत नहीं; इतिहासकार इसे गाइडों की कहानी कहते हैं।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Detail_of_Marble_Carving_and_Inlay_-_Mausoleum_-_Taj_Mahal_-_Agra_-_Uttar_Pradesh_-_India_%2812650273685%29.jpg/1280px-Detail_of_Marble_Carving_and_Inlay_-_Mausoleum_-_Taj_Mahal_-_Agra_-_Uttar_Pradesh_-_India_%2812650273685%29.jpg",
+        "credit": "Adam Jones from Kelowna, BC, Canada",
+        "license": "CC BY-SA 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Detail_of_Marble_Carving_and_Inlay_-_Mausoleum_-_Taj_Mahal_-_Agra_-_Uttar_Pradesh_-_India_(12650273685).jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Marble_Relief_Dado_with_Vegetal_Motif_-_Taj_Mahal_-_Agra_2014-05-14_3845.JPG/1280px-Marble_Relief_Dado_with_Vegetal_Motif_-_Taj_Mahal_-_Agra_2014-05-14_3845.JPG",
+        "credit": "Biswarup Ganguly",
+        "license": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Marble_Relief_Dado_with_Vegetal_Motif_-_Taj_Mahal_-_Agra_2014-05-14_3845.JPG"
+      }
+    ]
+  },
+  {
+    "id": "minarets",
+    "site": "taj-mahal",
+    "category": "tower",
+    "name": {
+      "en": "The Four Minarets",
+      "hi": "चार मीनारें"
+    },
+    "lat": 27.17457,
+    "lng": 78.04161,
+    "tourOrder": 12,
+    "tourMinutes": 4,
+    "priority": 1,
+    "summary": {
+      "en": "Four slender white marble towers, each over 40 m tall, standing at the corners of the plinth and framing the tomb.",
+      "hi": "चबूतरे के चारों कोनों पर खड़ी चार पतली सफ़ेद संगमरमर की मीनारें, हर एक 40 मीटर से ऊँची, जो मक़बरे को फ़्रेम करती हैं।"
+    },
+    "history": [
+      {
+        "en": "Minarets became a common feature of Mughal architecture only in the 17th century, particularly under Shah Jahan.",
+        "hi": "मीनारें मुग़ल वास्तुकला में आम तौर पर 17वीं सदी में, ख़ासकर शाहजहाँ के समय से बनने लगीं।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Mughal writers saw them as links to heaven: for Lahauri they were 'like ladders to the foot of the sky'.",
+        "hi": "मुग़ल लेखकों ने इन्हें आसमान से जोड़ने वाली कड़ी माना: लाहौरी के लिए ये 'आसमान के पाँव तक पहुँचने वाली सीढ़ियों जैसी' थीं।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-exteriors.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Each minaret is more than 40 m tall and is divided into three nearly equal parts by two balconies; a final balcony at the top carries a chhatri echoing those on the tomb.",
+        "hi": "हर मीनार 40 मीटर से ज़्यादा ऊँची है और दो छज्जेदार बालकनियाँ इसे लगभग तीन बराबर हिस्सों में बाँटती हैं; सबसे ऊपर की बालकनी पर मक़बरे जैसी एक छतरी है।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "They were designed as working minarets – the traditional mosque tower from which the muezzin calls the faithful to prayer.",
+        "hi": "इन्हें असली मीनारों की तरह बनाया गया – मस्जिद की वह पारंपरिक मीनार जहाँ से मुअज़्ज़िन नमाज़ के लिए अज़ान देता है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-exteriors.aspx"
+      },
+      {
+        "en": "UNESCO notes that the four free-standing corner minarets added a 'hitherto unknown dimension' to Mughal architecture, giving the monument a three-dimensional effect; their verticality is monitored today.",
+        "hi": "यूनेस्को के अनुसार कोनों पर अलग खड़ी चार मीनारों ने मुग़ल वास्तुकला में 'एक नया आयाम' जोड़ा और इमारत को त्रि-आयामी असर दिया; आज इनका सीधा खड़ा होना लगातार जाँचा जाता है।",
+        "source": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "en": "The minarets were built leaning slightly outward from the plinth so that, in the event of a collapse, the material from the towers would tend to fall away from the tomb.",
+        "hi": "मीनारें चबूतरे से हल्की-सी बाहर की ओर झुकाकर बनाई गईं, ताकि अगर कभी कोई गिरे तो उसका मलबा मक़बरे से दूर गिरे।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "National Geographic describes the slight outward lean as 'presumably' meant to protect the main mausoleum – the safety reason is an explanation given by writers, not a statement recorded from the builders.",
+        "hi": "नेशनल ज्योग्राफ़िक इस हल्के झुकाव को 'शायद' मक़बरे को बचाने के लिए बताता है – यानी सुरक्षा वाली वजह लेखकों की दी हुई व्याख्या है, बनाने वालों का दर्ज किया हुआ बयान नहीं।",
+        "source": "National Geographic",
+        "url": "https://www.nationalgeographic.com/travel/world-heritage/article/taj-mahal"
+      }
+    ],
+    "folklore": [],
+    "kidsStory": {
+      "en": "Four tall white towers stand like guards at the four corners. Each one is more than 40 metres tall! They lean outward just a tiny bit – people explain that if one ever fell, it would fall away from the tomb and not hurt it.",
+      "hi": "चार ऊँची सफ़ेद मीनारें चारों कोनों पर पहरेदार की तरह खड़ी हैं। हर मीनार 40 मीटर से भी ज़्यादा ऊँची है! ये ज़रा-सी बाहर की ओर झुकी हैं – लोग बताते हैं कि अगर कभी कोई गिरे तो मक़बरे से दूर गिरे और उसे नुक़सान न पहुँचे।"
+    },
+    "visualCues": "Tall, slender, tapering white marble cylindrical tower with thin black inlaid lines, ringed by two projecting balconies, topped by a small open eight-pillared domed kiosk with a gilded tip; stands on an octagonal base at a corner of the white platform, separate from the tomb.",
+    "faq": [
+      {
+        "q": {
+          "en": "Why do the minarets lean?",
+          "hi": "मीनारें झुकी क्यों हैं?"
+        },
+        "a": {
+          "en": "They were built leaning very slightly outward; sources explain that if one collapsed, it would fall away from the tomb.",
+          "hi": "इन्हें हल्का-सा बाहर की ओर झुकाकर बनाया गया; स्रोतों के अनुसार अगर कोई मीनार गिरे तो मक़बरे से दूर गिरे।"
+        }
+      },
+      {
+        "q": {
+          "en": "How tall are they?",
+          "hi": "ये कितनी ऊँची हैं?"
+        },
+        "a": {
+          "en": "Each is more than 40 metres (about 130 feet) tall.",
+          "hi": "हर मीनार 40 मीटर (लगभग 130 फ़ुट) से ज़्यादा ऊँची है।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/One_of_the_four_minarets_of_Taj_Mahal.jpg/1280px-One_of_the_four_minarets_of_Taj_Mahal.jpg",
+        "credit": "Dey.sandip",
+        "license": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:One_of_the_four_minarets_of_Taj_Mahal.jpg"
+      }
+    ]
+  },
+  {
+    "id": "dome-finial",
+    "site": "taj-mahal",
+    "category": "dome",
+    "name": {
+      "en": "The Great Dome and Finial",
+      "hi": "बड़ा गुंबद और कलश (शिखर)"
+    },
+    "lat": 27.17504,
+    "lng": 78.04208,
+    "tourOrder": 13,
+    "tourMinutes": 4,
+    "priority": 1,
+    "summary": {
+      "en": "The famous white onion-shaped dome on a tall drum, ringed by four small domed kiosks and crowned by a gilded finial with a crescent moon.",
+      "hi": "ऊँचे ढोल जैसे आधार पर टिका मशहूर सफ़ेद प्याज़ के आकार का गुंबद, जिसके चारों ओर चार छोटी छतरियाँ हैं और ऊपर चाँद वाला सुनहरा कलश।"
+    },
+    "history": [
+      {
+        "en": "The main finial was originally made of gold but was replaced by a copy in gilded bronze in the early 19th century.",
+        "hi": "मुख्य कलश पहले सोने का था, लेकिन 19वीं सदी की शुरुआत में इसकी जगह सोने की परत वाली काँसे की नकल लगा दी गई।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-exteriors.aspx"
+      },
+      {
+        "en": "The team named in historical accounts includes the Ottoman dome designer Ismail Afandi and the finial caster Qazim Khan.",
+        "hi": "ऐतिहासिक विवरणों में बताए गए दल में तुर्की (उस्मानी) गुंबद-डिज़ाइनर इस्माइल अफ़ंदी और कलश ढालने वाले क़ाज़िम ख़ाँ के नाम हैं।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "It is a double dome: a central inner dome about 81 ft high is covered by an outer shell rising to nearly 200 ft.",
+        "hi": "यह दोहरा गुंबद है: अंदर का गुंबद लगभग 81 फ़ुट ऊँचा है और उसके ऊपर बाहरी खोल लगभग 200 फ़ुट की ऊँचाई तक उठता है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      },
+      {
+        "en": "The dome sits on a cylindrical drum, which makes it look taller; because of its shape it is often called an onion dome. A twisted-rope moulding marks the joint between drum and dome, and a crown of lotus leaves sits on top.",
+        "hi": "गुंबद एक गोल ढोल जैसे आधार पर टिका है, जिससे यह और ऊँचा लगता है; अपने आकार के कारण इसे प्याज़ी गुंबद कहते हैं। आधार और गुंबद के जोड़ पर रस्सी जैसी बटी हुई नक़्क़ाशी है, और ऊपर कमल की पत्तियों का मुकुट है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-exteriors.aspx"
+      },
+      {
+        "en": "Four smaller domed chhatris at the corners repeat the onion shape; their columned bases open through the roof and let light into the interior. The finial is made of stacked gilded bulbs topped by a crescent moon whose horns point to the sky.",
+        "hi": "कोनों पर चार छोटी गुंबददार छतरियाँ भी प्याज़ी आकार की हैं; उनके खंभों वाले आधार छत में खुलते हैं और अंदर रोशनी पहुँचाते हैं। कलश एक के ऊपर एक रखे सुनहरे गोलों से बना है, जिसके सबसे ऊपर अर्धचंद्र है जिसके सींग आसमान की ओर हैं।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-exteriors.aspx"
+      },
+      {
+        "en": "Wikipedia notes that the dome is slightly asymmetrical.",
+        "hi": "विकिपीडिया के अनुसार गुंबद थोड़ा-सा असममित है।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "A popular belief says that striking the silhouette (outline) of the finial will make water come forth; officials still find broken bangles around the silhouette.",
+        "hi": "एक लोकप्रिय मान्यता है कि कलश की आकृति (रेखाचित्र) पर चोट करने से पानी निकल आता है; अधिकारियों को आज भी उस आकृति के पास टूटी चूड़ियाँ मिलती हैं।",
+        "label": "popular belief",
+        "note": {
+          "en": "Wikipedia lists this among the myths of the Taj; there is no basis for it, and visitors should not strike or scratch any surface.",
+          "hi": "विकिपीडिया इसे ताज से जुड़े मिथकों में गिनता है; इसका कोई आधार नहीं है, और पर्यटकों को किसी भी सतह पर चोट या खरोंच नहीं करनी चाहिए।"
+        },
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
+    ],
+    "kidsStory": {
+      "en": "Look up at the giant dome – it is shaped like an onion! It is actually two domes, one inside the other, like a bowl under a big hat. On the very top is a shiny golden spike with a little moon. It used to be real gold, but in the early 1800s it was replaced with gold-covered bronze.",
+      "hi": "ऊपर बड़े गुंबद को देखो – यह प्याज़ जैसा है! असल में ये दो गुंबद हैं, एक के अंदर दूसरा, जैसे बड़ी टोपी के नीचे एक कटोरी। सबसे ऊपर चमकता सुनहरा कलश है जिस पर छोटा-सा चाँद है। पहले यह असली सोने का था, लेकिन 1800 के दशक की शुरुआत में इसकी जगह सोने की परत वाला काँसा लगा दिया गया।"
+    },
+    "visualCues": "Huge bulbous white marble onion-shaped dome on a tall cylindrical drum, with a lotus-leaf crown and a tall golden metal spire of stacked balls ending in a crescent moon; four small white domed open kiosks around it and thin spires at the roof corners; usually photographed against the sky.",
+    "faq": [
+      {
+        "q": {
+          "en": "Is the top of the dome made of gold?",
+          "hi": "क्या गुंबद का कलश सोने का है?"
+        },
+        "a": {
+          "en": "It was originally gold, but in the early 19th century it was replaced with a gilded bronze copy.",
+          "hi": "पहले सोने का था, लेकिन 19वीं सदी की शुरुआत में इसकी जगह सोने की परत वाली काँसे की नकल लगा दी गई।"
+        }
+      },
+      {
+        "q": {
+          "en": "Is the dome hollow?",
+          "hi": "क्या गुंबद अंदर से खोखला है?"
+        },
+        "a": {
+          "en": "It is a double dome: an inner dome about 81 ft high under an outer shell nearly 200 ft high.",
+          "hi": "यह दोहरा गुंबद है: लगभग 81 फ़ुट ऊँचा अंदरूनी गुंबद, और उसके ऊपर लगभग 200 फ़ुट ऊँचा बाहरी खोल।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Taj_Mahal_Dome_%26_Finial_%2822924891250%29.jpg/1280px-Taj_Mahal_Dome_%26_Finial_%2822924891250%29.jpg",
+        "credit": "Gary Todd from Xinzheng, China",
+        "license": "CC0",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Dome_%26_Finial_(22924891250).jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Taj_Mahal_finial-1.jpg/1280px-Taj_Mahal_finial-1.jpg",
+        "credit": "David Castor (dcastor)",
+        "license": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_finial-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "cenotaphs-main-chamber",
+    "site": "taj-mahal",
+    "category": "interior",
+    "name": {
+      "en": "Main Chamber – Cenotaphs of Mumtaz Mahal and Shah Jahan",
+      "hi": "मुख्य कक्ष – मुमताज़ महल और शाहजहाँ की प्रतीकात्मक क़ब्रें"
+    },
+    "lat": 27.17501,
+    "lng": 78.04209,
+    "tourOrder": 14,
+    "tourMinutes": 10,
+    "priority": 1,
+    "summary": {
+      "en": "The octagonal marble hall inside the tomb, where an inlaid marble screen surrounds the cenotaphs (symbolic tombs) of Mumtaz Mahal and Shah Jahan. The real graves are in a chamber below.",
+      "hi": "मक़बरे के अंदर का अठकोना संगमरमर का हॉल, जहाँ जड़ाऊ संगमरमर की जाली मुमताज़ महल और शाहजहाँ की प्रतीकात्मक क़ब्रों को घेरे है। असली क़ब्रें नीचे के कक्ष में हैं।"
+    },
+    "history": [
+      {
+        "en": "The cenotaphs were first surrounded by a screen of enamelled gold made by the goldsmith-poet Bibadal Khan for the second anniversary of Mumtaz's death in 1633. In 1643 it was replaced by the present marble screen, which took ten years to make and cost 50,000 rupees – less than a tenth of the gold screen.",
+        "hi": "पहले क़ब्रों के चारों ओर सुनार-कवि बेबदल ख़ाँ की बनाई सोने की मीनाकारी वाली जाली थी, जो 1633 में मुमताज़ की दूसरी बरसी पर लगी। 1643 में इसकी जगह आज की संगमरमर की जाली लगी, जिसे बनाने में दस साल और 50,000 रुपये लगे – सोने की जाली की क़ीमत के दसवें हिस्से से भी कम।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-interiors.aspx"
+      },
+      {
+        "en": "Shah Jahan was deposed by his son Aurangzeb in 1658 and kept under house arrest in Agra Fort. When he died in 1666, Aurangzeb buried him in the mausoleum next to his wife.",
+        "hi": "1658 में शाहजहाँ को उनके बेटे औरंगज़ेब ने गद्दी से हटाकर आगरा किले में नज़रबंद कर दिया। 1666 में उनकी मृत्यु पर औरंगज़ेब ने उन्हें इसी मक़बरे में उनकी बेगम के पास दफ़नाया।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "Mumtaz Mahal's epitaph reads: 'The illumined grave of Arjumand Bano Begam, entitled Mumtaz Mahal, who died in the year 1631.'",
+        "hi": "मुमताज़ महल की क़ब्र पर लिखा है: 'अर्जुमंद बानो बेगम, जिन्हें मुमताज़ महल का ख़िताब मिला, की रोशन क़ब्र, जिनका इंतक़ाल 1631 में हुआ।'",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-interiors.aspx"
+      },
+      {
+        "en": "In the 18th century the Jat rulers of Bharatpur raided the Taj and carried off two chandeliers that hung over the main cenotaph. Lord Curzon later commissioned the large lamp in the interior chamber.",
+        "hi": "18वीं सदी में भरतपुर के जाट शासकों ने ताज पर हमला कर मुख्य क़ब्र के ऊपर लटके दो झाड़-फ़ानूस ले गए। बाद में लॉर्ड कर्ज़न ने अंदर के कक्ष का बड़ा दीपक बनवाया।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "The large lamp commissioned by Lord Curzon was modelled after one in a Cairo mosque.",
+        "hi": "लॉर्ड कर्ज़न का बनवाया बड़ा दीपक काहिरा की एक मस्जिद के दीपक के नमूने पर बना है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/history-of-the-taj-mahal.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "The hall is a perfect octagon about 7.3 m (24 ft) a side with walls about 25 m high, under a 'false' inner dome decorated with a sun motif. Light enters through marble lattice screens (jalis) in the upper arches.",
+        "hi": "यह हॉल लगभग 7.3 मीटर (24 फ़ुट) भुजा वाला पूरा अठकोना है, दीवारें लगभग 25 मीटर ऊँची हैं और ऊपर सूर्य के चित्र से सजा अंदरूनी 'नकली' गुंबद है। ऊपरी मेहराबों की संगमरमर की जालियों से रोशनी आती है।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "Mumtaz Mahal's cenotaph is exactly at the centre of the hall. Shah Jahan's larger cenotaph, added later beside it on the west after his burial in 1666, is the only asymmetrical element in the whole complex; a small pen box carved on its lid marks it as a man's tomb.",
+        "hi": "मुमताज़ महल की क़ब्र हॉल के ठीक बीच में है। शाहजहाँ की बड़ी क़ब्र 1666 में उनके दफ़न के बाद उसके पश्चिम में जोड़ी गई – पूरे परिसर में यही अकेली असममित चीज़ है; उसके ऊपर तराशी गई छोटी क़लमदान की आकृति इसे पुरुष की क़ब्र बताती है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "The octagonal screen is made of eight marble panels carved with openwork plant scrolls – the only jalis in the Taj made of plant forms rather than geometric patterns – and inlaid with semi-precious stones. Its corner posts end in kalasha finials.",
+        "hi": "अठकोनी जाली आठ संगमरमर के पैनलों से बनी है जिनमें बेल-बूटों की जालीदार नक़्क़ाशी है – ताज में यही एकमात्र जाली है जिसमें ज्यामितीय नहीं बल्कि पौधों के आकार हैं – और इनमें अर्ध-क़ीमती पत्थर जड़े हैं। इसके कोनों के खंभे कलश के आकार में ख़त्म होते हैं।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-interiors.aspx"
+      },
+      {
+        "en": "The interior has a reverberation time of about 28 seconds, so the words of the Quran reciters would linger in the air.",
+        "hi": "अंदर आवाज़ की गूँज लगभग 28 सेकंड तक रहती है, ताकि क़ुरान पढ़ने वालों के शब्द देर तक हवा में गूँजते रहें।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/architecture.aspx"
+      },
+      {
+        "en": "Shah Jahan's cenotaph is covered with inlaid flowers including red poppies; the decoration of cenotaphs with hardstone inlay was reserved for members of the Mughal imperial family.",
+        "hi": "शाहजहाँ की क़ब्र लाल पोस्त (पॉपी) समेत जड़े हुए फूलों से ढकी है; क़ब्रों पर क़ीमती पत्थरों की जड़ाई सिर्फ़ मुग़ल शाही परिवार के लिए होती थी।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-interiors.aspx"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "Legend has it that as Mumtaz Mahal lay dying, she made Shah Jahan promise to build her the most beautiful tomb ever known. A longer version on the official site says she asked for four promises, including that he build the Taj and visit it on her death anniversary.",
+        "hi": "किंवदंती है कि मृत्यु-शय्या पर मुमताज़ महल ने शाहजहाँ से वादा लिया कि वे उनके लिए दुनिया का सबसे सुंदर मक़बरा बनवाएँगे। आधिकारिक साइट पर एक लंबी कहानी में चार वादों का ज़िक्र है, जिनमें ताज बनवाना और उनकी बरसी पर आना शामिल है।",
+        "label": "legend",
+        "note": {
+          "en": "National Geographic introduces it with 'Legend has it'. What is recorded is Shah Jahan's deep grief, described in detail by court chroniclers; the deathbed promise itself is a traditional story.",
+          "hi": "नेशनल ज्योग्राफ़िक इसे 'किंवदंती' कहकर बताता है। दरबारी इतिहासकारों ने शाहजहाँ के गहरे दुख को विस्तार से दर्ज किया है; मृत्यु-शय्या वाला वादा एक पारंपरिक कहानी है।"
+        },
+        "source": "National Geographic",
+        "url": "https://www.nationalgeographic.com/travel/world-heritage/article/taj-mahal"
+      },
+      {
+        "en": "Because Shah Jahan's cenotaph sits off-centre beside Mumtaz's, it has been said that he never meant to be buried here but planned his own black marble tomb across the river.",
+        "hi": "क्योंकि शाहजहाँ की क़ब्र बीच में नहीं बल्कि मुमताज़ की क़ब्र के बगल में है, कहा गया है कि वे यहाँ दफ़न होना नहीं चाहते थे, बल्कि नदी पार अपने लिए काले संगमरमर का मक़बरा बनवाना चाहते थे।",
+        "label": "popular belief",
+        "note": {
+          "en": "Historians such as Ram Nath consider the Black Taj fiction. The same off-centre placement is seen at the Tomb of Itimad-ud-Daulah, and by Islamic custom the husband is placed on the wife's right, so the arrangement need not mean anything special.",
+          "hi": "राम नाथ जैसे इतिहासकार काले ताज को कल्पना मानते हैं। एतमाद-उद-दौला के मक़बरे में भी यही बगल वाली व्यवस्था है, और इस्लामी रिवाज में पति को पत्नी की दाहिनी ओर रखा जाता है, इसलिए इसमें कोई ख़ास बात नहीं।"
+        },
+        "source": "Wikipedia – Black Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Black_Taj_Mahal"
+      }
+    ],
+    "devotional": [
+      {
+        "en": "A trust (waqf) paid for Quran reciters (Hafiz) who sat day and night in the mausoleum, reciting and praying for the soul of Mumtaz Mahal.",
+        "hi": "एक वक़्फ़ (ट्रस्ट) से उन हाफ़िज़ों का ख़र्च चलता था जो दिन-रात मक़बरे में बैठकर क़ुरान पढ़ते और मुमताज़ महल की रूह के लिए दुआ करते थे।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "This is a grave site: visitors are requested not to make noise inside the mausoleum.",
+        "hi": "यह एक क़ब्रगाह है: पर्यटकों से अनुरोध है कि मक़बरे के अंदर शोर न करें।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/dos-and-donts.aspx"
+      }
+    ],
+    "kidsStory": {
+      "en": "Inside the tomb is a quiet, eight-sided room. In the very middle is a marble box for Queen Mumtaz Mahal, and beside it a bigger one for Emperor Shah Jahan, added many years later. They are 'pretend' tombs – the real graves are in a room underneath. Around them is a stone fence carved so finely it looks like lace, with flowers made of coloured stones.",
+      "hi": "मक़बरे के अंदर एक शांत, आठ कोनों वाला कमरा है। ठीक बीच में बेगम मुमताज़ महल की संगमरमर की क़ब्र है, और उसके बगल में बादशाह शाहजहाँ की बड़ी क़ब्र, जो कई साल बाद बनी। ये 'दिखावे की' क़ब्रें हैं – असली क़ब्रें नीचे वाले कमरे में हैं। इनके चारों ओर पत्थर की ऐसी बारीक जाली है जो लेस जैसी लगती है, और उस पर रंगीन पत्थरों के फूल बने हैं।"
+    },
+    "visualCues": "Dim interior of an octagonal white marble hall; in the centre an eight-sided pierced white marble lattice screen with lace-like carving and coloured stone inlay, enclosing two white marble cenotaphs covered in inlaid flowers and black lettering; a large hanging brass lamp above; arched niches with carved flower panels on the walls.",
+    "accessibility": {
+      "en": "Entering the main mausoleum needs an additional optional ticket (Rs 200). The interior is dimly lit through marble lattices; keep silent inside.",
+      "hi": "मुख्य मक़बरे में जाने के लिए अलग वैकल्पिक टिकट (200 रुपये) लगता है। अंदर संगमरमर की जालियों से हल्की रोशनी आती है; अंदर शांति बनाए रखें।"
+    },
+    "faq": [
+      {
+        "q": {
+          "en": "Are the real graves in this room?",
+          "hi": "क्या असली क़ब्रें इसी कमरे में हैं?"
+        },
+        "a": {
+          "en": "No. These are cenotaphs (symbolic tombs). The real graves are directly below, in a plain lower chamber, as was the practice in imperial Mughal tombs.",
+          "hi": "नहीं। ये प्रतीकात्मक क़ब्रें हैं। असली क़ब्रें ठीक नीचे एक सादे कक्ष में हैं, जैसा शाही मुग़ल मक़बरों में होता था।"
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Shah Jahan's tomb not in the centre?",
+          "hi": "शाहजहाँ की क़ब्र बीच में क्यों नहीं है?"
+        },
+        "a": {
+          "en": "Mumtaz Mahal's cenotaph was placed at the exact centre; Shah Jahan's was added beside it to the west after his death in 1666.",
+          "hi": "मुमताज़ महल की क़ब्र ठीक बीच में रखी गई थी; शाहजहाँ की क़ब्र 1666 में उनकी मृत्यु के बाद उसके पश्चिम में बगल में जोड़ी गई।"
+        }
+      },
+      {
+        "q": {
+          "en": "Do I need a separate ticket to go inside?",
+          "hi": "क्या अंदर जाने के लिए अलग टिकट चाहिए?"
+        },
+        "a": {
+          "en": "Yes, the main mausoleum has an additional optional ticket of Rs 200 for all visitors.",
+          "hi": "हाँ, मुख्य मक़बरे के लिए सभी पर्यटकों को 200 रुपये का अलग वैकल्पिक टिकट लेना होता है।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Screen_Enclosing_the_Sarcophagi_in_the_Interior_of_the_Taj%2C_28193801.jpg/1280px-The_Screen_Enclosing_the_Sarcophagi_in_the_Interior_of_the_Taj%2C_28193801.jpg",
+        "credit": "Samuel Bourne",
+        "license": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:The_Screen_Enclosing_the_Sarcophagi_in_the_Interior_of_the_Taj,_28193801.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Cenotaph_of_Shah_Jahan.jpg/1280px-Cenotaph_of_Shah_Jahan.jpg",
+        "credit": "Royroydeb",
+        "license": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cenotaph_of_Shah_Jahan.jpg"
+      }
+    ]
+  },
+  {
+    "id": "crypt-real-graves",
+    "site": "taj-mahal",
+    "category": "interior",
+    "name": {
+      "en": "Lower Tomb Chamber – the Real Graves",
+      "hi": "निचला कक्ष – असली क़ब्रें"
+    },
+    "lat": 27.17498,
+    "lng": 78.0421,
+    "tourOrder": 15,
+    "tourMinutes": 3,
+    "priority": 2,
+    "summary": {
+      "en": "Directly beneath the main hall, a plain marble chamber holds the actual graves of Mumtaz Mahal and Shah Jahan. It is normally closed and opened to the public only during Shah Jahan's annual Urs.",
+      "hi": "मुख्य हॉल के ठीक नीचे एक सादे संगमरमर के कक्ष में मुमताज़ महल और शाहजहाँ की असली क़ब्रें हैं। यह आम तौर पर बंद रहता है और सिर्फ़ शाहजहाँ के सालाना उर्स पर लोगों के लिए खुलता है।"
+    },
+    "history": [
+      {
+        "en": "Mumtaz Mahal died at Burhanpur in 1631 and was first buried in the Zainabad garden; about six months later her body was brought to Agra and finally enshrined in the crypt of the main tomb.",
+        "hi": "मुमताज़ महल का 1631 में बुरहानपुर में इंतक़ाल हुआ और उन्हें पहले ज़ैनाबाद बाग़ में दफ़नाया गया; लगभग छह महीने बाद उनका शरीर आगरा लाया गया और आख़िर में मुख्य मक़बरे के तहख़ाने में रखा गया।",
+        "source": "Archaeological Survey of India (archived monument page)",
+        "url": "https://web.archive.org/web/20150215034204/http://asi.nic.in/asi_monu_whs_agratajmahal.asp"
+      },
+      {
+        "en": "Shah Jahan's lower epitaph says he 'travelled from this world to the banquet hall of eternity' on the night of 26 Rajab 1076 AH – 31 January 1666.",
+        "hi": "शाहजहाँ की निचली क़ब्र पर लिखा है कि वे 26 रजब 1076 हिजरी (31 जनवरी 1666) की रात 'इस दुनिया से अनंत की महफ़िल की ओर चले गए'।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-interiors.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "A stairway from the southern entrance room leads down to this rectangular chamber, faced entirely in marble with an undecorated coved ceiling; it is not normally accessible to visitors.",
+        "hi": "दक्षिणी प्रवेश-कक्ष से एक सीढ़ी नीचे इस आयताकार कक्ष तक जाती है, जो पूरा संगमरमर से ढका है और जिसकी छत सादी, घुमावदार है; आम तौर पर पर्यटक यहाँ नहीं जा सकते।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-interiors.aspx"
+      },
+      {
+        "en": "Muslim tradition forbids elaborate decoration of graves, so the bodies of Mumtaz and Shah Jahan lie in this relatively plain marble-faced chamber beneath the main hall.",
+        "hi": "इस्लामी परंपरा में क़ब्रों की भारी सजावट मना है, इसलिए मुमताज़ और शाहजहाँ के शरीर मुख्य हॉल के नीचे इस सादे संगमरमर वाले कक्ष में हैं।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Mumtaz Mahal's lower cenotaph has an almost undecorated platform; tiny cartouches on its sides carry the Ninety-Nine Beautiful Names of God. Shah Jahan's lower cenotaph is a simpler version of his upper one, with small red poppies and yellow lily-like flowers.",
+        "hi": "मुमताज़ महल की निचली क़ब्र का चबूतरा लगभग सादा है; उसके किनारों पर छोटे खानों में अल्लाह के निन्यानवे सुंदर नाम लिखे हैं। शाहजहाँ की निचली क़ब्र ऊपर वाली का सादा रूप है, जिस पर छोटे लाल पोस्त और पीले लिली जैसे फूल बने हैं।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-interiors.aspx"
+      }
+    ],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "The graves are aligned north–south with the head to the north, and the bodies were laid on their side with the face turned west towards Mecca, so that they would rise facing the right way on the Day of Judgement.",
+        "hi": "क़ब्रें उत्तर-दक्षिण दिशा में हैं, सिर उत्तर की ओर; शरीरों को करवट से रखा गया ताकि चेहरा पश्चिम में मक्का की ओर रहे और क़यामत के दिन वे सही दिशा में उठें।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-interiors.aspx"
+      },
+      {
+        "en": "Every year during Shah Jahan's three-day Urs (death anniversary), the tombs are opened to pilgrims and tourists. The rituals include 'ghusl' (ritual washing), 'sandal', 'Milad Sharif', 'Kul' recitation and 'chadar poshi' – in 2023 a 1,450-metre chadar was offered – and entry to the Taj is free for parts of those days.",
+        "hi": "हर साल शाहजहाँ के तीन दिन के उर्स (बरसी) पर ये क़ब्रें श्रद्धालुओं और पर्यटकों के लिए खोली जाती हैं। रस्मों में ग़ुस्ल, संदल, मिलाद शरीफ़, कुल और चादरपोशी शामिल हैं – 2023 में 1,450 मीटर लंबी चादर चढ़ाई गई – और इन दिनों के कुछ हिस्सों में ताज में प्रवेश मुफ़्त रहता है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/shahjahan-urs.aspx"
+      }
+    ],
+    "visualCues": "Plain, low rectangular marble-lined chamber with a curved undecorated ceiling, reached by a narrow covered stairway; two simple white marble cenotaphs with small inscriptions, far less ornate than the upper hall; often draped with cloth (chadar) and flowers during the Urs.",
+    "accessibility": {
+      "en": "Normally closed to visitors. It opens only during Shah Jahan's annual three-day Urs, reached by a narrow stairway.",
+      "hi": "आम तौर पर पर्यटकों के लिए बंद। सिर्फ़ शाहजहाँ के सालाना तीन दिन के उर्स पर खुलता है; वहाँ एक संकरी सीढ़ी से जाना होता है।"
+    },
+    "faq": [
+      {
+        "q": {
+          "en": "Can I see the real graves?",
+          "hi": "क्या मैं असली क़ब्रें देख सकता/सकती हूँ?"
+        },
+        "a": {
+          "en": "Only during Shah Jahan's annual three-day Urs, when the lower chamber is opened to the public. The dates follow the Islamic calendar (in 2023 it was 17–19 February).",
+          "hi": "सिर्फ़ शाहजहाँ के सालाना तीन दिन के उर्स में, जब निचला कक्ष लोगों के लिए खोला जाता है। तारीख़ें इस्लामी कैलेंडर से तय होती हैं (2023 में 17–19 फ़रवरी थीं)।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "yamuna-riverfront",
+    "site": "taj-mahal",
+    "category": "viewpoint",
+    "name": {
+      "en": "Yamuna Riverfront Terrace",
+      "hi": "यमुना किनारे की छत"
+    },
+    "lat": 27.1755,
+    "lng": 78.043,
+    "tourOrder": 16,
+    "tourMinutes": 6,
+    "priority": 2,
+    "summary": {
+      "en": "The open north side of the complex, where the tomb's terrace drops to the Yamuna. From here you can look along the river towards Agra Fort.",
+      "hi": "परिसर का खुला उत्तरी हिस्सा, जहाँ मक़बरे की छत यमुना तक उतरती है। यहाँ से नदी के साथ-साथ आगरा किले की ओर देखा जा सकता है।"
+    },
+    "history": [
+      {
+        "en": "The Taj Mahal stands on the right bank of the Yamuna at a point where the river takes a sharp turn and flows eastwards.",
+        "hi": "ताजमहल यमुना के दाहिने किनारे पर उस जगह है जहाँ नदी तेज़ी से मुड़कर पूर्व की ओर बहने लगती है।",
+        "source": "Archaeological Survey of India (archived monument page)",
+        "url": "https://web.archive.org/web/20150215034204/http://asi.nic.in/asi_monu_whs_agratajmahal.asp"
+      },
+      {
+        "en": "In Shah Jahan's time a thriving riverfront garden city lined both banks of the Yamuna at Agra; the best estates were those with access to the river, and the Taj was built in this setting.",
+        "hi": "शाहजहाँ के समय आगरा में यमुना के दोनों किनारों पर बाग़ों से भरा एक समृद्ध नदी-किनारे का शहर था; सबसे अच्छी जागीरें वही थीं जिनकी पहुँच नदी तक थी, और ताज इसी माहौल में बना।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "After being deposed in 1658, Shah Jahan was kept under house arrest in Agra Fort, from where he could see the Taj Mahal.",
+        "hi": "1658 में गद्दी से हटाए जाने के बाद शाहजहाँ को आगरा किले में नज़रबंद रखा गया, जहाँ से वे ताजमहल देख सकते थे।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Towards the river the terrace forms an unbroken red sandstone band about 28 ft 6 in high and 984 ft long, decorated with relief and inlay; it was the first part of the complex to be built.",
+        "hi": "नदी की ओर यह छत लगभग 28 फ़ुट 6 इंच ऊँची और 984 फ़ुट लंबी लाल बलुआ पत्थर की लगातार दीवार जैसी है, जिस पर उभरी नक़्क़ाशी और जड़ाई है; परिसर में सबसे पहले यही बनी थी।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/the-taj-exteriors.aspx"
+      },
+      {
+        "en": "The complex is walled on three sides with crenellated red sandstone; the river side was left open.",
+        "hi": "परिसर तीन ओर से कंगूरेदार लाल पत्थर की दीवारों से घिरा है; नदी की ओर का हिस्सा खुला छोड़ा गया।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "Beneath the terrace is the tahkhana, a galleried suite of rooms opening towards the river.",
+        "hi": "छत के नीचे तहख़ाना है – दालानों वाले कमरों का समूह जो नदी की ओर खुलता है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "Legend has it that during his last years of illness and imprisonment, Shah Jahan watched the Taj from his bed through a diamond fixed in the wall at a particular angle.",
+        "hi": "किंवदंती है कि बीमारी और क़ैद के आख़िरी सालों में शाहजहाँ अपने बिस्तर से दीवार में एक ख़ास कोण पर जड़े हीरे के सहारे ताज को देखा करते थे।",
+        "label": "legend",
+        "note": {
+          "en": "The official site itself calls this a legend. What history records is only that he could see the Taj from Agra Fort.",
+          "hi": "आधिकारिक साइट ख़ुद इसे किंवदंती कहती है। इतिहास में सिर्फ़ इतना दर्ज है कि वे आगरा किले से ताज देख सकते थे।"
+        },
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-story.aspx"
+      }
+    ],
+    "visualCues": "Edge of the white marble/red sandstone terrace behind the tomb with a low parapet, overlooking the wide, slow Yamuna river and flat sandy floodplain and green trees on the far bank; to the west (left) the distant red walls of Agra Fort along the river bend.",
+    "faq": [
+      {
+        "q": {
+          "en": "Can I see Agra Fort from here?",
+          "hi": "क्या यहाँ से आगरा किला दिखता है?"
+        },
+        "a": {
+          "en": "Agra Fort stands further along the Yamuna; Shah Jahan, held there after 1658, could see the Taj from the fort.",
+          "hi": "आगरा किला यमुना के किनारे कुछ दूरी पर है; 1658 के बाद वहाँ नज़रबंद शाहजहाँ किले से ताज देख सकते थे।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Panorama_of_Yamuna_from_Taj_Mahal%2C_Agra.jpg/1280px-Panorama_of_Yamuna_from_Taj_Mahal%2C_Agra.jpg",
+        "credit": "Slyronit",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_Yamuna_from_Taj_Mahal,_Agra.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Yamuna_River%2C_view_from_Taj_Mahal_Courtyard.jpg/1280px-Yamuna_River%2C_view_from_Taj_Mahal_Courtyard.jpg",
+        "credit": "Sidheeq",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Yamuna_River,_view_from_Taj_Mahal_Courtyard.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mehtab-bagh-view",
+    "site": "taj-mahal",
+    "category": "viewpoint",
+    "name": {
+      "en": "View of Mehtab Bagh across the River",
+      "hi": "नदी पार मेहताब बाग़ का दृश्य"
+    },
+    "lat": 27.1755,
+    "lng": 78.04209,
+    "tourOrder": 17,
+    "tourMinutes": 4,
+    "priority": 2,
+    "summary": {
+      "en": "Directly north across the Yamuna lies Mehtab Bagh, the 'Moonlight Garden', laid out exactly in line with the Taj and of the same width.",
+      "hi": "यमुना के ठीक उत्तर में, नदी के पार, मेहताब बाग़ यानी 'चाँदनी बाग़' है, जो ताज की सीध में और उतनी ही चौड़ाई में बना है।"
+    },
+    "history": [
+      {
+        "en": "Mehtab Bagh was designed as an integral part of the Taj complex in the riverfront-terrace pattern; its width is identical to that of the rest of the Taj.",
+        "hi": "मेहताब बाग़ ताज परिसर के ही हिस्से के रूप में नदी-किनारे की छत वाली शैली में बनाया गया था; इसकी चौड़ाई बाक़ी ताज परिसर के बराबर है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "With the discovery of Mehtab Bagh, the ASI has suggested that the Yamuna itself was made part of the garden design, to be seen as one of the rivers of Paradise.",
+        "hi": "मेहताब बाग़ मिलने के बाद ASI ने अनुमान लगाया कि यमुना नदी को ही बाग़ के डिज़ाइन का हिस्सा बनाया गया था, ताकि वह जन्नत की नदियों में से एक लगे।",
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      },
+      {
+        "en": "ASI excavations in 1994 uncovered a large octagonal tank with 25 fountains; the garden was later replanted with plants used in Mughal gardens.",
+        "hi": "1994 में ASI की खुदाई में 25 फव्वारों वाला एक बड़ा अठकोना हौज़ मिला; बाद में बाग़ में वही पौधे लगाए गए जो मुग़ल बाग़ों में होते थे।",
+        "source": "Wikipedia – Mehtab Bagh",
+        "url": "https://en.wikipedia.org/wiki/Mehtab_Bagh"
+      },
+      {
+        "en": "The Agra Development Authority runs a viewpoint on the riverbank near Mehtab Bagh that is open from sunrise every day – including Fridays, when the Taj itself is closed.",
+        "hi": "आगरा विकास प्राधिकरण मेहताब बाग़ के पास नदी किनारे एक व्यू-पॉइंट चलाता है जो रोज़ सूर्योदय से खुलता है – शुक्रवार को भी, जब ताज ख़ुद बंद रहता है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/taj-view-point-mehtab-bagh.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Garden historian Elizabeth Moynihan suggests that the large octagonal pool would reflect the image of the mausoleum, making the garden a setting to view the Taj.",
+        "hi": "बाग़-इतिहासकार एलिज़ाबेथ मोयनिहान के अनुसार बड़ा अठकोना ताल मक़बरे का अक्स दिखाता था, यानी यह बाग़ ताज को देखने की जगह था।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Four sandstone towers once marked the corners of Mehtab Bagh; only the south-eastern one remains.",
+        "hi": "मेहताब बाग़ के चारों कोनों पर कभी बलुआ पत्थर के बुर्ज थे; अब सिर्फ़ दक्षिण-पूर्वी बुर्ज बचा है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "The most famous Taj legend: Shah Jahan planned a 'Black Taj' in black marble for himself across the river, joined to the white Taj by a bridge, but his son Aurangzeb overthrew him before it could be built.",
+        "hi": "ताज की सबसे मशहूर किंवदंती: शाहजहाँ नदी के पार अपने लिए काले संगमरमर का 'काला ताज' बनवाना चाहते थे, जो सफ़ेद ताज से एक पुल से जुड़ता, लेकिन उनके बेटे औरंगज़ेब ने उसके बनने से पहले ही उन्हें गद्दी से हटा दिया।",
+        "label": "legend",
+        "note": {
+          "en": "The idea comes from the 'fanciful writings' of the French traveller Jean-Baptiste Tavernier, who visited Agra in 1665. Excavations in the 1990s showed the 'black ruins' were white stones that had turned dark; a 2006 reconstruction of the pool showed a dark reflection of the white tomb, a more likely origin of the story.",
+          "hi": "यह विचार 1665 में आगरा आए फ़्रांसीसी यात्री ज़ाँ-बैप्टिस्ट टैवर्नियर के 'कल्पनापूर्ण लेखन' से आया। 1990 के दशक की खुदाई में पता चला कि 'काले खंडहर' असल में काले पड़ चुके सफ़ेद पत्थर थे; 2006 में ताल को फिर बनाने पर उसमें सफ़ेद मक़बरे का गहरा अक्स दिखा, जो इस कहानी की ज़्यादा संभव जड़ है।"
+        },
+        "source": "Wikipedia – Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+      }
+    ],
+    "kidsStory": {
+      "en": "Across the river is a garden called Mehtab Bagh, which means 'Moonlight Garden'. It has a big eight-sided pool, and when the water is still, the white Taj Mahal is reflected in it. Because the reflection looks dark, some people told a story about a 'Black Taj' – but diggers found no black building there.",
+      "hi": "नदी के उस पार मेहताब बाग़ है, जिसका मतलब है 'चाँदनी का बाग़'। वहाँ आठ कोनों वाला बड़ा ताल है, और जब पानी शांत होता है तो उसमें सफ़ेद ताजमहल का अक्स दिखता है। अक्स गहरा दिखता है, इसलिए कुछ लोगों ने 'काले ताज' की कहानी बना ली – लेकिन खुदाई करने वालों को वहाँ कोई काली इमारत नहीं मिली।"
+    },
+    "visualCues": "View north from the back edge of the Taj platform across the Yamuna: a flat green walled garden on the far bank with low red-sandstone ruins and a single surviving corner tower, directly opposite the tomb; river water and sandbanks in the foreground. (From the other side, Mehtab Bagh shows the Taj's north face across the river.)",
+    "faq": [
+      {
+        "q": {
+          "en": "Was there really a Black Taj?",
+          "hi": "क्या सच में काला ताज था?"
+        },
+        "a": {
+          "en": "No evidence. The story comes from the traveller Tavernier (1665); excavations found discoloured white stones, not a black tomb.",
+          "hi": "कोई सबूत नहीं। यह कहानी यात्री टैवर्नियर (1665) से आई; खुदाई में काले पड़े सफ़ेद पत्थर मिले, कोई काला मक़बरा नहीं।"
+        }
+      },
+      {
+        "q": {
+          "en": "Can I see the Taj on a Friday?",
+          "hi": "क्या शुक्रवार को ताज देख सकते हैं?"
+        },
+        "a": {
+          "en": "The Taj is closed on Fridays, but the riverside viewpoint near Mehtab Bagh is open every day, including Fridays.",
+          "hi": "शुक्रवार को ताज बंद रहता है, लेकिन मेहताब बाग़ के पास नदी किनारे का व्यू-पॉइंट शुक्रवार समेत रोज़ खुला रहता है।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Across_the_Yamuna_river_from_the_Taj_Mahal_%2865798825%29.jpg/1280px-Across_the_Yamuna_river_from_the_Taj_Mahal_%2865798825%29.jpg",
+        "credit": "Guilhem Vellut from Annecy, France",
+        "license": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Across_the_Yamuna_river_from_the_Taj_Mahal_(65798825).jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mehtab_Bagh_facing_Taj_Mahal.JPG/1280px-Mehtab_Bagh_facing_Taj_Mahal.JPG",
+        "credit": "g.kaustav",
+        "license": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mehtab_Bagh_facing_Taj_Mahal.JPG"
+      }
+    ]
+  },
+  {
+    "id": "mosque",
+    "site": "taj-mahal",
+    "category": "mosque",
+    "name": {
+      "en": "Taj Mahal Mosque (West)",
+      "hi": "ताजमहल मस्जिद (पश्चिम)"
+    },
+    "lat": 27.17501,
+    "lng": 78.0407,
+    "tourOrder": 18,
+    "tourMinutes": 8,
+    "priority": 2,
+    "summary": {
+      "en": "The red sandstone mosque on the west side of the tomb, still used for Friday prayers. It is mirrored on the east by the identical Jawab.",
+      "hi": "मक़बरे के पश्चिम में लाल बलुआ पत्थर की मस्जिद, जहाँ आज भी जुमे की नमाज़ होती है। पूर्व में इसकी हूबहू जोड़ी 'जवाब' है।"
+    },
+    "history": [
+      {
+        "en": "The mosque, the guest house and the main gateway were completed after the tomb, with the whole complex finished in 1653.",
+        "hi": "मस्जिद, मेहमानख़ाना और मुख्य दरवाज़ा मक़बरे के बाद पूरे हुए, और पूरा परिसर 1653 में बनकर तैयार हुआ।",
+        "source": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "en": "As a religious building the mosque 'sets the tone' for the riverfront group and gives it additional gravity; the Mihman Khana on the east was built as its replica to balance the composition.",
+        "hi": "धार्मिक इमारत होने के नाते मस्जिद नदी-किनारे की इमारतों का 'माहौल तय करती है' और उन्हें गरिमा देती है; पूर्व का मेहमानख़ाना संतुलन के लिए इसकी नकल के रूप में बनाया गया।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Built of red sandstone in contrast to the marble tomb, the mosque has an oblong prayer hall of three vaulted bays in a row with a dominant central portal; the portal frames and spandrels are veneered in white marble with flowery stone-intarsia arabesques and rope mouldings.",
+        "hi": "संगमरमर के मक़बरे के विपरीत यह लाल बलुआ पत्थर की है। इसका लंबा नमाज़-हॉल एक पंक्ति में तीन मेहराबदार हिस्सों से बना है, जिनके बीच का द्वार सबसे बड़ा है; द्वार के फ़्रेम और कोनों पर सफ़ेद संगमरमर की परत है, जिस पर पत्थर की फूलदार जड़ाई और रस्सी जैसी किनारी है।",
+        "source": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252/"
+      },
+      {
+        "en": "It is topped by three domes, similar to Shah Jahan's Masjid-i-Jahan Numa (Jama Masjid) in Delhi. The floor is laid out with the outlines of 569 prayer rugs in black marble.",
+        "hi": "इसके ऊपर तीन गुंबद हैं, जैसे दिल्ली में शाहजहाँ की मस्जिद-ए-जहाँनुमा (जामा मस्जिद) पर हैं। फ़र्श पर काले संगमरमर से 569 जानमाज़ (नमाज़ की दरी) की आकृतियाँ बनी हैं।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "In front of the mosque, on its platform, is a tank – a ritual requirement for ablutions before prayer.",
+        "hi": "मस्जिद के सामने चबूतरे पर एक हौज़ है – नमाज़ से पहले वज़ू करने के लिए यह ज़रूरी होता है।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      }
+    ],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "The Taj Mahal is closed to general visitors on Fridays; it is opened only for the traditional Friday prayer in the mosque between 12 noon and 2 PM.",
+        "hi": "शुक्रवार को ताजमहल आम पर्यटकों के लिए बंद रहता है; सिर्फ़ दोपहर 12 से 2 बजे के बीच मस्जिद में जुमे की पारंपरिक नमाज़ के लिए खोला जाता है।",
+        "source": "Archaeological Survey of India (archived monument page)",
+        "url": "https://web.archive.org/web/20150215034204/http://asi.nic.in/asi_monu_whs_agratajmahal.asp"
+      }
+    ],
+    "kidsStory": {
+      "en": "This red building with three white domes is a mosque, a place where Muslims pray. On its floor there are 569 prayer-mat shapes drawn in black marble, so everyone knows where to stand. On Fridays, people still come here to pray at midday.",
+      "hi": "तीन सफ़ेद गुंबदों वाली यह लाल इमारत एक मस्जिद है, जहाँ मुसलमान नमाज़ पढ़ते हैं। इसके फ़र्श पर काले संगमरमर से 569 जानमाज़ की आकृतियाँ बनी हैं, ताकि सबको पता रहे कहाँ खड़े होना है। शुक्रवार को आज भी लोग यहाँ दोपहर की नमाज़ पढ़ने आते हैं।"
+    },
+    "visualCues": "Long red sandstone building with three white marble bulbous domes topped by gold finials, a tall central arched portal outlined in white marble with smaller arches either side, and small corner towers with white kiosks; set on a raised platform with a shallow rectangular water tank in front; on the WEST (left when facing the Taj from the garden). Visually almost identical to the Jawab on the east.",
+    "accessibility": {
+      "en": "Closed to sightseeing on Fridays, when the complex is shut except for midday prayers.",
+      "hi": "शुक्रवार को घूमने के लिए बंद रहती है, जब परिसर सिर्फ़ दोपहर की नमाज़ के लिए खुलता है।"
+    },
+    "faq": [
+      {
+        "q": {
+          "en": "Why is the Taj closed on Fridays?",
+          "hi": "शुक्रवार को ताज क्यों बंद रहता है?"
+        },
+        "a": {
+          "en": "Fridays are the weekly closure for general visitors; the complex opens only for the Friday prayer in this mosque between 12 noon and 2 PM.",
+          "hi": "शुक्रवार आम पर्यटकों के लिए साप्ताहिक बंदी का दिन है; परिसर सिर्फ़ दोपहर 12 से 2 बजे इस मस्जिद में जुमे की नमाज़ के लिए खुलता है।"
+        }
+      },
+      {
+        "q": {
+          "en": "How do I tell the mosque from the Jawab?",
+          "hi": "मस्जिद और जवाब में फ़र्क़ कैसे पहचानें?"
+        },
+        "a": {
+          "en": "They look alike. The mosque is on the west (left from the garden) and has a prayer niche (mihrab) and prayer-rug outlines on its floor; the Jawab on the east has none.",
+          "hi": "दोनों एक जैसे दिखते हैं। मस्जिद पश्चिम (बाग़ से देखने पर बाईं ओर) में है और उसमें मेहराब (क़िबला की ताक़) और फ़र्श पर जानमाज़ की आकृतियाँ हैं; पूर्व वाले जवाब में ये नहीं हैं।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Taj_Mahal_Mosque%2C_Agra.jpg/1280px-Taj_Mahal_Mosque%2C_Agra.jpg",
+        "credit": "Muhammad Mahdi Karim",
+        "license": "GFDL 1.2",
+        "page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Mosque,_Agra.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/20191204_Mosque%2C_Taj_Mahal%2C_Agra_0637_6549.jpg/1280px-20191204_Mosque%2C_Taj_Mahal%2C_Agra_0637_6549.jpg",
+        "credit": "Jakub Hałun",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:20191204_Mosque,_Taj_Mahal,_Agra_0637_6549.jpg"
+      }
+    ]
+  },
+  {
+    "id": "jawab",
+    "site": "taj-mahal",
+    "category": "pavilion",
+    "name": {
+      "en": "Jawab / Mehman Khana (East)",
+      "hi": "जवाब / मेहमानख़ाना (पूर्व)"
+    },
+    "lat": 27.17502,
+    "lng": 78.0435,
+    "tourOrder": 19,
+    "tourMinutes": 5,
+    "priority": 2,
+    "summary": {
+      "en": "The red sandstone 'answer' building on the east, a mirror twin of the mosque built for symmetry and once used to host visitors.",
+      "hi": "पूर्व में लाल बलुआ पत्थर की 'जवाब' इमारत – मस्जिद की हूबहू जोड़ी, जो समरूपता के लिए बनी और कभी मेहमानों के ठहरने के काम आती थी।"
+    },
+    "history": [
+      {
+        "en": "The Jawab ('answer') balances the symmetry of the composition and was originally used for entertaining and accommodating important visitors.",
+        "hi": "'जवाब' पूरी रचना की समरूपता को संतुलित करता है और शुरू में ख़ास मेहमानों की ख़ातिरदारी और ठहरने के काम आता था।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "The official site says the Mihman Khana's original function was to accommodate visitors for Mumtaz Mahal's death anniversaries, which in the first years were held in tents and moved into this building once it was finished.",
+        "hi": "आधिकारिक साइट के अनुसार मेहमानख़ाने का असली काम मुमताज़ महल की बरसी पर आने वाले मेहमानों को ठहराना था; पहले कुछ सालों में बरसी तंबुओं में होती थी, और इमारत बनने के बाद यहीं होने लगी।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "It is almost identical to the mosque but lacks a mihrab (the niche facing Mecca), and its floor has a geometric design instead of prayer-rug outlines.",
+        "hi": "यह लगभग मस्जिद जैसा ही है, लेकिन इसमें मेहराब (मक्का की ओर की ताक़) नहीं है, और इसके फ़र्श पर जानमाज़ की जगह ज्यामितीय डिज़ाइन है।",
+        "source": "Wikipedia – Origins and architecture of the Taj Mahal",
+        "url": "https://en.wikipedia.org/wiki/Origins_and_architecture_of_the_Taj_Mahal"
+      },
+      {
+        "en": "Two 'working drawings' of the dome's finial outline are scratched into stone slabs on its platform – a feature often found in Shah Jahan's buildings. Its front tank mirrors the mosque's but has no function.",
+        "hi": "इसके चबूतरे की पत्थर की पट्टियों पर गुंबद के कलश की दो 'काम वाली ड्रॉइंग' (रेखाचित्र) खुरची हुई हैं – ऐसा शाहजहाँ की इमारतों में अक्सर मिलता है। इसके सामने का हौज़ मस्जिद के हौज़ की नकल है, पर उसका कोई काम नहीं।",
+        "source": "UP Tourism – Official Taj Mahal website (Dept. of Tourism, Govt. of Uttar Pradesh)",
+        "url": "https://tajmahal.gov.in/outlying-building.aspx"
+      }
+    ],
+    "folklore": [],
+    "visualCues": "Red sandstone hall with three white marble onion domes and a tall white-outlined central arch, identical in shape to the mosque but on the EAST side (right when facing the Taj from the garden); raised platform with a rectangular tank in front; geometric patterned floor inside, no prayer niche.",
+    "faq": [
+      {
+        "q": {
+          "en": "Is the Jawab a mosque too?",
+          "hi": "क्या जवाब भी मस्जिद है?"
+        },
+        "a": {
+          "en": "No. It mirrors the mosque for symmetry but has no mihrab; it was used to host visitors.",
+          "hi": "नहीं। यह समरूपता के लिए मस्जिद की नकल है, पर इसमें मेहराब नहीं है; यह मेहमानों के लिए था।"
+        }
+      }
+    ],
+    "photos": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/20191204_Jawab%2C_Taj_Mahal%2C_Agra_0657_6562.jpg/1280px-20191204_Jawab%2C_Taj_Mahal%2C_Agra_0657_6562.jpg",
+        "credit": "Jakub Hałun",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:20191204_Jawab,_Taj_Mahal,_Agra_0657_6562.jpg"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jawab_at_Taj_Mahal%2C_Agra.jpg/1280px-Jawab_at_Taj_Mahal%2C_Agra.jpg",
+        "credit": "Slyronit",
+        "license": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Jawab_at_Taj_Mahal,_Agra.jpg"
+      }
+    ]
+  }
+]

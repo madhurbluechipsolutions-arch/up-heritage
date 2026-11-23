@@ -1,0 +1,1867 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043817,
+     27.170685
+    ]
+   },
+   "properties": {
+    "id": "osm-n10584035105",
+    "type": "food",
+    "name": "Mr Jain Restaurant",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.04465,
+     27.170877
+    ]
+   },
+   "properties": {
+    "id": "osm-n6953253885",
+    "type": "food",
+    "name": "The Family Restaurant",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043816,
+     27.170449
+    ]
+   },
+   "properties": {
+    "id": "osm-n2377288439",
+    "type": "food",
+    "name": "D' Coffee Day",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.040583,
+     27.170394
+    ]
+   },
+   "properties": {
+    "id": "osm-n12351360506",
+    "type": "food",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.039824,
+     27.170641
+    ]
+   },
+   "properties": {
+    "id": "osm-n2377288440",
+    "type": "food",
+    "name": "Taj Restaurant",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043824,
+     27.170289
+    ]
+   },
+   "properties": {
+    "id": "osm-n10584037606",
+    "type": "food",
+    "name": "Praacheen Petha",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.046104,
+     27.171106
+    ]
+   },
+   "properties": {
+    "id": "osm-n14181618209",
+    "type": "food",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043683,
+     27.169841
+    ]
+   },
+   "properties": {
+    "id": "osm-n5367983922",
+    "type": "food",
+    "name": "Oshun Global Café",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.041872,
+     27.169208
+    ]
+   },
+   "properties": {
+    "id": "osm-n2790273871",
+    "type": "food",
+    "name": "Joney's place",
+    "timings": "Mo-Su 05:00-22:30",
+    "phone": "9837339686",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042079,
+     27.169202
+    ]
+   },
+   "properties": {
+    "id": "osm-n4430155395",
+    "type": "food",
+    "name": "Treat",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.04371,
+     27.169362
+    ]
+   },
+   "properties": {
+    "id": "osm-n7138563786",
+    "type": "food",
+    "name": "Rishi’s restaurant",
+    "timings": "",
+    "phone": "9627743662",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042105,
+     27.169159
+    ]
+   },
+   "properties": {
+    "id": "osm-n12351376507",
+    "type": "food",
+    "name": "Hafeez Momos Fast Food Corner",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042015,
+     27.169098
+    ]
+   },
+   "properties": {
+    "id": "osm-n12351376506",
+    "type": "food",
+    "name": "Treat",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042663,
+     27.16911
+    ]
+   },
+   "properties": {
+    "id": "osm-n6601774786",
+    "type": "food",
+    "name": "Join Us Restaurant",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.046387,
+     27.17044
+    ]
+   },
+   "properties": {
+    "id": "osm-n13429974336",
+    "type": "food",
+    "name": "Barista",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.041956,
+     27.169079
+    ]
+   },
+   "properties": {
+    "id": "osm-n7308619785",
+    "type": "food",
+    "name": "Nice Taj View Point - Roof Top Restaurant",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042575,
+     27.169074
+    ]
+   },
+   "properties": {
+    "id": "osm-n5511182022",
+    "type": "food",
+    "name": "Join us",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042772,
+     27.169086
+    ]
+   },
+   "properties": {
+    "id": "osm-n4620049290",
+    "type": "food",
+    "name": "Kamal rooftop restaurant",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042452,
+     27.169056
+    ]
+   },
+   "properties": {
+    "id": "osm-n4532164890",
+    "type": "food",
+    "name": "Shankara Vegis",
+    "timings": "Mo-Su 10:00-22:00",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042617,
+     27.169053
+    ]
+   },
+   "properties": {
+    "id": "osm-n5936009485",
+    "type": "food",
+    "name": "Taj Cafe (good food for good price)",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043188,
+     27.169085
+    ]
+   },
+   "properties": {
+    "id": "osm-n11233042137",
+    "type": "food",
+    "name": "Chia Taj view cafe",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043362,
+     27.168972
+    ]
+   },
+   "properties": {
+    "id": "osm-n1188171894",
+    "type": "food",
+    "name": "Yash Cafe",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042934,
+     27.168894
+    ]
+   },
+   "properties": {
+    "id": "osm-n1475788402",
+    "type": "food",
+    "name": "Zee",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043474,
+     27.168814
+    ]
+   },
+   "properties": {
+    "id": "osm-n1188171881",
+    "type": "food",
+    "name": "Indian Food",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.040677,
+     27.168813
+    ]
+   },
+   "properties": {
+    "id": "osm-n12348960001",
+    "type": "food",
+    "name": "Varenyam Kitchen",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.040633,
+     27.174395
+    ]
+   },
+   "properties": {
+    "id": "osm-n4763211067",
+    "type": "water",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.040578,
+     27.174402
+    ]
+   },
+   "properties": {
+    "id": "osm-n4706095790",
+    "type": "water",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.041297,
+     27.170888
+    ]
+   },
+   "properties": {
+    "id": "osm-n1753911746",
+    "type": "water",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.041295,
+     27.170825
+    ]
+   },
+   "properties": {
+    "id": "osm-n14053134557",
+    "type": "water",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.052836,
+     27.166231
+    ]
+   },
+   "properties": {
+    "id": "osm-n11880647021",
+    "type": "water",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.022737,
+     27.176723
+    ]
+   },
+   "properties": {
+    "id": "osm-n11508105619",
+    "type": "water",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.021824,
+     27.178293
+    ]
+   },
+   "properties": {
+    "id": "osm-n1753920464",
+    "type": "water",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.040767,
+     27.171823
+    ]
+   },
+   "properties": {
+    "id": "osm-n3928138683",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043617,
+     27.171807
+    ]
+   },
+   "properties": {
+    "id": "osm-n4706095889",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.037829,
+     27.173937
+    ]
+   },
+   "properties": {
+    "id": "osm-n4118744189",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.038975,
+     27.170687
+    ]
+   },
+   "properties": {
+    "id": "osm-n12050816604",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.048914,
+     27.169604
+    ]
+   },
+   "properties": {
+    "id": "osm-n4706095789",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.035819,
+     27.167085
+    ]
+   },
+   "properties": {
+    "id": "osm-n11716647496",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.052752,
+     27.166281
+    ]
+   },
+   "properties": {
+    "id": "osm-n11880653024",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.026495,
+     27.175542
+    ]
+   },
+   "properties": {
+    "id": "osm-n12351360507",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.025411,
+     27.174692
+    ]
+   },
+   "properties": {
+    "id": "osm-n4763212769",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.022185,
+     27.178247
+    ]
+   },
+   "properties": {
+    "id": "osm-n1753920435",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.032544,
+     27.192547
+    ]
+   },
+   "properties": {
+    "id": "osm-n5387890556",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.045642,
+     27.171296
+    ]
+   },
+   "properties": {
+    "id": "osm-w1558940310",
+    "type": "parking",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.034425,
+     27.173773
+    ]
+   },
+   "properties": {
+    "id": "osm-w95533953",
+    "type": "parking",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.053359,
+     27.165756
+    ]
+   },
+   "properties": {
+    "id": "osm-w44142212",
+    "type": "parking",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.024949,
+     27.174785
+    ]
+   },
+   "properties": {
+    "id": "osm-n2377288555",
+    "type": "parking",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.044398,
+     27.159603
+    ]
+   },
+   "properties": {
+    "id": "osm-n3184103464",
+    "type": "parking",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.02724,
+     27.161655
+    ]
+   },
+   "properties": {
+    "id": "osm-n12357926702",
+    "type": "parking",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.03906,
+     27.171048
+    ]
+   },
+   "properties": {
+    "id": "osm-n12635289201",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043237,
+     27.16895
+    ]
+   },
+   "properties": {
+    "id": "osm-n6634854585",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.040606,
+     27.168898
+    ]
+   },
+   "properties": {
+    "id": "osm-n2654011887",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.036615,
+     27.167376
+    ]
+   },
+   "properties": {
+    "id": "osm-n4763212869",
+    "type": "atm",
+    "name": "State Banknof India",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.038109,
+     27.164342
+    ]
+   },
+   "properties": {
+    "id": "osm-n10583659805",
+    "type": "atm",
+    "name": "ICICI Bank",
+    "timings": "24/7",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.036045,
+     27.162968
+    ]
+   },
+   "properties": {
+    "id": "osm-n13313440901",
+    "type": "atm",
+    "name": "",
+    "timings": "24/7",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.053442,
+     27.166365
+    ]
+   },
+   "properties": {
+    "id": "osm-n7022983651",
+    "type": "atm",
+    "name": "SBI",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.053541,
+     27.166238
+    ]
+   },
+   "properties": {
+    "id": "osm-n7022939455",
+    "type": "atm",
+    "name": "Bank of India",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.054537,
+     27.165213
+    ]
+   },
+   "properties": {
+    "id": "osm-n3113406733",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042151,
+     27.16022
+    ]
+   },
+   "properties": {
+    "id": "osm-n3846255994",
+    "type": "atm",
+    "name": "Canra Bank ATM",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.050919,
+     27.168752
+    ]
+   },
+   "properties": {
+    "id": "osm-n3113320367",
+    "type": "hospital",
+    "name": "National Jalma Institute for Leprosy",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.038859,
+     27.163876
+    ]
+   },
+   "properties": {
+    "id": "osm-n7025113056",
+    "type": "hospital",
+    "name": "R K Hospital and Maternity Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.039799,
+     27.162286
+    ]
+   },
+   "properties": {
+    "id": "osm-n3874263157",
+    "type": "hospital",
+    "name": "Dixit Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.035403,
+     27.160166
+    ]
+   },
+   "properties": {
+    "id": "osm-n7511120075",
+    "type": "hospital",
+    "name": "Dr. I. A. Khan Modern Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.048073,
+     27.159339
+    ]
+   },
+   "properties": {
+    "id": "osm-n7511120042",
+    "type": "hospital",
+    "name": "ESI Hospital, Chipitola",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.034156,
+     27.159782
+    ]
+   },
+   "properties": {
+    "id": "osm-n7018033062",
+    "type": "hospital",
+    "name": "Ram Tej Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.052942,
+     27.160753
+    ]
+   },
+   "properties": {
+    "id": "osm-n7038115439",
+    "type": "hospital",
+    "name": "Mishra Hospital, Agra",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.053462,
+     27.160686
+    ]
+   },
+   "properties": {
+    "id": "osm-n7035115023",
+    "type": "hospital",
+    "name": "Chandra Hospital, Agra",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.052646,
+     27.160133
+    ]
+   },
+   "properties": {
+    "id": "osm-n7025928174",
+    "type": "hospital",
+    "name": "Sangeeta Ram Lavania Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.03443,
+     27.158206
+    ]
+   },
+   "properties": {
+    "id": "osm-n3776103730",
+    "type": "hospital",
+    "name": "Amit Jaggi Memorial Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.036387,
+     27.155166
+    ]
+   },
+   "properties": {
+    "id": "osm-n7031589787",
+    "type": "hospital",
+    "name": "Happy Home Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.038225,
+     27.153856
+    ]
+   },
+   "properties": {
+    "id": "osm-n7025915636",
+    "type": "hospital",
+    "name": "Om Laxmi Hospital and Maternity Centre",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.034052,
+     27.154749
+    ]
+   },
+   "properties": {
+    "id": "osm-n7021126757",
+    "type": "hospital",
+    "name": "Upadhyay Hospital, Agra",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.056171,
+     27.157519
+    ]
+   },
+   "properties": {
+    "id": "osm-n5167016326",
+    "type": "hospital",
+    "name": "Shanti Mangalick Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.054115,
+     27.155963
+    ]
+   },
+   "properties": {
+    "id": "osm-n7511120025",
+    "type": "hospital",
+    "name": "Pathak Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.037808,
+     27.153492
+    ]
+   },
+   "properties": {
+    "id": "osm-n7029095106",
+    "type": "hospital",
+    "name": "J.D.Hospital, Agra",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.034019,
+     27.154271
+    ]
+   },
+   "properties": {
+    "id": "osm-n7031697484",
+    "type": "hospital",
+    "name": "Ishwari Devi Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.018705,
+     27.167464
+    ]
+   },
+   "properties": {
+    "id": "osm-n12357927601",
+    "type": "hospital",
+    "name": "Mahajan",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.034495,
+     27.153813
+    ]
+   },
+   "properties": {
+    "id": "osm-n7018342499",
+    "type": "hospital",
+    "name": "Dr Arti Manoj Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.041949,
+     27.17437
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316120459",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042374,
+     27.174371
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316120838",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042429,
+     27.174373
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316120839",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.04195,
+     27.174326
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316120458",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.041292,
+     27.175447
+    ]
+   },
+   "properties": {
+    "id": "osm-n11757096111",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042492,
+     27.174371
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316120840",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042378,
+     27.174317
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316286281",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.04253,
+     27.174373
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316120841",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.041952,
+     27.174277
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316120457",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042588,
+     27.174374
+    ]
+   },
+   "properties": {
+    "id": "osm-n5316120842",
+    "type": "rest",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043684,
+     27.165376
+    ]
+   },
+   "properties": {
+    "id": "osm-n12351376610",
+    "type": "pharmacy",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.038807,
+     27.163819
+    ]
+   },
+   "properties": {
+    "id": "osm-n6805063586",
+    "type": "pharmacy",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.053717,
+     27.164146
+    ]
+   },
+   "properties": {
+    "id": "osm-n6802375785",
+    "type": "pharmacy",
+    "name": "Good Will Pharmacy",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042103,
+     27.169354
+    ]
+   },
+   "properties": {
+    "id": "osm-n14053134527",
+    "type": "police",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.041343,
+     27.168983
+    ]
+   },
+   "properties": {
+    "id": "osm-n12351360511",
+    "type": "police",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.043303,
+     27.171781
+    ]
+   },
+   "properties": {
+    "id": "osm-n14053134549",
+    "type": "clinic",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.046139,
+     27.171507
+    ]
+   },
+   "properties": {
+    "id": "syn-5",
+    "type": "helpdesk",
+    "name": "Tourist facilitation desk - East Gate",
+    "timings": "",
+    "phone": "",
+    "source": "synthetic",
+    "synthetic": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.042807,
+     27.175459
+    ]
+   },
+   "properties": {
+    "id": "syn-6",
+    "type": "ramp",
+    "name": "Ramp to mausoleum platform",
+    "timings": "",
+    "phone": "",
+    "source": "synthetic",
+    "synthetic": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.04624,
+     27.171597
+    ]
+   },
+   "properties": {
+    "id": "syn-8",
+    "type": "wheelchair",
+    "name": "Wheelchair available at East Gate (ask counter)",
+    "timings": "",
+    "phone": "",
+    "source": "synthetic",
+    "synthetic": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.046543,
+     27.171552
+    ]
+   },
+   "properties": {
+    "id": "syn-9",
+    "type": "clinic",
+    "name": "First-aid post - East Gate",
+    "timings": "",
+    "phone": "",
+    "source": "synthetic",
+    "synthetic": true
+   }
+  }
+ ]
+}

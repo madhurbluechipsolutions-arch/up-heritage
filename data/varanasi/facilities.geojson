@@ -1,0 +1,1335 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.00651,
+     25.306897
+    ]
+   },
+   "properties": {
+    "id": "osm-n12596253088",
+    "type": "hospital",
+    "name": "navjeevan",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.007033,
+     25.309375
+    ]
+   },
+   "properties": {
+    "id": "osm-n7027605951",
+    "type": "hospital",
+    "name": "Shree Ram Laxminarayan Marwari Hindu Hospital - Varanasi",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.00858,
+     25.311851
+    ]
+   },
+   "properties": {
+    "id": "osm-n7031768743",
+    "type": "hospital",
+    "name": "Hindu Sewa Sadan Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.002965,
+     25.304253
+    ]
+   },
+   "properties": {
+    "id": "osm-n7498563206",
+    "type": "hospital",
+    "name": "Janta Sewa Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.004147,
+     25.313049
+    ]
+   },
+   "properties": {
+    "id": "osm-n7498563312",
+    "type": "hospital",
+    "name": "Heritage Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.002375,
+     25.30071
+    ]
+   },
+   "properties": {
+    "id": "osm-n7038281054",
+    "type": "hospital",
+    "name": "Hospital Harsha",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.005058,
+     25.31621
+    ]
+   },
+   "properties": {
+    "id": "osm-n293268558",
+    "type": "hospital",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.99782,
+     25.30683
+    ]
+   },
+   "properties": {
+    "id": "osm-n7018563756",
+    "type": "hospital",
+    "name": "Ramakrishna Mission Home Of Service",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.0021,
+     25.298631
+    ]
+   },
+   "properties": {
+    "id": "osm-n293217529",
+    "type": "hospital",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.001329,
+     25.296581
+    ]
+   },
+   "properties": {
+    "id": "osm-n3670045564",
+    "type": "hospital",
+    "name": "Samvedna Hospital, Varanasi",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.008676,
+     25.320509
+    ]
+   },
+   "properties": {
+    "id": "osm-w343105324",
+    "type": "hospital",
+    "name": "SSP Distric Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.012732,
+     25.320566
+    ]
+   },
+   "properties": {
+    "id": "osm-n7038841025",
+    "type": "hospital",
+    "name": "Medwin Hospitals And Research Centre",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.999959,
+     25.296673
+    ]
+   },
+   "properties": {
+    "id": "osm-n7498563240",
+    "type": "hospital",
+    "name": "Prithvi Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.012926,
+     25.321326
+    ]
+   },
+   "properties": {
+    "id": "osm-n7037589800",
+    "type": "hospital",
+    "name": "Mrityunjay Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.000574,
+     25.295167
+    ]
+   },
+   "properties": {
+    "id": "osm-n7498563288",
+    "type": "hospital",
+    "name": "Peace Point Hospital Pvt. Ltd.",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.005507,
+     25.292903
+    ]
+   },
+   "properties": {
+    "id": "osm-n293208846",
+    "type": "hospital",
+    "name": "Mata Anandmayee Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.998173,
+     25.297003
+    ]
+   },
+   "properties": {
+    "id": "osm-n7498563260",
+    "type": "hospital",
+    "name": "Peace Point Hospitals",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.993782,
+     25.305196
+    ]
+   },
+   "properties": {
+    "id": "osm-n7498563217",
+    "type": "hospital",
+    "name": "Public Welfare Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.999104,
+     25.29602
+    ]
+   },
+   "properties": {
+    "id": "osm-n7020925941",
+    "type": "hospital",
+    "name": "Navjeevan Hospital, Varanasi",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.993165,
+     25.307153
+    ]
+   },
+   "properties": {
+    "id": "osm-n7498563182",
+    "type": "hospital",
+    "name": "Guru Nanak Hospital",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009855,
+     25.306962
+    ]
+   },
+   "properties": {
+    "id": "osm-n2708871444",
+    "type": "food",
+    "name": "SHRI Guest House",
+    "timings": "07:30+",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009679,
+     25.307122
+    ]
+   },
+   "properties": {
+    "id": "osm-n6447831192",
+    "type": "food",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.010051,
+     25.307967
+    ]
+   },
+   "properties": {
+    "id": "osm-n4693010789",
+    "type": "food",
+    "name": "Shree Café",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.010163,
+     25.308157
+    ]
+   },
+   "properties": {
+    "id": "osm-n4084860367",
+    "type": "food",
+    "name": "Niyati Cafe",
+    "timings": "8:00 - 21:30",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009268,
+     25.30685
+    ]
+   },
+   "properties": {
+    "id": "osm-n6447830888",
+    "type": "food",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.00932,
+     25.30673
+    ]
+   },
+   "properties": {
+    "id": "osm-n7016242285",
+    "type": "food",
+    "name": "Maa Laxmi Dosa Corner",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.010145,
+     25.308215
+    ]
+   },
+   "properties": {
+    "id": "osm-n4809897823",
+    "type": "food",
+    "name": "Vishnu Tea Emporium",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009345,
+     25.306556
+    ]
+   },
+   "properties": {
+    "id": "osm-n6447767089",
+    "type": "food",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.010332,
+     25.30845
+    ]
+   },
+   "properties": {
+    "id": "osm-n4533741089",
+    "type": "food",
+    "name": "Dosa Cafe",
+    "timings": "Th-Tu 09:00-21:00",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.011179,
+     25.308196
+    ]
+   },
+   "properties": {
+    "id": "osm-n6246200385",
+    "type": "food",
+    "name": "dolphin restaurant",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.008959,
+     25.307648
+    ]
+   },
+   "properties": {
+    "id": "osm-n6447767087",
+    "type": "food",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009615,
+     25.308358
+    ]
+   },
+   "properties": {
+    "id": "osm-n4742507452",
+    "type": "food",
+    "name": "Nepali",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009716,
+     25.30854
+    ]
+   },
+   "properties": {
+    "id": "osm-n1702239808",
+    "type": "food",
+    "name": "Madhur Milan Cafe",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009021,
+     25.306218
+    ]
+   },
+   "properties": {
+    "id": "osm-n7106107886",
+    "type": "food",
+    "name": "The Dirty Chai Cafe",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009266,
+     25.308497
+    ]
+   },
+   "properties": {
+    "id": "osm-n1702236340",
+    "type": "food",
+    "name": "Star Hotel",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009721,
+     25.30892
+    ]
+   },
+   "properties": {
+    "id": "osm-n4942764921",
+    "type": "food",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.011504,
+     25.308747
+    ]
+   },
+   "properties": {
+    "id": "osm-n7291043747",
+    "type": "food",
+    "name": "Kerala Ganges",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.008623,
+     25.305659
+    ]
+   },
+   "properties": {
+    "id": "osm-n10710051705",
+    "type": "food",
+    "name": "Jyoti Cafe",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009026,
+     25.305261
+    ]
+   },
+   "properties": {
+    "id": "osm-n6024816498",
+    "type": "food",
+    "name": "Aadha Aadha Cafe",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.012126,
+     25.308924
+    ]
+   },
+   "properties": {
+    "id": "osm-n3393821488",
+    "type": "food",
+    "name": "Apex",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.008442,
+     25.308928
+    ]
+   },
+   "properties": {
+    "id": "osm-n12596253084",
+    "type": "food",
+    "name": "samaya",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.011859,
+     25.309191
+    ]
+   },
+   "properties": {
+    "id": "osm-n6051298785",
+    "type": "food",
+    "name": "Varanasi cafe & restaurant",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.010975,
+     25.309648
+    ]
+   },
+   "properties": {
+    "id": "osm-n4345509189",
+    "type": "food",
+    "name": "Ganga Fuji",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.008676,
+     25.305092
+    ]
+   },
+   "properties": {
+    "id": "osm-n6700077085",
+    "type": "food",
+    "name": "철수네",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.012219,
+     25.309108
+    ]
+   },
+   "properties": {
+    "id": "osm-n3509590032",
+    "type": "food",
+    "name": "Ganpati",
+    "timings": "07:00-22:00",
+    "phone": "+91-542-2390057",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009564,
+     25.306941
+    ]
+   },
+   "properties": {
+    "id": "osm-n2014914524",
+    "type": "atm",
+    "name": "",
+    "timings": "24/7",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009561,
+     25.306881
+    ]
+   },
+   "properties": {
+    "id": "osm-n2014914523",
+    "type": "atm",
+    "name": "",
+    "timings": "24/7",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009455,
+     25.306879
+    ]
+   },
+   "properties": {
+    "id": "osm-n5273730210",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009358,
+     25.30863
+    ]
+   },
+   "properties": {
+    "id": "osm-n2014914530",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.00689,
+     25.308526
+    ]
+   },
+   "properties": {
+    "id": "osm-n6486247685",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.006714,
+     25.309149
+    ]
+   },
+   "properties": {
+    "id": "osm-n3432615082",
+    "type": "atm",
+    "name": "State Bank ATM",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.008633,
+     25.310995
+    ]
+   },
+   "properties": {
+    "id": "osm-n988809600",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.007033,
+     25.31053
+    ]
+   },
+   "properties": {
+    "id": "osm-n4574451291",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.01076,
+     25.312438
+    ]
+   },
+   "properties": {
+    "id": "osm-n10713458505",
+    "type": "atm",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.004719,
+     25.303464
+    ]
+   },
+   "properties": {
+    "id": "osm-n4597498689",
+    "type": "atm",
+    "name": "",
+    "timings": "24/7",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.01041,
+     25.307154
+    ]
+   },
+   "properties": {
+    "id": "osm-n7291037642",
+    "type": "police",
+    "name": "Water Police Varanasi",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     82.999662,
+     25.308465
+    ]
+   },
+   "properties": {
+    "id": "osm-n8853716373",
+    "type": "police",
+    "name": "Luxa Police Thana",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.001548,
+     25.299981
+    ]
+   },
+   "properties": {
+    "id": "osm-n1531284222",
+    "type": "police",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009107,
+     25.304913
+    ]
+   },
+   "properties": {
+    "id": "osm-n3432606028",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.016276,
+     25.313451
+    ]
+   },
+   "properties": {
+    "id": "osm-n11772956769",
+    "type": "toilet",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.005228,
+     25.309629
+    ]
+   },
+   "properties": {
+    "id": "osm-n12596313084",
+    "type": "clinic",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.002433,
+     25.311008
+    ]
+   },
+   "properties": {
+    "id": "osm-n7028295462",
+    "type": "clinic",
+    "name": "Mangalam Clinic and Trauma Centre",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.005805,
+     25.296554
+    ]
+   },
+   "properties": {
+    "id": "osm-n6370611390",
+    "type": "clinic",
+    "name": "Agir pour Benares",
+    "timings": "Mo-Sa 09:00-13:00",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.00673,
+     25.319194
+    ]
+   },
+   "properties": {
+    "id": "osm-n7028013170",
+    "type": "clinic",
+    "name": "Tandon Multispeciality Hospital and Ishita Modern Eye Care Centre",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.001052,
+     25.32303
+    ]
+   },
+   "properties": {
+    "id": "osm-n7024784141",
+    "type": "clinic",
+    "name": "Dr. S.Nath Memorial Eye Clinic Phaco and Laser Centre",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.007611,
+     25.301189
+    ]
+   },
+   "properties": {
+    "id": "osm-n11774764384",
+    "type": "water",
+    "name": "",
+    "timings": "",
+    "phone": "",
+    "source": "OpenStreetMap",
+    "synthetic": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009903,
+     25.307739
+    ]
+   },
+   "properties": {
+    "id": "syn-0",
+    "type": "toilet",
+    "name": "Public toilets near Dashashwamedh Ghat",
+    "timings": "",
+    "phone": "",
+    "source": "synthetic",
+    "synthetic": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009704,
+     25.307559
+    ]
+   },
+   "properties": {
+    "id": "syn-1",
+    "type": "water",
+    "name": "Drinking water - ghat entrance",
+    "timings": "",
+    "phone": "",
+    "source": "synthetic",
+    "synthetic": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.009406,
+     25.307919
+    ]
+   },
+   "properties": {
+    "id": "syn-2",
+    "type": "helpdesk",
+    "name": "Tourist help desk - Dashashwamedh",
+    "timings": "",
+    "phone": "",
+    "source": "synthetic",
+    "synthetic": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     83.010499,
+     25.30729
+    ]
+   },
+   "properties": {
+    "id": "syn-3",
+    "type": "rest",
+    "name": "Shaded seating - ghat steps",
+    "timings": "",
+    "phone": "",
+    "source": "synthetic",
+    "synthetic": true
+   }
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+[
+  { "id": "agra", "name": { "en": "Agra", "hi": "आगरा" }, "depth": "full" },
+  { "id": "varanasi", "name": { "en": "Varanasi", "hi": "वाराणसी" }, "depth": "lite" }
+]

@@ -1,0 +1,192 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #faf7f0;   /* marble ivory */
+  --color-card: #f1eadb;    /* warm stone */
+  --color-ink: #1f1b16;
+  --color-muted: #6b6358;
+  --color-line: #ddd3c2;
+  --color-brand: #7a2e1c;   /* red sandstone */
+  --color-brand-dark: #5c2214;
+  --color-history: #1e4e79;
+  --color-folk: #9a5f00;
+  --color-devo: #6b3e8e;
+  --color-ok: #2f6b3a;
+  --color-sos: #c21f1f;
+  --font-sans: "Noto Sans", "Noto Sans Devanagari", system-ui, sans-serif;
+  --font-serif: "Noto Serif", "Noto Sans Devanagari", Georgia, serif;
+  --radius-none: 0;
+}
+
+/* base styles stay in the base layer so utility/component colours (e.g. white text on SOS) win */
+@layer base {
+  html {
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+  }
+  html.large-text {
+    font-size: 20px;
+  }
+  body {
+    margin: 0;
+    background: var(--color-card);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    line-height: 1.5;
+  }
+  a {
+    color: inherit;
+  }
+  button,
+  a,
+  input {
+    -webkit-tap-highlight-color: transparent;
+  }
+  button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-history);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .label {
+    @apply text-sm font-semibold uppercase tracking-wide text-muted;
+  }
+  .btn-primary,
+  .btn-secondary,
+  .btn-sos,
+  .btn-primary-sm,
+  .btn-sos-sm,
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 font-semibold no-underline transition-colors;
+  }
+  .btn-primary {
+    @apply bg-brand px-4 py-3 text-paper hover:bg-brand-dark;
+  }
+  .btn-secondary {
+    @apply border border-line bg-paper px-4 py-3 text-ink hover:bg-card;
+  }
+  .btn-sos {
+    @apply bg-sos px-4 py-3 text-paper hover:brightness-95;
+  }
+  .btn-primary-sm {
+    @apply bg-brand px-3 py-1.5 text-sm text-paper hover:bg-brand-dark;
+  }
+  .btn-sos-sm {
+    @apply bg-sos px-3 py-1.5 text-sm text-paper;
+  }
+  .btn-ghost {
+    @apply border border-line px-3 py-1.5 text-sm text-ink hover:bg-card;
+  }
+  .btn-icon {
+    @apply inline-grid size-9 place-items-center hover:bg-black/5;
+  }
+  .btn-icon-lg {
+    @apply inline-grid size-12 shrink-0 place-items-center border border-line;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 border border-line bg-paper px-3 py-1.5 text-sm hover:border-brand;
+  }
+  .chip--on {
+    @apply border-brand bg-brand text-paper;
+  }
+  .input {
+    @apply h-12 border border-line bg-paper px-3 text-base outline-none focus:border-brand;
+  }
+  .notice {
+    @apply border-l-4 border-folk bg-card px-3 py-2 text-sm;
+  }
+
+  /* answer blocks: one colour per kind, so history and folklore can never be confused */
+  .blk {
+    @apply border-l-4 bg-paper px-4 py-3;
+  }
+  .blk-head {
+    @apply mb-1 flex items-center gap-1.5 text-xs font-bold uppercase tracking-wider;
+  }
+  .blk-tag {
+    @apply ml-auto border border-current px-1.5 py-px text-[0.65rem];
+  }
+  .blk-text {
+    @apply leading-relaxed;
+  }
+  .blk-warn {
+    @apply mt-2 flex items-start gap-1.5 text-sm italic;
+  }
+  .blk-src {
+    @apply mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted;
+  }
+  .blk-src a {
+    @apply inline-flex items-center gap-0.5 underline underline-offset-2;
+  }
+  .blk-history {
+    @apply border-history;
+  }
+  .blk-history .blk-head {
+    @apply text-history;
+  }
+  .blk-arch {
+    @apply border-ok;
+  }
+  .blk-arch .blk-head {
+    @apply text-ok;
+  }
+  .blk-folk {
+    @apply border-folk bg-[#fbf3e2];
+  }
+  .blk-folk .blk-head,
+  .blk-folk .blk-warn {
+    @apply text-folk;
+  }
+  .blk-devo {
+    @apply border-devo;
+  }
+  .blk-devo .blk-head {
+    @apply text-devo;
+  }
+  .blk-info {
+    @apply border-brand;
+  }
+  .blk-info .blk-head {
+    @apply text-brand;
+  }
+  .blk-unknown {
+    @apply border-muted bg-card;
+  }
+  .blk-unknown .blk-head {
+    @apply text-muted;
+  }
+
+  .spinner {
+    @apply inline-block size-5 animate-spin border-2 border-brand border-t-transparent;
+  }
+}
+
+/* map markers (created outside React) */
+.map-pin {
+  min-width: 26px;
+  height: 26px;
+  padding: 0 4px;
+  color: #fff;
+  font: 700 13px/26px var(--font-sans);
+  text-align: center;
+  border: 2px solid #fff;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.35);
+  cursor: pointer;
+}
+.map-pin--active {
+  outline: 3px solid var(--color-ink);
+  z-index: 2;
+}
+.map-me {
+  width: 18px;
+  height: 18px;
+  background: var(--color-history);
+  border: 3px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 0 6px rgb(30 78 121 / 0.25);
+}

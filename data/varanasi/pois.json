@@ -1,0 +1,417 @@
+[
+  {
+    "id": "dashashwamedh-ghat",
+    "site": "ganga-ghats",
+    "category": "ghat",
+    "name": {
+      "en": "Dashashwamedh Ghat and Ganga Aarti",
+      "hi": "दशाश्वमेध घाट और गंगा आरती"
+    },
+    "lat": 25.3072,
+    "lng": 83.0103,
+    "tourOrder": 3,
+    "tourMinutes": 75,
+    "priority": 1,
+    "summary": {
+      "en": "The main ghat of Varanasi, close to the Kashi Vishwanath Temple, famous for the Ganga Aarti held every evening at dusk.",
+      "hi": "वाराणसी का मुख्य घाट, काशी विश्वनाथ मंदिर के पास, जो हर शाम होने वाली गंगा आरती के लिए प्रसिद्ध है।"
+    },
+    "history": [
+      {
+        "en": "Varanasi has 88 ghats. Most were rebuilt after 1700 AD, when the city was part of the Maratha Empire, with patronage from the Marathas, Scindias, Holkars, Bhonsles and Peshwas.",
+        "hi": "वाराणसी में 88 घाट हैं। इनमें से ज़्यादातर 1700 ई. के बाद दोबारा बने, जब यह शहर मराठा साम्राज्य का हिस्सा था। इन्हें मराठा, सिंधिया, होल्कर, भोंसले और पेशवा शासकों ने बनवाया।",
+        "source": "District Varanasi, Government of Uttar Pradesh",
+        "url": "https://varanasi.nic.in/tourist-place/ganga-ghat/"
+      },
+      {
+        "en": "The present ghat was built by Peshwa Balaji Baji Rao around 1735. Ahilyabai Holkar carried out further construction nearby towards the end of the 18th century.",
+        "hi": "आज का घाट पेशवा बालाजी बाजीराव ने लगभग 1735 में बनवाया। 18वीं सदी के आख़िर में अहिल्याबाई होल्कर ने इसके पास और निर्माण करवाया।",
+        "source": "Wikipedia - Dashashwamedh Ghat",
+        "url": "https://en.wikipedia.org/wiki/Dashashwamedh_Ghat"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Like other Varanasi ghats, it is a broad flight of stone steps leading down to the river, used for bathing and puja.",
+        "hi": "दूसरे घाटों की तरह यह भी नदी तक उतरती पत्थर की चौड़ी सीढ़ियों का घाट है, जहाँ स्नान और पूजा होती है।",
+        "source": "District Varanasi, Government of Uttar Pradesh",
+        "url": "https://varanasi.nic.in/tourist-place/ganga-ghat/"
+      }
+    ],
+    "folklore": [
+      {
+        "en": "According to a Hindu legend from the Puranas, Lord Brahma performed ten ashwamedha (horse) sacrifices here on behalf of King Divodasa, which gave the ghat its name: 'dash' (ten) + 'ashwamedh'.",
+        "hi": "पुराणों की एक हिंदू कथा के अनुसार, भगवान ब्रह्मा ने राजा दिवोदास की ओर से यहाँ दस अश्वमेध यज्ञ किए थे। इसी से घाट का नाम पड़ा: 'दश' (दस) + 'अश्वमेध'।",
+        "label": "legend",
+        "note": {
+          "en": "This is a Puranic legend, not recorded history. A historian has also linked the name to ten ashwamedha sacrifices by the Bhara Shiva Nagas in the 2nd century.",
+          "hi": "यह पुराणों की कथा है, दर्ज इतिहास नहीं। एक इतिहासकार ने इस नाम को दूसरी सदी में भारशिव नागों के दस अश्वमेध यज्ञों से भी जोड़ा है।"
+        },
+        "source": "Wikipedia - Dashashwamedh Ghat",
+        "url": "https://en.wikipedia.org/wiki/Dashashwamedh_Ghat"
+      }
+    ],
+    "devotional": [
+      {
+        "en": "The Ganga Aarti is a daily ritual offering of prayer to the river Ganga. Several priests move large lamps (deepam) up and down in rhythm with devotional songs (bhajans). It starts soon after sunset, around 7 PM in summer and 6 PM in winter, and lasts about 45 minutes; special aartis are held on Tuesdays and festivals.",
+        "hi": "गंगा आरती माँ गंगा की रोज़ होने वाली पूजा है। कई पुजारी भजनों की लय पर बड़े दीपक ऊपर-नीचे घुमाते हैं। यह सूर्यास्त के कुछ देर बाद, गर्मियों में लगभग शाम 7 बजे और सर्दियों में लगभग 6 बजे शुरू होती है और लगभग 45 मिनट चलती है; मंगलवार और त्योहारों पर विशेष आरती होती है।",
+        "source": "Wikipedia - Dashashwamedh Ghat",
+        "url": "https://en.wikipedia.org/wiki/Dashashwamedh_Ghat"
+      }
+    ],
+    "visualCues": "Wide stone steps descending to the Ganga, crowded with pilgrims, wooden umbrellas/platforms and moored boats; at dusk, rows of priests in matching robes on raised platforms swinging large multi-tiered brass lamps, with bells, smoke and floating lamps on the water.",
+    "accessibility": {
+      "en": "Many stone steps down to the river; crowds are very heavy at aarti time. Elderly visitors may prefer to watch from the upper steps or from a boat. Keep belongings safe in the crowd.",
+      "hi": "नदी तक पत्थर की बहुत सी सीढ़ियाँ हैं; आरती के समय बहुत भीड़ होती है। बुज़ुर्ग ऊपर की सीढ़ियों से या नाव से आरती देख सकते हैं। भीड़ में अपना सामान संभालकर रखें।"
+    }
+  },
+  {
+    "id": "kashi-vishwanath",
+    "site": "kashi-vishwanath",
+    "category": "temple",
+    "name": {
+      "en": "Shri Kashi Vishwanath Temple and Dham",
+      "hi": "श्री काशी विश्वनाथ मंदिर और धाम"
+    },
+    "lat": 25.3108,
+    "lng": 83.0106,
+    "tourOrder": 2,
+    "tourMinutes": 90,
+    "priority": 1,
+    "summary": {
+      "en": "One of the twelve Jyotirlingas, the holiest shrines of Lord Shiva, standing near the western bank of the Ganga. The Kashi Vishwanath Dham corridor now links the temple to the river.",
+      "hi": "भगवान शिव के बारह ज्योतिर्लिंगों में से एक, जो सबसे पवित्र शिव मंदिर माने जाते हैं। यह गंगा के पश्चिमी किनारे के पास है। काशी विश्वनाथ धाम कॉरिडोर अब मंदिर को सीधे गंगा से जोड़ता है।"
+    },
+    "history": [
+      {
+        "en": "The present temple building was built by Maharani Ahilyabai Holkar in 1780.",
+        "hi": "आज का मंदिर भवन महारानी अहिल्याबाई होल्कर ने 1780 में बनवाया।",
+        "source": "Wikipedia - Kashi Vishwanath Temple",
+        "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"
+      },
+      {
+        "en": "In 1835, Maharaja Ranjit Singh of the Sikh Empire donated about one tonne of gold to plate the temple's dome and spire.",
+        "hi": "1835 में सिख साम्राज्य के महाराजा रणजीत सिंह ने मंदिर के गुंबद और शिखर पर सोना चढ़ाने के लिए लगभग एक टन सोना दान किया।",
+        "source": "Wikipedia - Kashi Vishwanath Temple",
+        "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"
+      },
+      {
+        "en": "The Kashi Vishwanath Dham corridor, which connects the temple with the Ganga ghats, was inaugurated on 13 December 2021.",
+        "hi": "काशी विश्वनाथ धाम कॉरिडोर, जो मंदिर को गंगा घाटों से जोड़ता है, 13 दिसंबर 2021 को लोकार्पित हुआ।",
+        "source": "Wikipedia - Kashi Vishwanath Temple",
+        "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "The temple's dome and spire are plated with gold.",
+        "hi": "मंदिर के गुंबद और शिखर पर सोने की परत चढ़ी है।",
+        "source": "Wikipedia - Kashi Vishwanath Temple",
+        "url": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple"
+      }
+    ],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "The presiding deity is Lord Shiva as Vishwanatha or Vishweshwara, 'Ruler of the Universe'. The city is also called Kashi, which gives the temple its popular name. It is one of the twelve Jyotirlingas.",
+        "hi": "यहाँ भगवान शिव विश्वनाथ या विश्वेश्वर, यानी 'संसार के स्वामी' रूप में विराजमान हैं। शहर का एक नाम काशी है, इसी से मंदिर का नाम काशी विश्वनाथ पड़ा। यह बारह ज्योतिर्लिंगों में से एक है।",
+        "source": "District Varanasi, Government of Uttar Pradesh",
+        "url": "https://varanasi.nic.in/tourist-place/shri-kashi-vishwanath-temple/"
+      }
+    ],
+    "visualCues": "Gold-plated shikhara (spire) and dome above a white/cream temple, reached through a wide modern sandstone-paved corridor with arcaded buildings that opens towards the Ganga ghats; long queues of devotees.",
+    "accessibility": {
+      "en": "Darshan timings, aarti timings and rules on phones and bags are set by the temple trust and were not verified here; check at the entrance or with the Shri Kashi Vishwanath Temple Trust. Expect security checks, and long queues on festivals.",
+      "hi": "दर्शन का समय, आरती का समय और फ़ोन व बैग के नियम मंदिर ट्रस्ट तय करता है, और यहाँ इनकी पुष्टि नहीं हो सकी; प्रवेश द्वार पर या श्री काशी विश्वनाथ मंदिर न्यास से पता करें। सुरक्षा जाँच होती है, और त्योहारों पर लंबी कतार हो सकती है।"
+    }
+  },
+  {
+    "id": "manikarnika-ghat",
+    "site": "ganga-ghats",
+    "category": "ghat",
+    "name": {
+      "en": "Manikarnika Ghat",
+      "hi": "मणिकर्णिका घाट"
+    },
+    "lat": 25.3109,
+    "lng": 83.0141,
+    "tourOrder": 4,
+    "tourMinutes": 15,
+    "priority": 2,
+    "summary": {
+      "en": "Varanasi's principal cremation ghat and a sacred pilgrimage site. Please visit with respect: stay quiet, keep a distance, do not photograph funerals or mourners, and give way to funeral processions.",
+      "hi": "वाराणसी का मुख्य श्मशान घाट और एक पवित्र तीर्थ। कृपया सम्मान के साथ आएँ: शांत रहें, दूरी बनाए रखें, अंतिम संस्कार या शोक मना रहे परिवारों की फ़ोटो न लें, और शव-यात्रा को रास्ता दें।"
+    },
+    "history": [
+      {
+        "en": "Two of Varanasi's ghats are used exclusively as cremation sites; Manikarnika is the principal one, and Harishchandra Ghat is the other.",
+        "hi": "वाराणसी के दो घाट केवल अंतिम संस्कार के लिए हैं; मणिकर्णिका इनमें मुख्य है, और दूसरा हरिश्चंद्र घाट है।",
+        "source": "Wikipedia - Manikarnika Ghat",
+        "url": "https://en.wikipedia.org/wiki/Manikarnika_Ghat"
+      }
+    ],
+    "architecture": [],
+    "folklore": [
+      {
+        "en": "The ghat's name, 'Manikarnika' (jewelled earring), is explained by several legends. In one, Sati's earring fell here. In the Kashi Khand version, Lord Shiva's earring fell into a kund (pool) dug by Lord Vishnu nearby. Another version says Parvati's earring fell into the well.",
+        "hi": "घाट के नाम 'मणिकर्णिका' (मणि जड़ा कान का कुंडल) के बारे में कई कथाएँ हैं। एक कथा में सती का कुंडल यहाँ गिरा था। काशी खंड के अनुसार भगवान शिव का कुंडल पास के उस कुंड में गिरा, जिसे भगवान विष्णु ने खोदा था। एक और कथा कहती है कि माता पार्वती का कुंडल कुएँ में गिरा।",
+        "label": "legend",
+        "note": {
+          "en": "These are religious legends with different versions, not recorded history.",
+          "hi": "ये अलग-अलग रूपों वाली धार्मिक कथाएँ हैं, दर्ज इतिहास नहीं।"
+        },
+        "source": "Wikipedia - Manikarnika Ghat",
+        "url": "https://en.wikipedia.org/wiki/Manikarnika_Ghat"
+      }
+    ],
+    "devotional": [
+      {
+        "en": "In Hinduism it is believed that the soul attains moksha (liberation) when a person is cremated here. Funeral rites here traditionally use a sacred fire kept by the Dom community, from which the chief mourner lights the pyre.",
+        "hi": "हिंदू धर्म में मान्यता है कि यहाँ अंतिम संस्कार होने पर आत्मा को मोक्ष मिलता है। यहाँ परंपरा से डोम समुदाय द्वारा रखी गई पवित्र अग्नि से मुख्य शोककर्ता चिता को अग्नि देता है।",
+        "source": "Wikipedia - Manikarnika Ghat",
+        "url": "https://en.wikipedia.org/wiki/Manikarnika_Ghat"
+      }
+    ],
+    "visualCues": "Riverside ghat with stacks of firewood, smoke and burning pyres on stone platforms, old buildings blackened by smoke behind; boats moored nearby.",
+    "accessibility": {
+      "en": "Uneven, crowded steps and narrow approach lanes; firewood and smoke around the pyres. Many visitors see it respectfully from a boat on the river instead.",
+      "hi": "ऊबड़-खाबड़, भीड़ वाली सीढ़ियाँ और संकरी गलियाँ; चिताओं के आसपास लकड़ी और धुआँ रहता है। कई लोग इसे सम्मान के साथ नदी से नाव में बैठकर देखते हैं।"
+    }
+  },
+  {
+    "id": "assi-ghat",
+    "site": "ganga-ghats",
+    "category": "ghat",
+    "name": {
+      "en": "Assi Ghat",
+      "hi": "अस्सी घाट"
+    },
+    "lat": 25.2886,
+    "lng": 83.0068,
+    "tourOrder": 1,
+    "tourMinutes": 60,
+    "priority": 1,
+    "summary": {
+      "en": "The southernmost and one of the biggest ghats of Varanasi, where the Assi river meets the Ganga. Known for Subah-e-Banaras, a free sunrise programme of prayer, music and yoga.",
+      "hi": "वाराणसी का सबसे दक्षिणी और सबसे बड़े घाटों में से एक, जहाँ अस्सी नदी गंगा से मिलती है। यहाँ सूर्योदय के समय होने वाला 'सुबह-ए-बनारस' कार्यक्रम प्रसिद्ध है, जिसमें पूजा, संगीत और योग होता है, और यह निःशुल्क है।"
+    },
+    "history": [
+      {
+        "en": "Assi Ghat lies at the confluence of the Assi and Ganga rivers and is the southernmost ghat of the city.",
+        "hi": "अस्सी घाट अस्सी और गंगा नदियों के संगम पर है और शहर का सबसे दक्षिणी घाट है।",
+        "source": "Wikipedia - Assi Ghat",
+        "url": "https://en.wikipedia.org/wiki/Assi_Ghat"
+      }
+    ],
+    "architecture": [],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "Subah-e-Banaras is a daily morning programme that begins before sunrise and lasts about two hours. It includes Vedic chanting, a Vedic yagya, morning raga music and yoga, and is free.",
+        "hi": "'सुबह-ए-बनारस' रोज़ सुबह सूर्योदय से पहले शुरू होने वाला लगभग दो घंटे का कार्यक्रम है। इसमें वैदिक मंत्र-पाठ, वैदिक यज्ञ, सुबह के रागों का संगीत और योग होता है, और यह निःशुल्क है।",
+        "source": "Wikipedia - Assi Ghat",
+        "url": "https://en.wikipedia.org/wiki/Assi_Ghat"
+      },
+      {
+        "en": "Hindus believe that the poet-saint Tulsidas left for his heavenly abode at Assi Ghat.",
+        "hi": "हिंदुओं की मान्यता है कि संत कवि तुलसीदास ने अस्सी घाट पर देह त्यागी थी।",
+        "source": "Wikipedia - Assi Ghat",
+        "url": "https://en.wikipedia.org/wiki/Assi_Ghat"
+      }
+    ],
+    "visualCues": "Broad, open stone ghat at the southern end of the riverfront with wide steps, a raised platform used for morning programmes, small shrines, cafes and boats lined up at the water.",
+    "accessibility": {
+      "en": "Wide, open ghat with stone steps down to the water; less congested than the central ghats. A good starting point for a boat ride northwards along the ghats.",
+      "hi": "खुला और चौड़ा घाट, पानी तक पत्थर की सीढ़ियाँ; बीच के घाटों से कम भीड़। घाटों के साथ उत्तर की ओर नाव की सवारी शुरू करने के लिए अच्छी जगह।"
+    }
+  },
+  {
+    "id": "ganga-boat-ride",
+    "site": "ganga-ghats",
+    "category": "experience",
+    "name": {
+      "en": "Sunrise Boat Ride on the Ganga",
+      "hi": "गंगा में सूर्योदय की नाव सवारी"
+    },
+    "lat": 25.306,
+    "lng": 83.0118,
+    "tourOrder": 5,
+    "tourMinutes": 60,
+    "priority": 1,
+    "summary": {
+      "en": "A dawn boat ride along the ghats is one of Varanasi's best experiences: priests praying and devotees bathing as the ghats glow at sunrise. In the evening, boats are also a calm way to watch the Ganga Aarti.",
+      "hi": "सुबह-सुबह घाटों के किनारे नाव की सवारी वाराणसी का सबसे यादगार अनुभव है: सूर्योदय की रोशनी में चमकते घाट, पूजा करते पुजारी और स्नान करते श्रद्धालु। शाम को नाव से गंगा आरती भी आराम से देखी जा सकती है।"
+    },
+    "history": [
+      {
+        "en": "A morning boat ride on the Ganga past the ghats is a popular attraction for visitors to Varanasi.",
+        "hi": "घाटों के सामने से गंगा में सुबह की नाव सवारी वाराणसी आने वालों का पसंदीदा अनुभव है।",
+        "source": "District Varanasi, Government of Uttar Pradesh",
+        "url": "https://varanasi.nic.in/tourist-place/ganga-ghat/"
+      }
+    ],
+    "architecture": [],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "At dawn you can watch priests praying and devotees bathing in the Ganga as the ghats light up at sunrise.",
+        "hi": "सुबह आप पुजारियों को पूजा करते और श्रद्धालुओं को गंगा स्नान करते देख सकते हैं, जब सूर्योदय से घाट जगमगा उठते हैं।",
+        "source": "Incredible India (Ministry of Tourism) - Varanasi",
+        "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi"
+      }
+    ],
+    "visualCues": "Wooden rowing boats and motor boats on the wide Ganga, with the long curved line of ghats, temples and old buildings along the west bank behind.",
+    "accessibility": {
+      "en": "Boarding is down ghat steps onto a moving boat; ask the boatman for help and wear a life jacket if offered. Fares are not fixed here; agree the price and route before boarding.",
+      "hi": "नाव में घाट की सीढ़ियाँ उतरकर चढ़ना होता है; नाविक से मदद लें और लाइफ़ जैकेट मिले तो पहनें। किराया यहाँ तय नहीं है; बैठने से पहले दाम और रास्ता तय कर लें।"
+    }
+  },
+  {
+    "id": "dhamek-stupa",
+    "site": "sarnath",
+    "category": "stupa",
+    "name": {
+      "en": "Sarnath - Dhamek Stupa",
+      "hi": "सारनाथ - धमेख स्तूप"
+    },
+    "lat": 25.3808,
+    "lng": 83.0245,
+    "tourOrder": 6,
+    "tourMinutes": 60,
+    "priority": 1,
+    "summary": {
+      "en": "Sarnath, about 10 km north-east of Varanasi, is where Gautama Buddha first taught the Dhamma. The massive Dhamek Stupa marks the place of this first teaching.",
+      "hi": "वाराणसी से लगभग 10 किमी उत्तर-पूर्व स्थित सारनाथ वह जगह है जहाँ गौतम बुद्ध ने पहली बार धम्म का उपदेश दिया। विशाल धमेख स्तूप इसी पहले उपदेश के स्थान को दर्शाता है।"
+    },
+    "history": [
+      {
+        "en": "The deer park at Sarnath is where Gautama Buddha first taught the Dhamma.",
+        "hi": "सारनाथ का मृगदाव (हिरण उद्यान) वह जगह है जहाँ गौतम बुद्ध ने पहली बार धम्म सिखाया।",
+        "source": "District Varanasi, Government of Uttar Pradesh",
+        "url": "https://varanasi.nic.in/tourist-place/sarnath/"
+      },
+      {
+        "en": "Here the Buddha gave his first teaching, the Dhammacakkappavattana Sutta, to his five first disciples, an event called the First Turning of the Wheel of Dharma. Sarnath is one of the four main Buddhist pilgrimage sites, with Lumbini, Bodh Gaya and Kushinagar.",
+        "hi": "यहाँ बुद्ध ने अपने पाँच पहले शिष्यों को पहला उपदेश, 'धम्मचक्कपवत्तन सुत्त', दिया। इस घटना को 'धर्मचक्र प्रवर्तन' कहते हैं। लुंबिनी, बोधगया और कुशीनगर के साथ सारनाथ बौद्ध धर्म के चार प्रमुख तीर्थों में से एक है।",
+        "source": "Wikipedia - Sarnath",
+        "url": "https://en.wikipedia.org/wiki/Sarnath"
+      },
+      {
+        "en": "The present Dhamek Stupa dates to the 5th-6th century AD (Gupta era); its base may survive from an earlier structure of Emperor Ashoka's time.",
+        "hi": "आज का धमेख स्तूप 5वीं-6वीं सदी ई. (गुप्त काल) का है; इसका आधार शायद सम्राट अशोक के समय के पुराने ढाँचे का बचा हुआ हिस्सा है।",
+        "source": "Wikipedia - Dhamek Stupa",
+        "url": "https://en.wikipedia.org/wiki/Dhamek_Stupa"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "A solid cylinder of brick and stone about 43 m high and 28 m in diameter. Its stone facing carries Gupta-era floral carvings, with carved human and bird figures and Brahmi inscriptions.",
+        "hi": "ईंट और पत्थर का ठोस बेलनाकार स्तूप, लगभग 43 मीटर ऊँचा और 28 मीटर चौड़ा (व्यास)। इसकी पत्थर की परत पर गुप्त काल की फूलों वाली नक्काशी, मनुष्यों और पक्षियों की आकृतियाँ और ब्राह्मी लिपि के अभिलेख हैं।",
+        "source": "Wikipedia - Dhamek Stupa",
+        "url": "https://en.wikipedia.org/wiki/Dhamek_Stupa"
+      }
+    ],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "Sarnath is one of the most sacred Buddhist sites in the world, where Lord Buddha gave his first sermon after attaining enlightenment.",
+        "hi": "सारनाथ दुनिया के सबसे पवित्र बौद्ध स्थलों में से एक है, जहाँ भगवान बुद्ध ने ज्ञान प्राप्ति के बाद अपना पहला उपदेश दिया।",
+        "source": "Incredible India (Ministry of Tourism) - Varanasi",
+        "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi"
+      }
+    ],
+    "visualCues": "A huge, squat cylindrical brick-and-stone stupa with a carved stone lower drum and plain brick upper part, standing in green lawns among low brick ruins; monks and pilgrims walking around it.",
+    "accessibility": {
+      "en": "Level lawns and paths around the stupa. Timings and entry fee for the excavated site were not verified here; check at the counter.",
+      "hi": "स्तूप के चारों ओर समतल लॉन और रास्ते। खुदाई वाले परिसर का समय और प्रवेश शुल्क यहाँ पक्का नहीं हो सका; टिकट खिड़की पर पता करें।"
+    }
+  },
+  {
+    "id": "sarnath-museum",
+    "site": "sarnath",
+    "category": "museum",
+    "name": {
+      "en": "Sarnath Museum - Lion Capital of Ashoka",
+      "hi": "सारनाथ संग्रहालय - अशोक का सिंह शीर्ष"
+    },
+    "lat": 25.3795,
+    "lng": 83.0235,
+    "tourOrder": 7,
+    "tourMinutes": 45,
+    "priority": 2,
+    "summary": {
+      "en": "The archaeological museum at Sarnath displays the Lion Capital that topped Emperor Ashoka's pillar here, which became the State Emblem of India.",
+      "hi": "सारनाथ के पुरातत्व संग्रहालय में अशोक स्तंभ का सिंह शीर्ष रखा है, जो भारत का राजकीय प्रतीक बना।"
+    },
+    "history": [
+      {
+        "en": "Emperor Ashoka raised a pillar at Sarnath around 250 BCE, topped by a lion capital. The capital is displayed in the Sarnath Archaeological Museum and became India's State Emblem.",
+        "hi": "सम्राट अशोक ने लगभग 250 ईसा पूर्व सारनाथ में एक स्तंभ खड़ा किया, जिसके ऊपर सिंहों वाला शीर्ष था। यह शीर्ष सारनाथ पुरातत्व संग्रहालय में रखा है और भारत का राजकीय प्रतीक बना।",
+        "source": "Wikipedia - Sarnath",
+        "url": "https://en.wikipedia.org/wiki/Sarnath"
+      }
+    ],
+    "architecture": [],
+    "folklore": [],
+    "devotional": [],
+    "visualCues": "Polished sandstone sculpture of four lions standing back to back on a round abacus carved with a wheel (chakra) and animals, displayed in a museum hall.",
+    "accessibility": {
+      "en": "Museum timings, closed day and fee were not verified here; check at the counter.",
+      "hi": "संग्रहालय का समय, बंद रहने का दिन और शुल्क यहाँ पक्के नहीं हो सके; टिकट खिड़की पर पता करें।"
+    }
+  },
+  {
+    "id": "ramnagar-fort",
+    "site": "ramnagar-fort",
+    "category": "fort",
+    "name": {
+      "en": "Ramnagar Fort",
+      "hi": "रामनगर किला"
+    },
+    "lat": 25.2706,
+    "lng": 83.0249,
+    "tourOrder": 8,
+    "tourMinutes": 75,
+    "priority": 2,
+    "summary": {
+      "en": "A creamy Chunar-sandstone fort on the eastern bank of the Ganga, opposite Tulsi Ghat, associated with the Kashi Naresh (Maharaja of Varanasi). Its museum shows vintage cars, palanquins, arms, costumes and an astronomical clock.",
+      "hi": "गंगा के पूर्वी किनारे पर, तुलसी घाट के सामने, चुनार के हल्के पीले बलुआ पत्थर से बना किला, जो काशी नरेश (वाराणसी के महाराजा) से जुड़ा है। इसके संग्रहालय में पुरानी कारें, पालकियाँ, हथियार, पोशाकें और एक खगोलीय घड़ी है।"
+    },
+    "history": [
+      {
+        "en": "The fort is generally attributed to Kashi Naresh Maharaja Balwant Singh, around 1750.",
+        "hi": "यह किला आम तौर पर काशी नरेश महाराजा बलवंत सिंह का बनवाया माना जाता है, लगभग 1750 में।",
+        "source": "Wikipedia - Ramnagar Fort",
+        "url": "https://en.wikipedia.org/wiki/Ramnagar_Fort"
+      },
+      {
+        "en": "In the 18th century the fort used to serve as the treasury for a military base.",
+        "hi": "18वीं सदी में यह किला एक सैन्य अड्डे का ख़ज़ाना हुआ करता था।",
+        "source": "Incredible India (Ministry of Tourism) - Varanasi",
+        "url": "https://www.incredibleindia.gov.in/en/uttar-pradesh/varanasi"
+      }
+    ],
+    "architecture": [
+      {
+        "en": "Built of creamy Chunar sandstone. The Saraswati Bhawan museum in the former Durbar Hall holds vintage American cars, jewelled sedan chairs, ivory work, medieval costumes, silver elephant saddles, an armoury of swords and guns, old manuscripts and an astronomical clock.",
+        "hi": "चुनार के हल्के पीले बलुआ पत्थर से बना। पुराने दरबार हॉल में बने सरस्वती भवन संग्रहालय में पुरानी अमेरिकी कारें, रत्नजड़ित पालकियाँ, हाथीदाँत का काम, पुरानी पोशाकें, चाँदी के हाथी-हौदे, तलवारों और बंदूक़ों का शस्त्रागार, पुरानी पांडुलिपियाँ और एक खगोलीय घड़ी है।",
+        "source": "Wikipedia - Ramnagar Fort",
+        "url": "https://en.wikipedia.org/wiki/Ramnagar_Fort"
+      }
+    ],
+    "folklore": [],
+    "devotional": [
+      {
+        "en": "During the month-long Ramlila, which enacts episodes of the Ramayana and ends with Dussehra, the palace is decorated, and the Maharaja traditionally leads a procession on a decorated elephant.",
+        "hi": "महीने भर चलने वाली रामलीला के दौरान, जिसमें रामायण के प्रसंग दिखाए जाते हैं और जो दशहरे पर पूरी होती है, महल सजाया जाता है और परंपरा से महाराजा सजे हुए हाथी पर शोभायात्रा की अगुवाई करते हैं।",
+        "source": "Wikipedia - Ramnagar Fort",
+        "url": "https://en.wikipedia.org/wiki/Ramnagar_Fort"
+      }
+    ],
+    "visualCues": "Massive cream/buff sandstone fort walls rising straight from the riverbank, with balconies, jharokhas and domed pavilions, seen from the Ganga.",
+    "accessibility": {
+      "en": "Museum timings and entry fee were not verified here; check at the counter. It is across the river, about 14 km from Varanasi by road.",
+      "hi": "संग्रहालय का समय और प्रवेश शुल्क यहाँ पक्के नहीं हो सके; टिकट खिड़की पर पता करें। यह नदी के उस पार है, सड़क से वाराणसी से लगभग 14 किमी।"
+    }
+  }
+]
