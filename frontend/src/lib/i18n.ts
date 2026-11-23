@@ -81,6 +81,26 @@ const STRINGS = {
   openExplore: { en: "See recommendations", hi: "सुझाव देखें" },
   callHelp: { en: "Emergency help", hi: "आपातकालीन मदद" },
   error: { en: "Something went wrong. Please try again.", hi: "कुछ गड़बड़ हुई। कृपया फिर से कोशिश करें।" },
+  errServer: {
+    en: "Can't reach the Saathi server. Check your connection, or that the server is running, and try again.",
+    hi: "Saathi सर्वर से संपर्क नहीं हो पा रहा। इंटरनेट या सर्वर चालू है या नहीं, जाँचें और फिर कोशिश करें।",
+  },
+  errBusy: {
+    en: "The AI is busy right now. Please wait a minute and try again.",
+    hi: "AI अभी व्यस्त है। कृपया एक मिनट रुककर फिर कोशिश करें।",
+  },
+  errAi: {
+    en: "The AI couldn't process this photo. Please try again or use another photo.",
+    hi: "AI इस फ़ोटो को प्रोसेस नहीं कर सका। फिर से या दूसरी फ़ोटो से कोशिश करें।",
+  },
+  errNoAi: {
+    en: "Photo recognition is not set up on this server (no AI key).",
+    hi: "इस सर्वर पर फ़ोटो पहचान चालू नहीं है (AI key नहीं है)।",
+  },
+  errTooLarge: {
+    en: "This photo is too large. Please use a smaller photo.",
+    hi: "यह फ़ोटो बहुत बड़ी है। कृपया छोटी फ़ोटो इस्तेमाल करें।",
+  },
   // lens
   lensTitle: { en: "Point your camera and ask", hi: "कैमरा दिखाइए, सवाल पूछिए" },
   lensHint: {

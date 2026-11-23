@@ -111,7 +111,12 @@ export interface VisionResult {
 
 /** Shrink the photo before upload: faster on weak networks, and plenty for recognition. */
 export async function compressImage(file: File, maxSide = 1024): Promise<Blob> {
-  const bmp = await createImageBitmap(file);
+  let bmp: ImageBitmap;
+  try {
+    bmp = await createImageBitmap(file);
+  } catch {
+    return file; // format the browser can't decode (e.g. HEIC): send the original, the server checks size
+  }
   const scale = Math.min(1, maxSide / Math.max(bmp.width, bmp.height));
   const canvas = document.createElement("canvas");
   canvas.width = Math.round(bmp.width * scale);
@@ -129,7 +134,7 @@ export async function recognise(params: {
   lng?: number;
 }): Promise<VisionResult> {
   const fd = new FormData();
-  fd.append("image", params.image, "photo.jpg");
+  fd.append("image", params.image, params.image.type === "image/jpeg" ? "photo.jpg" : "photo");
   fd.append("city", params.city);
   fd.append("lang", params.lang);
   fd.append("mode", params.mode);
@@ -137,9 +142,18 @@ export async function recognise(params: {
     fd.append("lat", String(params.lat));
     fd.append("lng", String(params.lng));
   }
-  const r = await fetch("/api/vision", { method: "POST", body: fd });
+  let r: Response;
+  try {
+    r = await fetch("/api/vision", { method: "POST", body: fd });
+  } catch {
+    throw new Error("network");
+  }
   if (!r.ok) throw new Error(String(r.status));
-  return (await r.json()) as VisionResult;
+  try {
+    return (await r.json()) as VisionResult;
+  } catch {
+    throw new Error("network"); // e.g. an HTML error page from a proxy when the backend is down
+  }
 }
 
 /* ------------------------------------------------------------ offline pack */

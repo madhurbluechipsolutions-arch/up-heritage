@@ -40,9 +40,14 @@ export default function LensScreen({ bundle, userPos, onAction, onOpenPoi }: Pro
       const r = await recognise({ image, city, lang, mode, lat: userPos?.lat, lng: userPos?.lng });
       setResult(r);
       if (r.answer) setAnswer(r.answer);
-      if (r.status === "error" || r.status === "unavailable") setError(t("error", lang));
-    } catch {
-      setError(t("error", lang));
+      if (r.status === "unavailable") setError(t("errNoAi", lang));
+      else if (r.status === "error") setError(t(r.notice === "rate_limited" ? "errBusy" : "errAi", lang));
+    } catch (e) {
+      const code = e instanceof Error ? e.message : "";
+      setError(
+        t(code === "413" ? "errTooLarge" : code === "network" || /^5\d\d$/.test(code) ? "errServer" : "error", lang),
+      );
+      console.error("Lens upload failed:", e);
     } finally {
       setBusy(false);
     }
@@ -53,6 +58,8 @@ export default function LensScreen({ bundle, userPos, onAction, onOpenPoi }: Pro
     try {
       setAnswer(await ask({ city, question: `What is this (${poiName(poiId)})? Explain what I am looking at.`, lang, mode, history: [], poiId }));
       setResult((r) => (r ? { ...r, status: "matched", poiId } : r));
+    } catch {
+      setError(t("error", lang));
     } finally {
       setBusy(false);
     }
