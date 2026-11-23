@@ -211,6 +211,8 @@ def _cache_put(key: str, value: dict):
 
 def log_event(kind: str, **data):
     """Anonymous usage log (no personal data) - the feed for a future insights dashboard."""
+    if kind == "llm_error":  # also to stdout, so hosted logs (e.g. Render's Logs tab) show the reason
+        print(f"[llm_error] {data.get('error', '')}", flush=True)
     try:
         config.LOG_DIR.mkdir(exist_ok=True)
         with (config.LOG_DIR / "events.jsonl").open("a", encoding="utf-8") as f:

@@ -40,9 +40,18 @@ class AskRequest(BaseModel):
 
 
 @app.get("/api/health")
-def health():
-    return {"ok": True, "provider": llm.provider_name(), "model": llm.model_name(),
-            "cities": [c["id"] for c in store.cities()]}
+async def health(check: bool = False):
+    out = {"ok": True, "provider": llm.provider_name(), "model": llm.model_name(),
+           "cities": [c["id"] for c in store.cities()]}
+    if check:  # /api/health?check=1 makes one tiny AI call per model chain and reports the error, if any
+        schema = {"type": "object", "properties": {"ok": {"type": "boolean"}}, "required": ["ok"]}
+        for label, vision in (("text", False), ("vision", True)):
+            try:
+                await llm.generate_json("Reply with JSON.", 'Return {"ok": true}.', schema, vision=vision)
+                out[f"llm_{label}"] = "ok"
+            except llm.LLMError as e:
+                out[f"llm_{label}"] = f"{type(e).__name__}: {str(e)[:400]}"
+    return out
 
 
 @app.post("/api/ask")
